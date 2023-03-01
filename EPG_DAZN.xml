@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+ 
+<channel id="DAZN_F1.es">
+  <display-name>DAZN F1</display-name>
+  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" width="360" height="270" />
+</channel> 
+
+</tv>
