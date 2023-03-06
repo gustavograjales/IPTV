@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U
 #EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Sport" tvg-shift="-6",DAZN F1
 https://epg.pw/stream/9d49f2b4bcfd89c71e7c8c017ecc5bd288862258c58de1b696d0aeef18c73d8f.ctv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1" tvg-logo="" group-title="Sport",DAZN F1
