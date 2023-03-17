@@ -1,0 +1,44 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Sport" tvg-shift="-6",DAZN F1
+https://epg.pw/stream/9d49f2b4bcfd89c71e7c8c017ecc5bd288862258c58de1b696d0aeef18c73d8f.ctv
+
+#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Sports" tvg-shift="-6",DAZN 2
+https://epg.pw/stream/a27a7d66d041a9297146c263e5f18d26b6605e1916b7173491132a83b1292589.ctv
+#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Sports" tvg-shift="-6",DAZN 2
+https://epg.pw/stream/be9c788774f6c42bd7116d5dd1dd6b868ea9c8cc0c67940d368c757f60b60ee9.ctv
+#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Sports" tvg-shift="-6",DAZN 2
+https://epg.pw/stream/f5d5e39b3826a7c2ab1b9d06cab2970abc79ae462265eca8562272ca8dd88b51.ctv
+
+#EXTINF:-1 tvg-id="DAZN3(src01).es" tvg-name="DAZN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736" group-title="Sports" tvg-shift="-6",DAZN 3
+https://epg.pw/stream/deee12a453d2d56e6c8ecb2ab81d27d6285f4648c1472c6e8eaf1c1805a0abf5.ctv
+#EXTINF:-1 tvg-id="DAZN3(src01).es" tvg-name="DAZN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736" group-title="Sports" tvg-shift="-6",DAZN 3
+https://epg.pw/stream/9d49f2b4bcfd89c71e7c8c017ecc5bd288862258c58de1b696d0aeef18c73d8f.ctv
+
+#EXTINF:-1 tvg-id="M.Formula1.es" tvg-name="Movistar F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="Sport" tvg-shift="-6",Movistar F1
+https://epg.pw/stream/ddc67387555d76b3b3b4115026391943446f72093c784d22299e2f4c4639650c.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/0f776f763e3ea071610e22619dc36c2a6465403a4b4936fb0f7060d0884004ae.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/ea2d173f0869e3dd0246715c42947414370e81fa8bb15cc02f91ef4e86a9a25b.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/cc582d484aa7e81fd2ca781ac43f3d500a2e040c3f4ec3837fc260fa51c08a33.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/384b185e7b87dff9633affd7c0b6c75046a9b5be914f041e5d2726d5a8f4cab7.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/4b5703d0cb1a289e60ff4b517fbec81b46cf19f91fe7e59c6bc0ffa5a5a74c18.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/0073154b46b41b075d01f1dab15630db41d932f6c63b0e7c11c5f8a3416d2c9b.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/9471d26a7b50a68dbfd8107d612cdec73d7f8ccca25d48bc99d5e5c193176ca4.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/75040525221b05f4e352ea622386c48d84813ec5f199b823313a005dde22f26c.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/13c61e3449f8b94dd0823c803557f2ff27b5baa4e5a45d13917423bda998268f.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/bb22467f979fa42965449fc9afab70903f68e6ffbae1c297a12ae788f5939717.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/3c0aef209e2d6c1b6252e0ecebf7d031aeb8eb61d3b04384a6df11616328ab28.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/66f1277e4c6407fa17e7f0dbaaf2d2a44ae3609ddd03fbf33ab1a1f02aaa42b7.ctv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 Spain" tvg-logo="" group-title="Sport",Movistar F1 Spain
+https://epg.pw/stream/f13c90ebb84a73e6eb4c4a14b03f1daf985a0d25af2b6df7bb71dc6032eaa6c9.m3u8
