@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/gustavograjales/IPTV/main/EPG.xml"
 
-#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Sports" tvg-shift="-6",DAZN F1
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Sports" tvg-shift="-6" tvg-logo="https://raw.githubusercontent.com/gustavograjales/IPTV/main/Images/DaznF1.png", DAZN F1
 https://epg.pw/stream/c6c7bf97e68c0a46a4a7738561c4819418fb5d5158742c3aea4bc8e608f95278.ctv
 
-#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Sports" tvg-shift="-6" tvg-logo="https://raw.githubusercontent.com/gustavograjales/IPTV/main/Images/DaznF1.png", DAZN F1
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" group-title="Sports" tvg-shift="-6", DAZN F1
 http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/139.m3u8
