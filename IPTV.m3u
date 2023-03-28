@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/gustavograjales/IPTV/main/EPG.xml,http://m3u4u.com/epg/4z2xnjeerwudq1m1yv15"
 
 
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Deportes",DAZN F1
+https://github.com/gustavograjales/IPTV/blob/main/DAZNF1.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="40 Y 20" tvg-logo="" group-title="24/7",40 Y 20
 http://regioplay.xyz/php/SR_REGIO_813023_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alebrije TV" tvg-logo="" group-title="24/7",Alebrije TV
@@ -107,10 +110,6 @@ https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=576&f=.
 https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="Deportes",Claro Sports (HD)
 https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
-
-#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Deportes",DAZN F1
-https://epg.pw/stream/d2f70c2e58ad584de5733962ae78299ae0b12698cdc63f575b09da86274bb720.ctv
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deportes" tvg-logo="" group-title="Deportes",Deportes
 http://regioplay.xyz/php/SR_REGIO_813023_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="Deportes",ESPN
