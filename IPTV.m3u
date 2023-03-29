@@ -1,4 +1,4 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:0 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/gustavograjales/IPTV/main/Images/DaznF1.png",DAZN F1
-https://raw.githubusercontent.com/gustavograjales/IPTV/main/DAZNF1.m3u
+https://raw.githubusercontent.com/gustavograjales/IPTV/main/DAZNF1.m3u8
