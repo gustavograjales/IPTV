@@ -2,6 +2,3 @@
 
 #EXTINF:0 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/gustavograjales/IPTV/main/Images/DaznF1.png",DAZN F1
 https://raw.githubusercontent.com/gustavograjales/IPTV/main/DAZNF1.m3u8
-
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1",DAZN F1
-http://m3u4u.com/m3u/26p5n3mm1zfq13d9nv7j
