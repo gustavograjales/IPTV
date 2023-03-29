@@ -1,6 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1,DAZN F1
+https://iptvcat.com/my_list/s/c4273570d950d210533b9cbe0aac27d7.m3u8
+#EXTINF:-1,DAZN F1
+https://iptvcat.com/my_list/s/25c0bbe4ef9782ee9c386bd032892ec9.m3u8
+
+#EXTINF:-1,DAZN F1
 https://epg.pw/stream/d2f70c2e58ad584de5733962ae78299ae0b12698cdc63f575b09da86274bb720.ctv
 #EXTINF:-1,DAZN F1
 https://epg.pw/stream/c6c7bf97e68c0a46a4a7738561c4819418fb5d5158742c3aea4bc8e608f95278.ctv
