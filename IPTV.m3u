@@ -3,5 +3,5 @@
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://gustavograjales.github.io/IPTV/Images/DaznF1.png",DAZN F1
 https://gustavograjales.github.io/IPTV/Lists/DAZNF1.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://gustavograjales.github.io/IPTV/Images/DaznF1.png",DAZN F1 Raw
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1 Raw" tvg-logo="https://gustavograjales.github.io/IPTV/Images/DaznF1.png",DAZN F1 Raw
 https://raw.githubusercontent.com/gustavograjales/IPTV/main/Lists/DAZNF1.m3u8
