@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/gustavograjales/IPTV/main/EPG.xml,http://m3u4u.com/epg/4z2xnjeerwudq1m1yv15"
 
-#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/gustavograjales/IPTV/main/Images/DaznF1.png" group-title="Deportes",DAZN F1
-https://raw.githubusercontent.com/gustavograjales/IPTV/main/DAZNF1.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/gustavograjales/IPTV/main/Images/DaznF1.png",DAZN F1
+https://epg.pw/stream/70c478fd74fc0ccbc7efc698c772aadc6288fe13c0a5be06aed583dfd4dcdfd4.ctv
