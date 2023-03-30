@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/195840
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
