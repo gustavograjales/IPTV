@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="AR" tvg-logo="" group-title="Sport",FOX Sports Premium
+#EXTINF:0,DAZN F1
+#EXTVLCOPT:network-caching=1000
 http://xtra.fireottplus.com:2052/017458648389/407609858756/147659?checkedby:iptvcat.com
