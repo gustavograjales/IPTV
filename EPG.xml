@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-
-<tv source-info-name="" date="20230317">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
  
 <channel id="DAZN_F1.es">
   <display-name>DAZN F1</display-name>
@@ -14,7 +12,13 @@
 <channel id="DAZNF1.es">
  <display-name>DAZN F1</display-name>
  <icon src="https://i.imgur.com/yFCr5XX.png"/>
- <url>https://movistarplus.es</url>
+ <url>http://www.movistarplus.es</url>
+</channel>
+ 
+<channel id="DAZN F1 HD">
+ <display-name lang="es">DAZN F1</display-name>
+ <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" />
+ <url>http://www.movistarplus.es</url>
 </channel>
 
 </tv>
