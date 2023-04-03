@@ -20,5 +20,1041 @@
  <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" />
  <url>http://www.movistarplus.es</url>
 </channel>
+ 
+ <programme start="20230403004500 +0200" stop="20230403030000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Australia: Carrera </title>
+    <desc lang="es"> | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4088394" />
+  </programme>
+  <programme start="20230403030000 +0200" stop="20230403040000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Australia: Post de la Fórmula 1 </title>
+    <desc lang="es"> | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4088398" />
+  </programme>
+  <programme start="20230403043500 +0200" stop="20230403063000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Bélgica: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013685" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403063000 +0200" stop="20230403083000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Francia: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013407" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403083000 +0200" stop="20230403091000 +0200" channel="DAZN F1">
+    <title lang="es">Fuera de Pista (T2021): Minutos trágicos, los milagros en la F1 </title>
+    <desc lang="es">| ★★★★☆ | +Tp | 2021 | España | Deportes, Programa. 
+Argumento: Programa de reportajes vinculado a la actualidad de cada uno de los Grandes Premios donde repasamos los aspectos más destacables de la historia de la Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899624" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230403091000 +0200" stop="20230403111000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2021): GP de Portugal: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3911110" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403111000 +0200" stop="20230403113000 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Italia </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230403113000 +0200" stop="20230403132500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Italia: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027712" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403132500 +0200" stop="20230403134000 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Hungría </title>
+    <desc lang="es">| ★☆☆☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <star-rating system="ES">
+      <value>★☆☆☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230403134000 +0200" stop="20230403155000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Hungría: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013711" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403155000 +0200" stop="20230403164500 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2022): Sainz. Contra todo. Contra todos </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230403164500 +0200" stop="20230403184000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Australia: Previo Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4088392" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403184000 +0200" stop="20230403210000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Australia: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4088394" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403210000 +0200" stop="20230403211500 +0200" channel="DAZN F1">
+    <title lang="es">Código F1 (T2023): Australia </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1714220V2180408" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230403211500 +0200" stop="20230403214500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2023): Descubriendo a Aston Martin </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230403214500 +0200" stop="20230403234000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Baréin: Previo Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4082021" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230403234000 +0200" stop="20230404001000 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): Las nuevas fuerzas G </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404001000 +0200" stop="20230404002500 +0200" channel="DAZN F1">
+    <title lang="es">Código F1 (T2023): Australia </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1714220V2180408" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404002500 +0200" stop="20230404022500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2021): GP de Turquía: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3951299" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404022500 +0200" stop="20230404025000 +0200" channel="DAZN F1">
+    <title lang="es">Fuera de Pista (T2021): Imola, Circuito de leyenda </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2021 | España | Deportes, Programa. 
+Argumento: Programa de reportajes vinculado a la actualidad de cada uno de los Grandes Premios donde repasamos los aspectos más destacables de la historia de la Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899624" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404025000 +0200" stop="20230404034100 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Emilia Romagna: Sprint </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995622" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404034100 +0200" stop="20230404054500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Emilia Romagna: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995620" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404054500 +0200" stop="20230404060000 +0200" channel="DAZN F1">
+    <title lang="es">Código F1 (T2023): Australia </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1714220V2180408" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404060000 +0200" stop="20230404081500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Miami: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: La Formula 1 llega por primera vez a Florida para la disputa de la quinta prueba del campenato del mundo en el Autódromo Internacional de Miami. Un trazado alrededor del Hard Rock Stadium. Max Verstappen fue el ganador de la anterior prueba en Monza y es segundo en la clasificación por detrás del Ferrari de Charles Leclerc. Carlos Sainz es quinto y Fernando Alonso ocupa la decimoquinta posición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995452" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404081500 +0200" stop="20230404084000 +0200" channel="DAZN F1">
+    <title lang="es">Fuera de Pista (T2021): Barcelona, la ciudad de la F1 </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2021 | España | Deportes, Programa. 
+Argumento: Programa de reportajes vinculado a la actualidad de cada uno de los Grandes Premios donde repasamos los aspectos más destacables de la historia de la Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899624" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404084000 +0200" stop="20230404104500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de España: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Sexta prueba de la temporada en el Circuit de Barcelona-Catalunya que se celebra por 32º vez de forma consecutiva. Max Verstappen ha ganado las dos últimas carreras y tres en total en lo que llevamos de campeonato. Aún así, Charles Leclerc lidera la clasificación con 19 puntos de ventaja sobre el neerlandés de Red Bull. Carlos Sainz espera en casa lograr la primera victoria de su carreras, mientras Fernando Alonso quiere conseguir mejores resultados que las últimas carreras. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995425" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404104500 +0200" stop="20230404110200 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Azerbaiyán </title>
+    <desc lang="es">| ★★★★☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404110200 +0200" stop="20230404130500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Azerbaiyán: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013186" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404130500 +0200" stop="20230404132000 +0200" channel="DAZN F1">
+    <title lang="es">Código F1 (T2023): Azerbaiyán </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1714755V2180409" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404132000 +0200" stop="20230404134500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): La Generación Z de la F1 </title>
+    <desc lang="es">| ★★★★★ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404134500 +0200" stop="20230404143700 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Brasil: Sprint </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4037541" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404143700 +0200" stop="20230404164600 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Brasil: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4037537" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404164600 +0200" stop="20230404171500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): George Russell, líder o escudero </title>
+    <desc lang="es">| ★☆☆☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <star-rating system="ES">
+      <value>★☆☆☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404171500 +0200" stop="20230404200000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Singapur: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027726" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404200000 +0200" stop="20230404210000 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2023): Destronar al Rey </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404210000 +0200" stop="20230404211500 +0200" channel="DAZN F1">
+    <title lang="es">Las Radios de F1 (T2023): Australia </title>
+    <desc lang="es"> | +Tp | 2023 | España | Deportes, Programa. 
+Argumento: Rememoramos cada momento de la carrera desde un nuevo punto de vista: así transcurren desde las radios de los diferentes monoplazas los Grandes Premios de Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1714757V2185352" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230404211500 +0200" stop="20230404230000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Japón: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027740" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230404230000 +0200" stop="20230405010000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Arabia Saudi: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4084511" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405010000 +0200" stop="20230405012000 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Países Bajos </title>
+    <desc lang="es">| ★★☆☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <star-rating system="ES">
+      <value>★★☆☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405012000 +0200" stop="20230405033000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Países Bajos: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4031258" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405033000 +0200" stop="20230405040000 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2023): Fichajes fiasco </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405040000 +0200" stop="20230405060000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Bélgica: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013685" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405060000 +0200" stop="20230405062000 +0200" channel="DAZN F1">
+    <title lang="es">Fuera de Pista (T2021): La nobleza en la F1 </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2021 | España | Deportes, Programa. 
+Argumento: Programa de reportajes vinculado a la actualidad de cada uno de los Grandes Premios donde repasamos los aspectos más destacables de la historia de la Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899624" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405062000 +0200" stop="20230405083500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Mónaco: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995438" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405083500 +0200" stop="20230405091000 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): Charles Leclerc. El príncipe de Mónaco </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405091000 +0200" stop="20230405093000 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Estados Unidos </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405093000 +0200" stop="20230405114500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Estados Unidos: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027754" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405114500 +0200" stop="20230405121500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): Fórmula 1: Misión (im)posible </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405121500 +0200" stop="20230405141000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2021): GP de Catar: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3964243" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405141000 +0200" stop="20230405144500 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2023): Las escuderías de Alonso </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405144500 +0200" stop="20230405150500 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Canadá </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405150500 +0200" stop="20230405171500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Canadá: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013373" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405171500 +0200" stop="20230405174500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2023): Fichajes fiasco </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405174500 +0200" stop="20230405200000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Hungría: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013711" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405200000 +0200" stop="20230405210000 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2022): Sainz. Contra todo. Contra todos </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405210000 +0200" stop="20230405211500 +0200" channel="DAZN F1">
+    <title lang="es">Las Fabregalecciones </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230405211500 +0200" stop="20230405233000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Gran Bretaña: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013387" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230405233000 +0200" stop="20230406013000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2021): GP de Rusia: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3943536" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406013000 +0200" stop="20230406014500 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): México </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406014500 +0200" stop="20230406040000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de México: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4037523" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406040000 +0200" stop="20230406060000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Italia: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027712" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406060000 +0200" stop="20230406063500 +0200" channel="DAZN F1">
+    <title lang="es">Fuera de Pista (T2021): El legado del Kaiser </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2021 | España | Deportes, Programa. 
+Argumento: Programa de reportajes vinculado a la actualidad de cada uno de los Grandes Premios donde repasamos los aspectos más destacables de la historia de la Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899624" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406063500 +0200" stop="20230406085000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Miami: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: La Formula 1 llega por primera vez a Florida para la disputa de la quinta prueba del campenato del mundo en el Autódromo Internacional de Miami. Un trazado alrededor del Hard Rock Stadium. Max Verstappen fue el ganador de la anterior prueba en Monza y es segundo en la clasificación por detrás del Ferrari de Charles Leclerc. Carlos Sainz es quinto y Fernando Alonso ocupa la decimoquinta posición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995452" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406085000 +0200" stop="20230406091000 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): La otra cara de los pilotos </title>
+    <desc lang="es">| ★★★★★ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406091000 +0200" stop="20230406092000 +0200" channel="DAZN F1">
+    <title lang="es">Las Radios de F1 (T2023): Barein </title>
+    <desc lang="es"> | +Tp | 2023 | España | Deportes, Programa. 
+Argumento: Rememoramos cada momento de la carrera desde un nuevo punto de vista: así transcurren desde las radios de los diferentes monoplazas los Grandes Premios de Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1700092V2185350" />
+    <country lang="es">España</country>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406092000 +0200" stop="20230406113000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Países Bajos: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4031258" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406113000 +0200" stop="20230406121500 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2022): 2005, El año que cambió nuestras vidas </title>
+    <desc lang="es">| ★★★★☆ | +Tp | 2022 | Deportes, Motor. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406121500 +0200" stop="20230406143000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Abu Dabi: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4037551" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406143000 +0200" stop="20230406151500 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2021): Hamilton - Verstappen, un mundial de infarto </title>
+    <desc lang="es">| ★★★★☆ | +Tp | 2022 | Deportes, Motor. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899727" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406151500 +0200" stop="20230406172000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Baréin: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4082025" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406172000 +0200" stop="20230406174500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2023): Descubriendo a Aston Martin </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406174500 +0200" stop="20230406194000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Arabia Saudi: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4084511" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406194000 +0200" stop="20230406201300 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): Charles Leclerc. El príncipe de Mónaco </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406201300 +0200" stop="20230406203000 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Canadá </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406203000 +0200" stop="20230406224500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Canadá: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013373" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230406224500 +0200" stop="20230406234500 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2023): Destronar al Rey </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230406234500 +0200" stop="20230407013000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Japón: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027740" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407013000 +0200" stop="20230407014500 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Singapur </title>
+    <desc lang="es">| ★★★★☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230407014500 +0200" stop="20230407043000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Singapur: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027726" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407043000 +0200" stop="20230407053000 +0200" channel="DAZN F1">
+    <title lang="es">Fuera de Pista (T2021): Minutos trágicos, inmortales </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2021 | España | Deportes, Programa. 
+Argumento: Programa de reportajes vinculado a la actualidad de cada uno de los Grandes Premios donde repasamos los aspectos más destacables de la historia de la Fórmula 1. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899624" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230407053000 +0200" stop="20230407062100 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Emilia Romagna: Sprint </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995622" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407062100 +0200" stop="20230407083000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Emilia Romagna: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995620" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407083000 +0200" stop="20230407103000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2021): GP de Portugal: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3911110" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407103000 +0200" stop="20230407110000 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2022): Fórmula 1: Misión (im)posible </title>
+    <desc lang="es">| ★★★☆☆ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <star-rating system="ES">
+      <value>★★★☆☆</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230407110000 +0200" stop="20230407131500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Hungría: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4013711" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407131500 +0200" stop="20230407141500 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2023): Destronar al Rey </title>
+    <desc lang="es"> | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230407141500 +0200" stop="20230407150800 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Brasil: Sprint </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4037541" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407150800 +0200" stop="20230407172500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Brasil: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4037537" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407172500 +0200" stop="20230407180000 +0200" channel="DAZN F1">
+    <title lang="es">Especiales F1 (T2023): Las escuderías de Alonso </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993097" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230407180000 +0200" stop="20230407201500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Estados Unidos: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027754" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407201500 +0200" stop="20230407203000 +0200" channel="DAZN F1">
+    <title lang="es">La vuelta al mundo de Fábrega (T2022): Australia </title>
+    <desc lang="es">| ★★★★★ | +Tp | 2022 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993125" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230407203000 +0200" stop="20230407223000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2023): GP de Australia: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4088394" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230407223000 +0200" stop="20230408001500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Japón: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027740" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
+  <programme start="20230408001500 +0200" stop="20230408003000 +0200" channel="DAZN F1">
+    <title lang="es">Código F1 (T2023): Japón </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1711310V2180427" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230408003000 +0200" stop="20230408024500 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de España: Carrera </title>
+    <desc lang="es">| ★★★★★ | Deportes, Motor. 
+Argumento: Sexta prueba de la temporada en el Circuit de Barcelona-Catalunya que se celebra por 32º vez de forma consecutiva. Max Verstappen ha ganado las dos últimas carreras y tres en total en lo que llevamos de campeonato. Aún así, Charles Leclerc lidera la clasificación con 19 puntos de ventaja sobre el neerlandés de Red Bull. Carlos Sainz espera en casa lograr la primera victoria de su carreras, mientras Fernando Alonso quiere conseguir mejores resultados que las últimas carreras. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3995425" />
+    <star-rating system="ES">
+      <value>★★★★★</value>
+    </star-rating>
+  </programme>
+  <programme start="20230408024500 +0200" stop="20230408031500 +0200" channel="DAZN F1">
+    <title lang="es">True Driver (T2023): Fichajes fiasco </title>
+    <desc lang="es"> | +Tp | 2023 | Deportes, Programa. 
+Argumento: Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3976592" />
+    <review type="text">Ratings: Tp.</review>
+  </programme>
+  <programme start="20230408031500 +0200" stop="20230408060000 +0200" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 (T2022): GP de Singapur: Carrera </title>
+    <desc lang="es">| ★★★★☆ | Deportes, Motor. 
+Argumento: Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. </desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027726" />
+    <star-rating system="ES">
+      <value>★★★★☆</value>
+    </star-rating>
+  </programme>
 
 </tv>
