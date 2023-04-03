@@ -3,10 +3,12 @@
  
 <channel id="DAZN_F1.es">
   <display-name>DAZN F1</display-name>
+  <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" />
 </channel> 
  
  <channel id="DAZN2(src01).es">
   <display-name>DAZN F1</display-name>
+  <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" />
 </channel> 
  
 <channel id="DAZNF1.es">
