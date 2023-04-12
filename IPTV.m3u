@@ -2,6 +2,231 @@
 
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-country="ES" tvg-logo="https://gustavograjales.github.io/IPTV/Images/DaznF1.png", DAZN F1
 http://gustavograjales.rf.gd/IPTV/Lists/DAZNF1.m3u8
-
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-country="AR" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FSP.png", Fox Sports Premium 
 http://gustavograjales.rf.gd/IPTV/Lists/FSP.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital" tvg-logo="" group-title="(no group)",Capital
+http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I-Sat" tvg-logo="" group-title="(no group)",I-Sat
+http://190.131.228.59:8000/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_1" tvg-logo="" group-title="(no group)",iptvtools_1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_10" tvg-logo="" group-title="(no group)",iptvtools_10
+http://190.131.228.59:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_100" tvg-logo="" group-title="(no group)",iptvtools_100
+http://190.131.228.59:8000/play/a0rm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_101" tvg-logo="" group-title="(no group)",iptvtools_101
+http://190.131.228.59:8000/play/a0rn/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_102" tvg-logo="" group-title="(no group)",iptvtools_102
+http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_103" tvg-logo="" group-title="(no group)",iptvtools_103
+http://190.131.228.59:8000/play/a0rp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_104" tvg-logo="" group-title="(no group)",iptvtools_104
+http://190.131.228.59:8000/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_105" tvg-logo="" group-title="(no group)",iptvtools_105
+http://190.131.228.59:8000/play/a0rr/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_11" tvg-logo="" group-title="(no group)",iptvtools_11
+http://190.131.228.59:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_12" tvg-logo="" group-title="(no group)",iptvtools_12
+http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_146" tvg-logo="" group-title="(no group)",iptvtools_146
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_147" tvg-logo="" group-title="(no group)",iptvtools_147
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_148" tvg-logo="" group-title="(no group)",iptvtools_148
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_149" tvg-logo="" group-title="(no group)",iptvtools_149
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_150" tvg-logo="" group-title="(no group)",iptvtools_150
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_151" tvg-logo="" group-title="(no group)",iptvtools_151
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_152" tvg-logo="" group-title="(no group)",iptvtools_152
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_186" tvg-logo="" group-title="(no group)",iptvtools_186
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_192" tvg-logo="" group-title="(no group)",iptvtools_192
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_193" tvg-logo="" group-title="(no group)",iptvtools_193
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_194" tvg-logo="" group-title="(no group)",iptvtools_194
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_195" tvg-logo="" group-title="(no group)",iptvtools_195
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_199" tvg-logo="" group-title="(no group)",iptvtools_199
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_2" tvg-logo="" group-title="(no group)",iptvtools_2
+http://190.131.228.59:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_200" tvg-logo="" group-title="(no group)",iptvtools_200
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_207" tvg-logo="" group-title="(no group)",iptvtools_207
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_208" tvg-logo="" group-title="(no group)",iptvtools_208
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_3" tvg-logo="" group-title="(no group)",iptvtools_3
+http://190.131.228.59:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_33" tvg-logo="" group-title="(no group)",iptvtools_33
+http://190.131.228.59:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_4" tvg-logo="" group-title="(no group)",iptvtools_4
+http://190.131.228.59:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_5" tvg-logo="" group-title="(no group)",iptvtools_5
+http://190.131.228.59:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_6" tvg-logo="" group-title="(no group)",iptvtools_6
+http://190.131.228.59:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_67" tvg-logo="" group-title="(no group)",iptvtools_67
+http://190.131.228.59:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_68" tvg-logo="" group-title="(no group)",iptvtools_68
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_7" tvg-logo="" group-title="(no group)",iptvtools_7
+http://190.131.228.59:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_74" tvg-logo="" group-title="(no group)",iptvtools_74
+http://190.131.228.59:8000/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_75" tvg-logo="" group-title="(no group)",iptvtools_75
+http://190.131.228.59:8000/play/a0j3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_76" tvg-logo="" group-title="(no group)",iptvtools_76
+http://190.131.228.59:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_77" tvg-logo="" group-title="(no group)",iptvtools_77
+http://190.131.228.59:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_78" tvg-logo="" group-title="(no group)",iptvtools_78
+http://190.131.228.59:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_79" tvg-logo="" group-title="(no group)",iptvtools_79
+http://190.131.228.59:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_80" tvg-logo="" group-title="(no group)",iptvtools_80
+http://190.131.228.59:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_81" tvg-logo="" group-title="(no group)",iptvtools_81
+http://190.131.228.59:8000/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_82" tvg-logo="" group-title="(no group)",iptvtools_82
+http://190.131.228.59:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_9" tvg-logo="" group-title="(no group)",iptvtools_9
+http://190.131.228.59:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_90" tvg-logo="" group-title="(no group)",iptvtools_90
+http://190.131.228.59:8000/play/a0r3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_92" tvg-logo="" group-title="(no group)",iptvtools_92
+http://190.131.228.59:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_93" tvg-logo="" group-title="(no group)",iptvtools_93
+http://190.131.228.59:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_94" tvg-logo="" group-title="(no group)",iptvtools_94
+http://190.131.228.59:8000/play/a0re/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_95" tvg-logo="" group-title="(no group)",iptvtools_95
+http://190.131.228.59:8000/play/a0rf/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_96" tvg-logo="" group-title="(no group)",iptvtools_96
+http://190.131.228.59:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_97" tvg-logo="" group-title="(no group)",iptvtools_97
+http://190.131.228.59:8000/play/a0rh/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_98" tvg-logo="" group-title="(no group)",iptvtools_98
+http://190.131.228.59:8000/play/a0rj/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_99" tvg-logo="" group-title="(no group)",iptvtools_99
+http://190.131.228.59:8000/play/a0rk/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red" tvg-logo="" group-title="(no group)",La Red
+http://190.131.228.59:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR CHANNEL" tvg-logo="" group-title="(no group)",STAR CHANNEL
+http://190.131.228.59:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="(no group)",Studio Universal
+http://190.131.228.59:8000/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM" tvg-logo="" group-title="(no group)",TCM
+http://190.131.228.59:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleantioquia" tvg-logo="" group-title="(no group)",Teleantioquia
+http://190.131.228.59:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecafe" tvg-logo="" group-title="(no group)",Telecafe
+http://190.131.228.59:8000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecaribe" tvg-logo="" group-title="(no group)",Telecaribe
+http://190.131.228.59:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefuturo" tvg-logo="" group-title="(no group)",Telefuturo
+http://190.131.228.59:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo" tvg-logo="" group-title="(no group)",Telemundo
+http://190.131.228.59:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telepacifico" tvg-logo="" group-title="(no group)",Telepacifico
+http://190.131.228.59:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)",TLC
+http://190.131.228.59:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE" tvg-logo="" group-title="(no group)",TVE
+http://190.131.228.59:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TyC" tvg-logo="" group-title="(no group)",TyC
+http://190.131.228.59:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win" tvg-logo="" group-title="(no group)",Win
+http://190.131.228.59:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona Latina" tvg-logo="" group-title="(no group)",Zona Latina
+http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+http://190.131.228.59:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+http://190.131.228.59:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 Latin" tvg-logo="" group-title="Deportes",ESPN 2 Latin
+http://190.131.228.59:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3" tvg-logo="" group-title="Deportes",ESPN 3
+http://190.131.228.59:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="" group-title="Deportes",ESPN 4
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN CO" tvg-logo="" group-title="Deportes",ESPN CO
+http://190.131.228.59:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="" group-title="Deportes",Fox Sports 3
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV" tvg-logo="" group-title="Deportes",GOL TV
+http://190.131.228.59:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="Deportes",TNT SPORTS 2
+http://190.131.228.59:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="Entretenimiento",AXN
+http://190.131.228.59:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E Entertainment" tvg-logo="" group-title="Entretenimiento",E Entertainment
+http://190.131.228.59:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="" group-title="Entretenimiento",Lifetime
+http://190.131.228.59:8000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="Entretenimiento",Sony
+http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="Entretenimiento",Space
+http://190.131.228.59:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="Entretenimiento",TNT
+http://190.131.228.59:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal" tvg-logo="" group-title="Entretenimiento",Universal
+http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner" tvg-logo="" group-title="Entretenimiento",Warner
+http://190.131.228.59:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+http://190.131.228.59:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
+http://190.131.228.59:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantil",Disney Channel
+http://190.131.228.59:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="Infantil",Disney Jr
+http://190.131.228.59:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="Infantil",Nick Jr
+http://190.131.228.59:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil",Nickelodeon
+http://190.131.228.59:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE Mundo" tvg-logo="" group-title="Mundo y Cultura",AE Mundo
+http://190.131.228.59:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Mundo y Cultura",Animal Planet
+http://190.131.228.59:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="Mundo y Cultura",Discovery Channel
+http://190.131.228.59:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="Mundo y Cultura",Discovery Turbo
+http://190.131.228.59:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="" group-title="Mundo y Cultura",History Channel
+http://190.131.228.59:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="Mundo y Cultura",Nat Geo
+http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Musica",MTV
+http://190.131.228.59:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Estrellas" tvg-logo="" group-title="Nacional",Canal Estrellas
+http://190.131.228.59:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="" group-title="Noticias",CNN Chile
+http://190.131.228.59:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Espanol" tvg-logo="" group-title="Noticias",CNN Espanol
+http://190.131.228.59:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
+http://190.131.228.59:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="Peliculas",Cinemax
+http://190.131.228.59:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="Peliculas",FX
+http://190.131.228.59:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Peliculas",HBO
+http://190.131.228.59:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="Peliculas",HBO 2
+http://190.131.228.59:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="Peliculas",HBO Family
+http://190.131.228.59:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus" tvg-logo="" group-title="Peliculas",HBO Plus
+http://190.131.228.59:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO XTREME SD" tvg-logo="" group-title="Peliculas",HBO XTREME SD
+http://190.131.228.59:8000/play/a05g/index.m3u8
