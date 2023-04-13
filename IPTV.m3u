@@ -75,17 +75,17 @@ http://190.131.228.59:8000/play/a0j9/index.m3u8
 http://190.131.228.59:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="Dual",Studio Universal
 http://190.131.228.59:8000/play/a0jg/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="Entretenimiento",AMC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/AMC.png" group-title="Entretenimiento",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="" group-title="Entretenimiento",E! Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="https://gustavograjales.github.io/IPTV/Images/E!.svg" group-title="Entretenimiento",E! Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fx" tvg-logo="" group-title="Entretenimiento",Fx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fx" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.svg" group-title="Entretenimiento",Fx
 http://190.131.228.59:8000/play/a0rk/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="" group-title="Entretenimiento",Lifetime
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Lifetime.png" group-title="Entretenimiento",Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo" tvg-logo="" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Telemundo.png" group-title="Entretenimiento",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entretenimiento",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/TLC.png" group-title="Entretenimiento",TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
 http://190.131.228.59:8000/play/a049/index.m3u8
