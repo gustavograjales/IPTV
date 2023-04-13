@@ -1,50 +1,60 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrmmp6fxrgp6y41j"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I-Sat" tvg-logo="" group-title="(no group)",I-Sat
 http://190.131.228.59:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_1" tvg-logo="" group-title="(no group)",iptvtools_1
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_2" tvg-logo="" group-title="(no group)",iptvtools_2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uno" tvg-logo="" group-title="(no group)",Uno
 http://190.131.228.59:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_200" tvg-logo="" group-title="(no group)",iptvtools_200
-https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_92" tvg-logo="" group-title="(no group)",iptvtools_92
-http://190.131.228.59:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justicia Tv" tvg-logo="" group-title="(no group)",Justicia Tv
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red" tvg-logo="" group-title="(no group)",La Red
-http://190.131.228.59:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.svg" group-title="Deportes",ESPN 2
 http://190.131.228.59:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.svg" group-title="Deportes",ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.svg" group-title="Deportes",ESPN 2
 http://190.131.228.59:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2(English).mx" tvg-name="ESPN 3" tvg-logo="" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN2(English).mx" tvg-name="ESPN 3" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN3.svg" group-title="Deportes",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.svg" group-title="Deportes",ESPN 4
 http://190.131.228.59:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.svg" group-title="Deportes",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN Col" tvg-logo="" group-title="Deportes",ESPN Col
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN Col" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN.png" group-title="Deportes",ESPN Col
 http://190.131.228.59:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="FOXSPORTS.co" tvg-name="Fox Sports 1" tvg-logo="" group-title="Deportes",Fox Sports 1
+#EXTINF:-1 tvg-id="FOXSPORTS.co" tvg-name="Fox Sports 1" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS1.png" group-title="Deportes",Fox Sports 1
 http://190.131.228.59:8000/play/a0j3/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS2.png" group-title="Deportes",Fox Sports 2
 http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS2_Ar.png" group-title="Deportes",Fox Sports 2
 http://190.131.228.59:8000/play/a0rh/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS3.png" group-title="Deportes",Fox Sports 3
 http://190.131.228.59:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-id="GOLTV.es" tvg-name="GOL TV" tvg-logo="" group-title="Deportes",GOL TV
+#EXTINF:-1 tvg-id="GOLTV.es" tvg-name="GOL TV" tvg-logo="https://gustavograjales.github.io/IPTV/Images/GolTv.png" group-title="Deportes",GOL TV
 http://190.131.228.59:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="Deportes",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/TNTSports2.png" group-title="Deportes",TNT SPORTS 2
 http://190.131.228.59:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="TyCSportsInternational.mx" tvg-name="TyC" tvg-logo="" group-title="Deportes",TyC
+#EXTINF:-1 tvg-id="TyCSportsInternational.mx" tvg-name="TyC Sports" tvg-logo="https://gustavograjales.github.io/IPTV/Images/TyCSports.svg.png" group-title="Deportes",TyC Sports
 http://190.131.228.59:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win" tvg-logo="" group-title="Deportes",Win
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win" tvg-logo="https://gustavograjales.github.io/IPTV/Images/WinSports.png" group-title="Deportes",Win
 http://190.131.228.59:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="WinSportsplus.co" tvg-name="Win Sports+" tvg-logo="" group-title="Deportes",Win Sports+
+#EXTINF:-1 tvg-id="WinSportsplus.co" tvg-name="Win Sports+" tvg-logo="https://gustavograjales.github.io/IPTV/Images/WinSports+.png" group-title="Deportes",Win Sports+
 http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="Dual",AXN
+http://190.131.228.59:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="Dual",Sony
+http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="Dual",Space
+http://190.131.228.59:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel" tvg-logo="" group-title="Dual",Star Channel
+http://190.131.228.59:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="Dual",Studio Universal
+http://190.131.228.59:8000/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="Dual",TNT
+http://190.131.228.59:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series" tvg-logo="" group-title="Dual",TNT Series
+http://190.131.228.59:8000/play/a0rj/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal" tvg-logo="" group-title="Dual",Universal
+http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner" tvg-logo="" group-title="Dual",Warner
+http://190.131.228.59:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="Dual",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Dual",Cartoon Network
@@ -67,36 +77,16 @@ http://190.131.228.59:8000/play/a0jf/index.m3u8
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="Entretenimiento",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="Entretenimiento",AXN
-http://190.131.228.59:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E Entertainment" tvg-logo="" group-title="Entretenimiento",E Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="" group-title="Entretenimiento",E! Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella Tv" tvg-logo="" group-title="Entretenimiento",Estrella Tv
-https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fx" tvg-logo="" group-title="Entretenimiento",Fx
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="" group-title="Entretenimiento",Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="Entretenimiento",Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="Entretenimiento",Space
-http://190.131.228.59:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel" tvg-logo="" group-title="Entretenimiento",Star Channel
-http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="Entretenimiento",Studio Universal
-http://190.131.228.59:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo" tvg-logo="" group-title="Entretenimiento",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entretenimiento",TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="Entretenimiento",TNT
-http://190.131.228.59:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series" tvg-logo="" group-title="Entretenimiento",TNT Series
-http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal" tvg-logo="" group-title="Entretenimiento",Universal
-http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner" tvg-logo="" group-title="Entretenimiento",Warner
-http://190.131.228.59:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
@@ -125,6 +115,8 @@ http://190.131.228.59:8000/play/a0rn/index.m3u8
 http://190.131.228.59:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="Mundo y Cultura",Nat Geo
 http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*Musica" tvg-logo="" group-title="Musica",*Musica
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karibeña" tvg-logo="" group-title="Musica",Karibeña
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Musica",MTV
@@ -135,6 +127,10 @@ http://190.131.228.59:8000/play/a005/index.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona Latina" tvg-logo="" group-title="Musica",Zona Latina
 http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella Tv" tvg-logo="" group-title="Nacional",Estrella Tv
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN40" tvg-logo="" group-title="Nacional",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6" tvg-logo="" group-title="Nacional",Canal 6
@@ -187,6 +183,10 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 http://190.131.228.59:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EWTN" tvg-logo="" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol Tv" tvg-logo="" group-title="Sudamerica",Caracol Tv
+http://190.131.228.59:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
+http://190.131.228.59:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*Colombia" tvg-logo="" group-title="Sudamerica",*Colombia
 http://190.131.228.59:8000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Congreso -Colombia" tvg-logo="" group-title="Sudamerica",Canal Congreso -Colombia
