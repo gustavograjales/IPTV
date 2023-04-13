@@ -79,7 +79,7 @@ http://190.131.228.59:8000/play/a0jg/index.m3u8
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="https://gustavograjales.github.io/IPTV/Images/E!.png" group-title="Entretenimiento",E! Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fx" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento",Fx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Lifetime.png" group-title="Entretenimiento",Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
