@@ -5,17 +5,17 @@ http://190.131.228.59:8000/play/a0ht/index.m3u8
 http://190.131.228.59:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justicia Tv" tvg-logo="" group-title="(no group)",Justicia Tv
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.svg" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.png" group-title="Deportes",ESPN 2
 http://190.131.228.59:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.svg" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.png" group-title="Deportes",ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.svg" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.png" group-title="Deportes",ESPN 2
 http://190.131.228.59:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2(English).mx" tvg-name="ESPN 3" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN3.svg" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN2(English).mx" tvg-name="ESPN 3" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN3.png" group-title="Deportes",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.svg" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.png" group-title="Deportes",ESPN 4
 http://190.131.228.59:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.svg" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.png" group-title="Deportes",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN Col" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN.png" group-title="Deportes",ESPN Col
 http://190.131.228.59:8000/play/a00c/index.m3u8
@@ -77,9 +77,9 @@ http://190.131.228.59:8000/play/a0jf/index.m3u8
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/AMC.png" group-title="Entretenimiento",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="https://gustavograjales.github.io/IPTV/Images/E!.svg" group-title="Entretenimiento",E! Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="https://gustavograjales.github.io/IPTV/Images/E!.png" group-title="Entretenimiento",E! Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fx" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.svg" group-title="Entretenimiento",Fx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fx" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento",Fx
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Lifetime.png" group-title="Entretenimiento",Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
