@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrmmp6fxrgp6y41j"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I-Sat" tvg-logo="" group-title="(no group)",I-Sat
-http://190.131.228.59:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justicia Tv" tvg-logo="" group-title="(no group)",Justicia Tv
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uno" tvg-logo="" group-title="(no group)",Uno
-http://190.131.228.59:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN.png" group-title="Deportes Sudamerica",ESPN
 http://190.131.228.59:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.png" group-title="Deportes Sudamerica",ESPN 2
@@ -71,49 +65,49 @@ http://190.131.228.59:8000/play/a040/index.m3u8
 http://190.131.228.59:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
 http://190.131.228.59:8000/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil" tvg-shift="-5",Cartoon Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil" tvg-shift="-5",Cartoon Network
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil" tvg-shift="-7",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
 http://190.131.228.59:8000/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="Infantil",Disney Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Infantil",Disney Channel
 http://190.131.228.59:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="Infantil",Disney Jr
 http://190.131.228.59:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="Infantil",Nick Jr
 http://190.131.228.59:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil",Nickelodeon
 http://190.131.228.59:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE Mundo" tvg-logo="" group-title="Mundo y Cultura",AE Mundo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE" tvg-logo="" group-title="Mundo y Cultura",AE
 http://190.131.228.59:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="Mundo y Cultura",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet" tvg-logo="" group-title="Mundo y Cultura",Animal Planet
 http://190.131.228.59:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet Sur" tvg-logo="" group-title="Mundo y Cultura" tvg-shift="-6",Animal Planet Sur
 http://190.131.228.59:8000/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="" group-title="Mundo y Cultura",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery Channel" tvg-logo="" group-title="Mundo y Cultura",Discovery Channel
 http://190.131.228.59:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery Channel" tvg-logo="" group-title="Mundo y Cultura",Discovery Channel
+http://190.131.228.59:8000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Mundo y Cultura",Discovery Home & Health
 http://190.131.228.59:8000/play/a0re/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery Sur" tvg-logo="" group-title="Mundo y Cultura",Discovery Sur
-http://190.131.228.59:8000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="" group-title="Mundo y Cultura",Discovery Theater
 http://190.131.228.59:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="" group-title="Mundo y Cultura",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="" group-title="Mundo y Cultura",Discovery World
 http://190.131.228.59:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Channel" tvg-logo="" group-title="Mundo y Cultura",History Channel
+#EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="" group-title="Mundo y Cultura",History
 http://190.131.228.59:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="Mundo y Cultura",Nat Geo
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="National Geographic" tvg-logo="" group-title="Mundo y Cultura",National Geographic
 http://190.131.228.59:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="National Geographic Sur" tvg-logo="" group-title="Mundo y Cultura",National Geographic Sur
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="National Geographic" tvg-logo="" group-title="Mundo y Cultura",National Geographic
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*Musica" tvg-logo="" group-title="Musica",*Musica
 https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karibeña" tvg-logo="" group-title="Musica",Karibeña
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="" group-title="Musica",MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Musica",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapping Music" tvg-logo="" group-title="Musica",Zapping Music
 http://190.131.228.59:8000/play/a005/index.m3u8
@@ -141,25 +135,27 @@ http://190.131.228.59:8000/play/a064/index.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella Tv" tvg-logo="" group-title="Nacional",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia Tv" tvg-logo="" group-title="Nacional",Justicia Tv
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
 http://190.131.228.59:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="" group-title="Noticias",CNN Chile
+#EXTINF:-1 tvg-id="CNNChile.co" tvg-name="CNN Chile" tvg-logo="" group-title="Noticias",CNN Chile
 http://190.131.228.59:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN Espanol" tvg-logo="" group-title="Noticias",CNN Espanol
+#EXTINF:-1 tvg-id="CNNEnEspanol.ar" tvg-name="CNN Espanol" tvg-logo="" group-title="Noticias" tvg-shift="-6",CNN Espanol
 http://190.131.228.59:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Español" tvg-logo="" group-title="Noticias",DW Español
+#EXTINF:-1 tvg-id="DWEspanol.co" tvg-name="DW Español" tvg-logo="" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE" tvg-logo="" group-title="Noticias",TVE
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.co" tvg-name="TVE" tvg-logo="" group-title="Noticias",TVE
 http://190.131.228.59:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-name="Cinemax" tvg-logo="" group-title="Peliculas" tvg-shift="-8",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="" group-title="Peliculas" tvg-shift="-8",FX
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX" tvg-logo="" group-title="Peliculas" tvg-shift="-8",FX
 http://190.131.228.59:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Peliculas",HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
@@ -195,12 +191,20 @@ http://190.131.228.59:8000/play/a0rr/index.m3u8
 http://190.131.228.59:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal RCN" tvg-logo="" group-title="Sudamerica",Canal RCN
 http://190.131.228.59:8000/play/a0rm/index.m3u8
-#EXTINF:-1 tvg-id="ConexionCapital.co" tvg-name="Conexión Capital" tvg-logo="" group-title="Sudamerica",Conexión Capital
-http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="CanalUnoColombia.co" tvg-name="Canal Uno Colombia" tvg-logo="" group-title="Sudamerica",Canal Uno Colombia
+http://190.131.228.59:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom " tvg-logo="" group-title="Sudamerica",Canal Zoom 
+http://190.131.228.59:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom " tvg-logo="" group-title="Sudamerica",Canal Zoom 
+http://190.131.228.59:8000/play/a0r3/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol Tv" tvg-logo="" group-title="Sudamerica",Caracol Tv
 http://190.131.228.59:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-id="CityTVBogota.co" tvg-name="City Tv" tvg-logo="" group-title="Sudamerica",City Tv
 http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ConexionCapital.co" tvg-name="Conexión Capital" tvg-logo="" group-title="Sudamerica",Conexión Capital
+http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="ISAT.co" tvg-name="ISat" tvg-logo="" group-title="Sudamerica",ISat
+http://190.131.228.59:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="TVRed.co" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
 http://190.131.228.59:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Señal Colombia" tvg-logo="" group-title="Sudamerica",Señal Colombia
@@ -221,7 +225,3 @@ http://190.131.228.59:8000/play/a00f/index.m3u8
 http://190.131.228.59:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="TeleSur.ar" tvg-name="Telesur" tvg-logo="" group-title="Sudamerica",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom " tvg-logo="" group-title="Sudamerica",Canal Zoom 
-http://190.131.228.59:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom " tvg-logo="" group-title="Sudamerica",Canal Zoom 
-http://190.131.228.59:8000/play/a0r3/index.m3u8
