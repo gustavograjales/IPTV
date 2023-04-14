@@ -155,29 +155,29 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 http://190.131.228.59:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal Sur" tvg-logo="" group-title="Peliculas",Cinecanal Sur
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
 http://190.131.228.59:8000/play/a0ro/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="Peliculas",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="Cinemax" tvg-logo="" group-title="Peliculas" tvg-shift="-8",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="" group-title="Peliculas",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="" group-title="Peliculas" tvg-shift="-8",FX
 http://190.131.228.59:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="" group-title="Peliculas",HBO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Peliculas",HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="" group-title="Peliculas",HBO 2
-http://190.131.228.59:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="" group-title="Peliculas",HBO 2
-http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="" group-title="Peliculas",HBO Family
-http://190.131.228.59:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="" group-title="Peliculas",HBO Family
-http://190.131.228.59:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="" group-title="Peliculas",HBO Plus
-http://190.131.228.59:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Sur" tvg-logo="" group-title="Peliculas",HBO Sur
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO" tvg-logo="" group-title="Peliculas",HBO
 http://190.131.228.59:8000/play/a0rp/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME SD" tvg-logo="" group-title="Peliculas",HBO XTREME SD
+#EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="" group-title="Peliculas" tvg-shift="-6",HBO 2
+http://190.131.228.59:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.co" tvg-name="HBO 2" tvg-logo="" group-title="Peliculas" tvg-shift="-6",HBO 2
+http://190.131.228.59:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO Family" tvg-logo="" group-title="Peliculas" tvg-shift="-6",HBO Family
+http://190.131.228.59:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="" group-title="Peliculas" tvg-shift="-6",HBO Family
+http://190.131.228.59:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO Plus" tvg-logo="" group-title="Peliculas" tvg-shift="-6",HBO Plus
+http://190.131.228.59:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO Xtreme" tvg-logo="" group-title="Peliculas" tvg-shift="-6",HBO Xtreme
 http://190.131.228.59:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="Paramount Network Sur" tvg-logo="" group-title="Peliculas",Paramount Network Sur
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="Paramount Network" tvg-logo="" group-title="Peliculas",Paramount Network
 http://190.131.228.59:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="" group-title="Peliculas",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8
@@ -185,7 +185,7 @@ http://190.131.228.59:8000/play/a06z/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*Colombia" tvg-logo="" group-title="Sudamerica",*Colombia
 http://190.131.228.59:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso.co" tvg-name="Canal Congreso -Colombia" tvg-logo="" group-title="Sudamerica",Canal Congreso -Colombia
+#EXTINF:-1 tvg-id="CanaldelCongreso.co" tvg-name="Canal Congreso Colombia" tvg-logo="" group-title="Sudamerica",Canal Congreso Colombia
 http://190.131.228.59:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional Tv Colombia" tvg-logo="" group-title="Sudamerica",Canal Institucional Tv Colombia
 http://190.131.228.59:8000/play/a008/index.m3u8
@@ -195,13 +195,13 @@ http://190.131.228.59:8000/play/a0rr/index.m3u8
 http://190.131.228.59:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal RCN" tvg-logo="" group-title="Sudamerica",Canal RCN
 http://190.131.228.59:8000/play/a0rm/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital" tvg-logo="" group-title="Sudamerica",Capital
+#EXTINF:-1 tvg-id="ConexionCapital.co" tvg-name="Conexión Capital" tvg-logo="" group-title="Sudamerica",Conexión Capital
 http://190.131.228.59:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol Tv" tvg-logo="" group-title="Sudamerica",Caracol Tv
+#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol Tv" tvg-logo="" group-title="Sudamerica",Caracol Tv
 http://190.131.228.59:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City Tv" tvg-logo="" group-title="Sudamerica",City Tv
+#EXTINF:-1 tvg-id="CityTVBogota.co" tvg-name="City Tv" tvg-logo="" group-title="Sudamerica",City Tv
 http://190.131.228.59:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
+#EXTINF:-1 tvg-id="TVRed.co" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
 http://190.131.228.59:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Señal Colombia" tvg-logo="" group-title="Sudamerica",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
@@ -211,17 +211,17 @@ http://190.131.228.59:8000/play/a04l/index.m3u8
 http://190.131.228.59:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-logo="" group-title="Sudamerica",Telecaribe
 http://190.131.228.59:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefe" tvg-logo="" group-title="Sudamerica",Telefe
+#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe" tvg-logo="" group-title="Sudamerica",Telefe
 http://190.131.228.59:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefuturo" tvg-logo="" group-title="Sudamerica",Telefuturo
+#EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" tvg-logo="" group-title="Sudamerica",Telefuturo
 http://190.131.228.59:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleislas -co" tvg-logo="" group-title="Sudamerica",Teleislas -co
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-logo="" group-title="Sudamerica",Teleislas
 http://190.131.228.59:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="TelePacifico.co" tvg-name="Telepacifico" tvg-logo="" group-title="Sudamerica",Telepacifico
 http://190.131.228.59:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="TeleSur.ar" tvg-name="Telesur" tvg-logo="" group-title="Sudamerica",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="Sudamerica",Zoom
+#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom " tvg-logo="" group-title="Sudamerica",Canal Zoom 
 http://190.131.228.59:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom Col" tvg-logo="" group-title="Sudamerica",Zoom Col
+#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom " tvg-logo="" group-title="Sudamerica",Canal Zoom 
 http://190.131.228.59:8000/play/a0r3/index.m3u8
