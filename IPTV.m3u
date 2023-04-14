@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrmmp6fxrgp6y41j"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I-Sat" tvg-logo="" group-title="(no group)",I-Sat
 http://190.131.228.59:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uno" tvg-logo="" group-title="(no group)",Uno
-http://190.131.228.59:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Justicia Tv" tvg-logo="" group-title="(no group)",Justicia Tv
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uno" tvg-logo="" group-title="(no group)",Uno
+http://190.131.228.59:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN.png" group-title="Deportes Sudamerica",ESPN
+http://190.131.228.59:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.png" group-title="Deportes Sudamerica",ESPN 2
 http://190.131.228.59:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN2.png" group-title="Deportes Sudamerica",ESPN 2
@@ -17,8 +19,6 @@ http://190.131.228.59:8000/play/a04v/index.m3u8
 http://190.131.228.59:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4SUR.co" tvg-name="ESPN 4" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN4.png" group-title="Deportes Sudamerica",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN" tvg-logo="https://gustavograjales.github.io/IPTV/Images/ESPN.png" group-title="Deportes Sudamerica",ESPN
-http://190.131.228.59:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS1.png" group-title="Deportes Sudamerica",Fox Sports 1
 http://190.131.228.59:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS2.png" group-title="Deportes Sudamerica",Fox Sports 2
@@ -37,57 +37,57 @@ http://190.131.228.59:8000/play/a05v/index.m3u8
 http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsplus.co" tvg-name="Win Sports+" tvg-logo="https://gustavograjales.github.io/IPTV/Images/WinSports+.png" group-title="Deportes Sudamerica",Win Sports+
 http://190.131.228.59:8000/play/a0e2/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet Ar" tvg-logo="" group-title="Dual" tvg-shift="-6",Animal Planet Ar
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet Sur" tvg-logo="" group-title="Dual" tvg-shift="-6",Animal Planet Sur
 http://190.131.228.59:8000/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN Co" tvg-logo="" group-title="Dual",AXN Co
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN Sur" tvg-logo="" group-title="Dual",AXN Sur
 http://190.131.228.59:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="CanalSony.co" tvg-name="Canal Sony Sur" tvg-logo="" group-title="Dual",Canal Sony Sur
+http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Dual",Cartoon Network
 http://190.131.228.59:8000/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal co" tvg-logo="" group-title="Dual",Cinecanal co
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal Sur" tvg-logo="" group-title="Dual",Cinecanal Sur
 http://190.131.228.59:8000/play/a0ro/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery co" tvg-logo="" group-title="Dual",Discovery co
+#EXTINF:-1 tvg-id="DiscoveryChannel.co" tvg-name="Discovery Sur" tvg-logo="" group-title="Dual",Discovery Sur
 http://190.131.228.59:8000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Dual",Discovery Home & Health
 http://190.131.228.59:8000/play/a0re/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids(English).pr" tvg-name="Discovery Kids Puerto Rico" tvg-logo="" group-title="Dual" tvg-shift="-7",Discovery Kids Puerto Rico
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="Dual" tvg-shift="-7",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Co" tvg-logo="" group-title="Dual",HBO Co
+#EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Sur" tvg-logo="" group-title="Dual",HBO Sur
 http://190.131.228.59:8000/play/a0rp/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic Ar" tvg-logo="" group-title="Dual",National Geographic Ar
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="National Geographic Sur" tvg-logo="" group-title="Dual",National Geographic Sur
 http://190.131.228.59:8000/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="Paramount Network ar" tvg-logo="" group-title="Dual",Paramount Network ar
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="Paramount Network Sur" tvg-logo="" group-title="Dual",Paramount Network Sur
 http://190.131.228.59:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-id="CanalSony.co" tvg-name="Canal Sony Co" tvg-logo="" group-title="Dual",Canal Sony Co
-http://190.131.228.59:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="" group-title="Dual",Space
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="" group-title="Dual" tvg-shift="-7",Space
 http://190.131.228.59:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel Ar" tvg-logo="" group-title="Dual",Star Channel Ar
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel Sur" tvg-logo="" group-title="Dual",Star Channel Sur
 http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal ar" tvg-logo="" group-title="Dual" tvg-shift="-6",Studio Universal ar
-http://190.131.228.59:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="" group-title="Dual",Studio Universal
 http://190.131.228.59:8000/play/a0jg/index.m3u8
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT ar" tvg-logo="" group-title="Dual",TNT ar
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal Sur" tvg-logo="" group-title="Dual" tvg-shift="-6",Studio Universal Sur
+http://190.131.228.59:8000/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT Sur" tvg-logo="" group-title="Dual",TNT Sur
 http://190.131.228.59:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series ar" tvg-logo="" group-title="Dual",TNT Series ar
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series Sur" tvg-logo="" group-title="Dual",TNT Series Sur
 http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="Universal ar" tvg-logo="" group-title="Dual",Universal ar
+#EXTINF:-1 tvg-id="UniversalTV.co" tvg-name="Universal Sur" tvg-logo="" group-title="Dual",Universal Sur
 http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner ar" tvg-logo="" group-title="Dual",Warner ar
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner Sur" tvg-logo="" group-title="Dual",Warner Sur
 http://190.131.228.59:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/AMC.png" group-title="Entretenimiento",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/AMC.png" group-title="Entretenimiento" tvg-shift="-9",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! Entertainment" tvg-logo="https://gustavograjales.github.io/IPTV/Images/E!.png" group-title="Entretenimiento",E! Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento" tvg-shift="-7",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Lifetime.png" group-title="Entretenimiento",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.ar" tvg-name="Lifetime" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Lifetime.png" group-title="Entretenimiento" tvg-shift="-6",Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Telemundo.png" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Telemundo.png" group-title="Entretenimiento" tvg-shift="-7",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/TLC.png" group-title="Entretenimiento",TLC
+#EXTINF:-1 tvg-id="TLC.co" tvg-name="TLC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/TLC.png" group-title="Entretenimiento" tvg-shift="-6",TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil" tvg-shift="-5",Cartoon Network
 http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
 http://190.131.228.59:8000/play/a06y/index.m3u8
@@ -127,10 +127,6 @@ http://190.131.228.59:8000/play/a005/index.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona Latina" tvg-logo="" group-title="Musica",Zona Latina
 http://190.131.228.59:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella Tv" tvg-logo="" group-title="Nacional",Estrella Tv
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="" group-title="Nacional",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6" tvg-logo="" group-title="Nacional",Canal 6
@@ -149,6 +145,10 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 http://190.131.228.59:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Once" tvg-logo="" group-title="Nacional",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella Tv" tvg-logo="" group-title="Nacional",Estrella Tv
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
 http://190.131.228.59:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Chile" tvg-logo="" group-title="Noticias",CNN Chile
@@ -183,10 +183,6 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 http://190.131.228.59:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol Tv" tvg-logo="" group-title="Sudamerica",Caracol Tv
-http://190.131.228.59:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
-http://190.131.228.59:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*Colombia" tvg-logo="" group-title="Sudamerica",*Colombia
 http://190.131.228.59:8000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso.co" tvg-name="Canal Congreso -Colombia" tvg-logo="" group-title="Sudamerica",Canal Congreso -Colombia
@@ -201,8 +197,12 @@ http://190.131.228.59:8000/play/a006/index.m3u8
 http://190.131.228.59:8000/play/a0rm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital" tvg-logo="" group-title="Sudamerica",Capital
 http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol Tv" tvg-logo="" group-title="Sudamerica",Caracol Tv
+http://190.131.228.59:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="City Tv" tvg-logo="" group-title="Sudamerica",City Tv
 http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
+http://190.131.228.59:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Señal Colombia" tvg-logo="" group-title="Sudamerica",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="" group-title="Sudamerica",Teleantioquia
