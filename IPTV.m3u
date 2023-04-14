@@ -225,3 +225,116 @@ http://190.131.228.59:8000/play/a00f/index.m3u8
 http://190.131.228.59:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="TeleSur.ar" tvg-name="Telesur" tvg-logo="" group-title="Sudamerica",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="(no group)",ESPN
+http://186.31.37.98:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="(no group)",ESPN
+http://191.102.90.97:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="(no group)",ESPN 2
+http://186.31.37.98:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3 HD" tvg-logo="" group-title="(no group)",ESPN 3 HD
+http://45.190.13.50:8002/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="" group-title="(no group)",ESPN 4
+http://186.31.37.98:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4 HD" tvg-logo="" group-title="(no group)",ESPN 4 HD
+http://45.190.13.50:8002/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Extra" tvg-logo="" group-title="(no group)",ESPN Extra
+http://45.190.13.50:8002/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN HD" tvg-logo="" group-title="(no group)",ESPN HD
+http://45.190.13.50:8002/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN SUR 2 HD" tvg-logo="" group-title="(no group)",ESPN SUR 2 HD
+http://45.190.13.50:8002/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="(no group)",Fox Sports 2
+http://186.31.37.98:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="(no group)",Fox Sports 2
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="" group-title="(no group)",Fox Sports 3
+http://186.31.37.98:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="" group-title="(no group)",Fox Sports 3
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_113" tvg-logo="" group-title="(no group)",iptvtools_113
+http://204.12.247.162:8080/premium35/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_114" tvg-logo="" group-title="(no group)",iptvtools_114
+http://204.12.247.162:8080/premium36/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_115" tvg-logo="" group-title="(no group)",iptvtools_115
+http://204.12.247.162:8080/premium426/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_116" tvg-logo="" group-title="(no group)",iptvtools_116
+http://204.12.247.162:8080/premium427/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_117" tvg-logo="" group-title="(no group)",iptvtools_117
+http://204.12.247.162:8080/premium429/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_118" tvg-logo="" group-title="(no group)",iptvtools_118
+http://204.12.247.162:8080/premium582/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_119" tvg-logo="" group-title="(no group)",iptvtools_119
+http://204.12.247.162:8080/premium431/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_120" tvg-logo="" group-title="(no group)",iptvtools_120
+http://204.12.247.162:8080/premium581/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_121" tvg-logo="" group-title="(no group)",iptvtools_121
+http://204.12.247.162:8080/premium465/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_122" tvg-logo="" group-title="(no group)",iptvtools_122
+http://204.12.247.162:8080/premium466/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_123" tvg-logo="" group-title="(no group)",iptvtools_123
+http://204.12.247.162:8080/premium467/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_124" tvg-logo="" group-title="(no group)",iptvtools_124
+http://204.12.247.162:8080/premium468/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_130" tvg-logo="" group-title="(no group)",iptvtools_130
+http://ghostiptv.vip:80/777444/777444/45797
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_141" tvg-logo="" group-title="(no group)",iptvtools_141
+http://208.86.19.13:81/720.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_152" tvg-logo="" group-title="(no group)",iptvtools_152
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_153" tvg-logo="" group-title="(no group)",iptvtools_153
+http://175.107.244.52:4455/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_154" tvg-logo="" group-title="(no group)",iptvtools_154
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_166" tvg-logo="" group-title="(no group)",iptvtools_166
+http://213.7.193.54:4000/play/a002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_167" tvg-logo="" group-title="(no group)",iptvtools_167
+http://213.7.193.54:4000/play/a005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_178" tvg-logo="" group-title="(no group)",iptvtools_178
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_181" tvg-logo="" group-title="(no group)",iptvtools_181
+http://190.5.200.52:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_182" tvg-logo="" group-title="(no group)",iptvtools_182
+http://170.83.242.8:5350/play/a02u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_190" tvg-logo="" group-title="(no group)",iptvtools_190
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_191" tvg-logo="" group-title="(no group)",iptvtools_191
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_199" tvg-logo="" group-title="(no group)",iptvtools_199
+http://45.182.21.251:33334/play/a07y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_200" tvg-logo="" group-title="(no group)",iptvtools_200
+http://45.182.21.251:33334/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_206" tvg-logo="" group-title="(no group)",iptvtools_206
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_209" tvg-logo="" group-title="(no group)",iptvtools_209
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_210" tvg-logo="" group-title="(no group)",iptvtools_210
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_211" tvg-logo="" group-title="(no group)",iptvtools_211
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_215" tvg-logo="" group-title="(no group)",iptvtools_215
+http://170.83.242.8:5350/play/a00u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_216" tvg-logo="" group-title="(no group)",iptvtools_216
+http://170.83.242.8:5350/play/a00t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_217" tvg-logo="" group-title="(no group)",iptvtools_217
+http://170.83.242.155:5350/play/a014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_219" tvg-logo="" group-title="(no group)",iptvtools_219
+http://62.176.77.22:9781/play/a00i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_224" tvg-logo="" group-title="(no group)",iptvtools_224
+https://livetv.mylifeisgood.ml/.../matchhd_nocensored.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_226" tvg-logo="" group-title="(no group)",iptvtools_226
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_227" tvg-logo="" group-title="(no group)",iptvtools_227
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_228" tvg-logo="" group-title="(no group)",iptvtools_228
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_229" tvg-logo="" group-title="(no group)",iptvtools_229
+http://31.146.176.94:80/setanta2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_84" tvg-logo="" group-title="(no group)",iptvtools_84
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTAPLUS_HD_2" tvg-logo="" group-title="(no group)",SETANTAPLUS_HD_2
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SETANTAPLUS_HD_2" tvg-logo="" group-title="(no group)",SETANTAPLUS_HD_2
+https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win" tvg-logo="" group-title="(no group)",Win
+http://190.131.228.59:8000/play/a04m/index.m3u8
