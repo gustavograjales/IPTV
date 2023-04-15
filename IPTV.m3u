@@ -147,27 +147,27 @@ http://190.131.228.59:8000/play/a04i/index.m3u8
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E! Entertainment" tvg-logo="https://gustavograjales.github.io/IPTV/Images/E!.png" group-title="Entretenimiento",E! Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FX.png" group-title="Entretenimiento" tvg-shift="-7",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.ar" tvg-name="Lifetime" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Lifetime.png" group-title="Entretenimiento",Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="" group-title="Entretenimiento",Space
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="" group-title="Entretenimiento" tvg-shift="-8",Space
 http://190.131.228.59:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel Sur" tvg-logo="" group-title="Entretenimiento",Star Channel Sur
 http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="" group-title="Entretenimiento",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal" tvg-logo="" group-title="Entretenimiento" tvg-shift="-7",Studio Universal
 http://190.131.228.59:8000/play/a0jg/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal Sur" tvg-logo="" group-title="Entretenimiento",Studio Universal Sur
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal Sur" tvg-logo="" group-title="Entretenimiento" tvg-shift="-5",Studio Universal Sur
 http://190.131.228.59:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://gustavograjales.github.io/IPTV/Images/Telemundo.png" group-title="Entretenimiento",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="TLC.co" tvg-name="TLC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/TLC.png" group-title="Entretenimiento",TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series Sur" tvg-logo="" group-title="Entretenimiento",TNT Series Sur
+#EXTINF:-1 tvg-id="TNTSeries.co" tvg-name="TNT Series Sur" tvg-logo="" group-title="Entretenimiento",TNT Series Sur
 http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT Sur" tvg-logo="" group-title="Entretenimiento",TNT Sur
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT Sur" tvg-logo="" group-title="Entretenimiento" tvg-shift="-7",TNT Sur
 http://190.131.228.59:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.co" tvg-name="Universal Sur" tvg-logo="" group-title="Entretenimiento",Universal Sur
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="Universal Sur" tvg-logo="" group-title="Entretenimiento",Universal Sur
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner Sur" tvg-logo="" group-title="Entretenimiento",Warner Sur
 http://190.131.228.59:8000/play/a05p/index.m3u8
@@ -225,23 +225,21 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 http://190.131.228.59:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="" group-title="Nacional",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6" tvg-logo="" group-title="Nacional",Canal 6
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios" tvg-logo="" group-title="Nacional",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6" tvg-logo="" group-title="Nacional",Canal 6
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="" group-title="Nacional",Multimedios Plus
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8" tvg-logo="" group-title="Nacional",Canal 8
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Camara de Diputados" tvg-logo="" group-title="Nacional",Canal del Congreso| Camara de Diputados
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Congreso del Estado" tvg-logo="" group-title="Nacional",Canal del Congreso| Congreso del Estado
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal del Congreso| Congreso del Estado" tvg-logo="" group-title="Nacional",Canal del Congreso| Congreso del Estado
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Senado de la Republica" tvg-logo="" group-title="Nacional",Canal del Congreso| Senado de la Republica
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Estrellas" tvg-logo="" group-title="Nacional",Canal Estrellas
+#EXTINF:-1 tvg-id="LasEstrellasInternacional.mx" tvg-name="Las Estrellas" tvg-logo="" group-title="Nacional",Las Estrellas
 http://190.131.228.59:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Once" tvg-logo="" group-title="Nacional",Canal Once
+#EXTINF:-1 tvg-id="Once.mx" tvg-name="Once" tvg-logo="" group-title="Nacional",Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrella Tv" tvg-logo="" group-title="Nacional",Estrella Tv
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella Tv" tvg-logo="" group-title="Nacional",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia Tv" tvg-logo="" group-title="Nacional",Justicia Tv
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
@@ -261,9 +259,9 @@ http://190.131.228.59:8000/play/a04e/index.m3u8
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal" tvg-logo="" group-title="Peliculas",Cinecanal
 http://190.131.228.59:8000/play/a0ro/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="Cinemax" tvg-logo="" group-title="Peliculas",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="Cinemax" tvg-logo="" group-title="Peliculas" tvg-shift="-8",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="FX.co" tvg-name="FX" tvg-logo="" group-title="Peliculas",FX
+#EXTINF:-1 tvg-id="FX.co" tvg-name="FX" tvg-logo="" group-title="Peliculas" tvg-shift="-8",FX
 http://190.131.228.59:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Peliculas",HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
@@ -311,6 +309,8 @@ http://190.131.228.59:8000/play/a0r7/index.m3u8
 http://190.131.228.59:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ConexionCapital.co" tvg-name="Conexión Capital" tvg-logo="" group-title="Sudamerica",Conexión Capital
 http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Costa Rica TV" tvg-logo="" group-title="Sudamerica",Costa Rica TV
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="ISAT.co" tvg-name="ISat" tvg-logo="" group-title="Sudamerica",ISat
 http://190.131.228.59:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="TVRed.co" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
