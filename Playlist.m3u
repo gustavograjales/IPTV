@@ -349,105 +349,123 @@ http://190.131.228.59:8000/play/a005/index.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona Latina" tvg-logo="" group-title="Musica",Zona Latina
 http://190.131.228.59:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="APlus.mx" tvg-name="A Más (480p) [Geo-blocked]" tvg-logo="" group-title="Nacional",A Más (480p) [Geo-blocked]
+#EXTINF:-1 tvg-chno="72" tvg-id="AMAS.mx" tvg-name="A Más" tvg-logo="" group-title="Nacional",A Más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (480p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Nacional",ADN 40 (480p)
+#EXTINF:-1 tvg-chno="12" tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Nacional",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (720p) [Geo-blocked]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="Nacional",Azteca Uno (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="Nacional",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-name="Canal 10 Cancún (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Canal 10 Cancún (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-name="Canal 10 Cancún" tvg-logo="" group-title="Nacional",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-name="Canal 10 Chiapas (720p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116232_dark_360w_270h.png" group-title="Nacional",Canal 10 Chiapas (720p)
+#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-name="Canal 10 Chiapas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116232_dark_360w_270h.png" group-title="Nacional",Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-name="Canal 44 Chihuahua (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Canal 44 Chihuahua (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-name="Canal 44 Chihuahua" tvg-logo="" group-title="Nacional",Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-name="Canal 44 Ciudad Juárez (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Canal 44 Ciudad Juárez (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-name="Canal 44 Ciudad Juárez" tvg-logo="" group-title="Nacional",Canal 44 Ciudad Juárez
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (480p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Nacional",Canal 5 (480p)
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Nacional",Canal 5
 http://45.174.77.243:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="XEJTDT.mx" tvg-name="Canal 50.1 Juárez (XEJ-TDT) (614p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Nacional",Canal 50.1 Juárez (XEJ-TDT) (614p)
+#EXTINF:-1 tvg-id="XEJTDT.mx" tvg-name="Canal 50.1 Juárez" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Nacional",Canal 50.1 Juárez
 https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso 45.1 [Not 24/7]" tvg-logo="" group-title="Nacional",Canal del Congreso 45.1 [Not 24/7]
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso 45.1" tvg-logo="" group-title="Nacional",Canal del Congreso 45.1
 https://edge.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-name="Canal del Congreso 45.2 [Not 24/7]" tvg-logo="" group-title="Nacional",Canal del Congreso 45.2 [Not 24/7]
+#EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-name="Canal del Congreso 45.2" tvg-logo="" group-title="Nacional",Canal del Congreso 45.2
 https://edge.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-name="Canal del Congreso 45.3 [Not 24/7]" tvg-logo="" group-title="Nacional",Canal del Congreso 45.3 [Not 24/7]
+#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-name="Canal del Congreso 45.3" tvg-logo="" group-title="Nacional",Canal del Congreso 45.3
 https://edge.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-name="Hipódromo de las Américas (480p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Hipódromo de las Américas (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Camara de Diputados" tvg-logo="" group-title="Nacional",Canal del Congreso| Camara de Diputados
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal del Congreso| Congreso del Estado" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20548_dark_360w_270h.png" group-title="Nacional",Canal del Congreso| Congreso del Estado
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Senado de la Republica" tvg-logo="" group-title="Nacional",Canal del Congreso| Senado de la Republica
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="Nacional",Estrella Tv
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-name="Hipódromo de las Américas" tvg-logo="" group-title="Nacional",Hipódromo de las Américas
 http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Jalisco TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imagen Television" tvg-logo="" group-title="Nacional",Imagen Television
+https://stream-04.ix7.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlJntBVlSc9Vny2MckdgU3x4MAaYC2Y0b5kV4SLEuL8o)/dm/3/x82z4if/d/live-2.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" tvg-logo="" group-title="Nacional",Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (1080p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Nacional",Las Estrellas (1080p)
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50577_dark_360w_270h.png" group-title="Nacional",Justicia Tv
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Nacional",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV (720p)" tvg-logo="" group-title="Nacional",Mexiquense TV (720p)
+#EXTINF:-1 tvg-id="LasEstrellasInternacional.mx" tvg-name="Las Estrellas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="Nacional",Las Estrellas
+http://190.131.228.59:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" tvg-logo="" group-title="Nacional",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="Milenio" tvg-name="Milenio Televisión Noroeste (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Milenio Televisión Noroeste (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Milenio" tvg-name="Milenio Televisión Noroeste" tvg-logo="" group-title="Nacional",Milenio Televisión Noroeste
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Bajío (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Bajío (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Bajío" tvg-logo="" group-title="Nacional",Multimedios Bajío
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios CDMX (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios CDMX (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios CDMX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png" group-title="Nacional",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Ciudad Juarez (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Ciudad Juarez (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Ciudad Juarez" tvg-logo="" group-title="Nacional",Multimedios Ciudad Juarez
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-name="Multimedios Guadalajara (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Guadalajara (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-name="Multimedios Guadalajara" tvg-logo="" group-title="Nacional",Multimedios Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-name="Multimedios Laguna (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Laguna (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-name="Multimedios Laguna" tvg-logo="" group-title="Nacional",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="Multimedios Monterrey (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Monterrey (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="Multimedios Monterrey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="Nacional",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Puebla (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Puebla (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Puebla" tvg-logo="" group-title="Nacional",Multimedios Puebla
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Saltillo (720p) [Geo-blocked]" tvg-logo="" group-title="Nacional",Multimedios Saltillo (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Saltillo" tvg-logo="" group-title="Nacional",Multimedios Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx" tvg-name="Nueve TV San Luís Potosí (720p)" tvg-logo="" group-title="Nacional",Nueve TV San Luís Potosí (720p)
+#EXTINF:-1 tvg-id="NueveTV.mx" tvg-name="Nueve TV San Luís Potosí" tvg-logo="" group-title="Nacional",Nueve TV San Luís Potosí
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once Mexico (1080p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Nacional",Once Mexico (1080p)
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Nacional",Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo México (720p)" tvg-logo="" group-title="Nacional",Presumiendo México (720p)
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo México" tvg-logo="" group-title="Nacional",Presumiendo México
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro (360p) [Not 24/7]" tvg-logo="" group-title="Nacional",RTQ Queretaro (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="" group-title="Nacional",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx" tvg-name="Sistema Michoacano de TV (1080p)" tvg-logo="" group-title="Nacional",Sistema Michoacano de TV (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
+http://190.131.228.59:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx" tvg-name="Sistema Michoacano de TV" tvg-logo="" group-title="Nacional",Sistema Michoacano de TV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFórmula" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="Nacional",TeleFórmula
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-name="Televisa Del Golfo" tvg-logo="" group-title="Nacional",Televisa Del Golfo
 https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
-#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-name="Televisa Guadalajara (1080p)" tvg-logo="" group-title="Nacional",Televisa Guadalajara (1080p)
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-name="Televisa Guadalajara" tvg-logo="" group-title="Nacional",Televisa Guadalajara
 https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-name="Televisa Noreste (480p) [Not 24/7]" tvg-logo="" group-title="Nacional",Televisa Noreste (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-name="Televisa Noreste" tvg-logo="" group-title="Nacional",Televisa Noreste
 https://ythls.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
-#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-name="Televisa Piedras Negras (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Televisa Piedras Negras (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-name="Televisa Piedras Negras" tvg-logo="" group-title="Nacional",Televisa Piedras Negras
 https://ythls.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
-#EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-name="Televisa San Luis Potosí (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Televisa San Luis Potosí (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-name="Televisa San Luis Potosí" tvg-logo="" group-title="Nacional",Televisa San Luis Potosí
 https://ythls.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
-#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-name="Televisa Veracruz (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Televisa Veracruz (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-name="Televisa Veracruz" tvg-logo="" group-title="Nacional",Televisa Veracruz
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
-#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-name="Televisa Zacatecas (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",Televisa Zacatecas (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-name="Televisa Zacatecas" tvg-logo="" group-title="Nacional",Televisa Zacatecas
 https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
-#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-name="Tlaxcala Televisión (360p) [Not 24/7]" tvg-logo="" group-title="Nacional",Tlaxcala Televisión (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-name="Tlaxcala Televisión" tvg-logo="" group-title="Nacional",Tlaxcala Televisión
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
-#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-name="Transmedia Televisión Morelia (614p) [Not 24/7]" tvg-logo="" group-title="Nacional",Transmedia Televisión Morelia (614p) [Not 24/7]
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-name="Transmedia Televisión Morelia" tvg-logo="" group-title="Nacional",Transmedia Televisión Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-name="Transmedia Televisión Morelia (614p) [Not 24/7]" tvg-logo="" group-title="Nacional",Transmedia Televisión Morelia (614p) [Not 24/7]
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-name="Transmedia Televisión Morelia" tvg-logo="" group-title="Nacional",Transmedia Televisión Morelia
 https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-name="TV Azteca Noroeste (Monterrey | Nuevo Leon) (720p)" tvg-logo="" group-title="Nacional",TV Azteca Noroeste (Monterrey | Nuevo Leon) (720p)
+#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-name="TV Azteca Noroeste (Monterrey | Nuevo Leon)" tvg-logo="" group-title="Nacional",TV Azteca Noroeste (Monterrey | Nuevo Leon)
 https://live.info7.mx/info7/stream.m3u8
-#EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP (1080p)" tvg-logo="" group-title="Nacional",TV BUAP (1080p)
+#EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP" tvg-logo="" group-title="Nacional",TV BUAP
 https://tvenvivo.buap.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="TVGuanajuato.mx" tvg-name="TV Guanajuato (720p)" tvg-logo="" group-title="Nacional",TV Guanajuato (720p)
+#EXTINF:-1 tvg-id="TVGuanajuato.mx" tvg-name="TV Guanajuato" tvg-logo="" group-title="Nacional",TV Guanajuato
 https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-name="TV Lobo Durango" tvg-logo="" group-title="Nacional",TV Lobo Durango
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarLosCabos.mx" tvg-name="TV Mar Los Cabos (1080p)" tvg-logo="" group-title="Nacional",TV Mar Los Cabos (1080p)
+#EXTINF:-1 tvg-id="TVMarLosCabos.mx" tvg-name="TV Mar Los Cabos" tvg-logo="" group-title="Nacional",TV Mar Los Cabos
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-name="TV Mar Puerto Vallarta (1080p)" tvg-logo="" group-title="Nacional",TV Mar Puerto Vallarta (1080p)
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-name="TV Mar Puerto Vallarta" tvg-logo="" group-title="Nacional",TV Mar Puerto Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-name="TV Nuevo León Canal 28 (XHMNL-TDT) (720p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116228_dark_360w_270h.png" group-title="Nacional",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-name="TV Nuevo León Canal 28 (XHMNL-TDT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116228_dark_360w_270h.png" group-title="Nacional",TV Nuevo León Canal 28 (XHMNL-TDT)
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM (720p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="Nacional",TV UNAM (720p)
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="Nacional",TV UNAM
 https://60ed5b6d0df78.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM (720p) [Geo-blocked]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="Nacional",TV UNAM (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="Nacional",TV UNAM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-name="TVP Culiacán (720p) [Not 24/7]" tvg-logo="" group-title="Nacional",TVP Culiacán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
@@ -459,30 +477,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 #EXTINF:-1 tvg-id="XHKGTDT.mx" tvg-name="XHKG TV Nayarit (1080p)" tvg-logo="" group-title="Nacional",XHKG TV Nayarit (1080p)
 https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Nacional",ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="Nacional",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png" group-title="Nacional",Multimedios Plus
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Camara de Diputados" tvg-logo="" group-title="Nacional",Canal del Congreso| Camara de Diputados
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal del Congreso| Congreso del Estado" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20548_dark_360w_270h.png" group-title="Nacional",Canal del Congreso| Congreso del Estado
-https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Senado de la Republica" tvg-logo="" group-title="Nacional",Canal del Congreso| Senado de la Republica
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasInternacional.mx" tvg-name="Las Estrellas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="Nacional",Las Estrellas
-http://190.131.228.59:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="Once.mx" tvg-name="Once" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Nacional",Once
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="Nacional",Estrella Tv
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50577_dark_360w_270h.png" group-title="Nacional",Justicia Tv
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Nacional",SET
-http://190.131.228.59:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="CNNChile.co" tvg-name="CNN Chile" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="Noticias",CNN Chile
 http://190.131.228.59:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol.ar" tvg-name="CNN Espanol" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Noticias",CNN Espanol
