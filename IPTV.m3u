@@ -145,30 +145,30 @@ https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-name="XHSPR-TDT1 (Canal Catorce)" tvg-logo="" group-title="(no group)",XHSPR-TDT1 (Canal Catorce)
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.co" tvg-name=" ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes", ESPN 2 Sur
-http://190.131.228.59:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.co" tvg-name=" ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes", ESPN 2 Sur
-http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.co" tvg-name=" ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes", ESPN 2 Sur
-http://190.131.228.59:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.co" tvg-name=" ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes", ESPN 2 Sur
-http://45.190.13.50:8002/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Premium" tvg-logo="" group-title="Deportes",Arena Sport 1 Premium
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-1-premium-rs.png" group-title="Deportes",Arena Sport 1 Premium
 http://204.12.247.162:8080/premium429/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="" group-title="Deportes",Arena Sport 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-sport-3-rs.png" group-title="Deportes",Arena Sport 3
 http://204.12.247.162:8080/premium431/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4" tvg-logo="" group-title="Deportes",Arena Sport 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 4" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-sport-4-icon-rs.png" group-title="Deportes",Arena Sport 4
 http://204.12.247.162:8080/premium581/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cytavision Sports 3" tvg-logo="" group-title="Deportes",Cytavision Sports 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cytavision Sports 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cytavision-sports-3-394.png" group-title="Deportes",Cytavision Sports 3
 http://213.7.193.54:4000/play/a005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="" group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/germany/dazn1-de.png" group-title="Deportes",DAZN 1
 http://204.12.247.162:8080/premium426/mono.m3u8
-#EXTINF:-1 tvg-id="DiemaSport(src01).bg" tvg-name="Diema Sport" tvg-logo="" group-title="Deportes",Diema Sport
+#EXTINF:-1 tvg-id="DiemaSport(src01).bg" tvg-name="Diema Sport" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TheLogoDB/master/Images/Diema_Sport_HD.png" group-title="Deportes",Diema Sport
 http://204.12.247.162:8080/premium465/mono.m3u8
-#EXTINF:-1 tvg-id="DiemaSport2(src01).bg" tvg-name="Diema Sport 2" tvg-logo="" group-title="Deportes",Diema Sport 2
+#EXTINF:-1 tvg-id="DiemaSport2(src01).bg" tvg-name="Diema Sport 2" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TheLogoDB/master/Images/Diema_Sport_2_HD.png" group-title="Deportes",Diema Sport 2
 http://204.12.247.162:8080/premium466/mono.m3u8
-#EXTINF:-1 tvg-id="EDGESport(src01).nl" tvg-name="Edge Sport" tvg-logo="" group-title="Deportes",Edge Sport
+#EXTINF:-1 tvg-id="EDGESport(src01).nl" tvg-name="Edge Sport" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/misc/vod/edge-sport-vod.png" group-title="Deportes",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
+http://190.131.228.59:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
+http://190.131.228.59:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
+http://190.131.228.59:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
+http://45.190.13.50:8002/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
 http://170.83.242.8:5350/play/a00t
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
@@ -179,7 +179,7 @@ http://186.31.37.98:8000/play/a017/index.m3u8
 http://190.5.200.52:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.co" tvg-name="ESPN 3 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3 Sur
 http://190.131.228.59:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3*" tvg-logo="" group-title="Deportes",ESPN 3*
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3*
 http://45.190.13.50:8002/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4SUR.co" tvg-name="ESPN 4 Esp*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png" group-title="Deportes",ESPN 4 Esp*
 http://190.131.228.59:8000/play/a0rg/index.m3u8
@@ -205,45 +205,45 @@ http://190.131.228.59:8000/play/a00c/index.m3u8
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1*" tvg-logo="https://gustavograjales.github.io/IPTV/Images/FS1.png" group-title="Deportes",Fox Sports 1*
 http://190.131.228.59:8000/play/a0j3/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Deportes",Fox Sports 2 Sur
+#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 Sur" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/world-asia/fox-sports-2-asi.png" group-title="Deportes",Fox Sports 2 Sur
 http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Deportes",Fox Sports 2 Sur
+#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 Sur" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/world-asia/fox-sports-2-asi.png" group-title="Deportes",Fox Sports 2 Sur
 http://190.131.228.59:8000/play/a0rh/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Deportes",Fox Sports 2 Sur
+#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 Sur" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/world-asia/fox-sports-2-asi.png" group-title="Deportes",Fox Sports 2 Sur
 http://186.31.37.98:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/world-asia/fox-sports-3-asi.png" group-title="Deportes",Fox Sports 3
 http://170.83.242.155:5350/play/a014
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/world-asia/fox-sports-3-asi.png" group-title="Deportes",Fox Sports 3
 http://186.31.37.98:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/world-asia/fox-sports-3-asi.png" group-title="Deportes",Fox Sports 3
 http://190.131.228.59:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOL TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32161_dark_360w_270h.png" group-title="Deportes",GOL TV
 http://190.131.228.59:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="J Sports 2" tvg-logo="" group-title="Deportes",J Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="J Sports 2" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/758.png" group-title="Deportes",J Sports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
-#EXTINF:-1 tvg-id="MAXSport3(src01).bg" tvg-name="Max Sport 3" tvg-logo="" group-title="Deportes",Max Sport 3
+#EXTINF:-1 tvg-id="MAXSport3(src01).bg" tvg-name="Max Sport 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-max-sport-3-1608.png" group-title="Deportes",Max Sport 3
 http://62.176.77.22:9781/play/a00i
-#EXTINF:-1 tvg-id="NOVAsport(src01).bg" tvg-name="NOVA sport" tvg-logo="" group-title="Deportes",NOVA sport
+#EXTINF:-1 tvg-id="NOVAsport(src01).bg" tvg-name="NOVA sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="Deportes",NOVA sport
 http://204.12.247.162:8080/premium468/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneGolf" tvg-logo="" group-title="Deportes",OneGolf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneGolf" tvg-logo="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/277681207_362584845882750_5071929139783717403_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG1LIX-LJl0nXVoFzu4EheysjMImuGlf2uyMwia4aV_a9YMaeAQqha_16aSWFsPy3g&_nc_ohc=f8LwiEw1jeMAX81nu4d&_nc_ht=sconte" group-title="Deportes",OneGolf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 1" tvg-logo="" group-title="Deportes",Setana Sports 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Setanta_Sports_1_2021.svg" group-title="Deportes",Setana Sports 1
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 2" tvg-logo="" group-title="Deportes",Setana Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Setanta_Sports_2_2021.png" group-title="Deportes",Setana Sports 2
 http://31.146.176.94:80/setanta2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 2" tvg-logo="" group-title="Deportes",Setana Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Setanta_Sports_2_2021.png" group-title="Deportes",Setana Sports 2
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 2" tvg-logo="" group-title="Deportes",Setana Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Setanta_Sports_2_2021.png" group-title="Deportes",Setana Sports 2
 https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104324_dark_360w_270h.png" group-title="Deportes",Sky Sports Arena
 http://204.12.247.162:8080/premium36/mono.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="Deportes",Sky Sports Football
 http://204.12.247.162:8080/premium35/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 2" tvg-logo="" group-title="Deportes",Sony Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Deportes",Sony Sports 2
 http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select" tvg-logo="" group-title="Deportes",Star Sports Select
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/india/star-sports-select-1-in.png" group-title="Deportes",Star Sports Select
 http://175.107.244.52:4455/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select  2" tvg-logo="" group-title="Deportes",Star Sports Select  2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select  2" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/india/star-sports-select-2-in.png" group-title="Deportes",Star Sports Select  2
 http://175.107.244.52:4455/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -261,9 +261,9 @@ http://190.131.228.59:8000/play/a05v/index.m3u8
 http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsplus.co" tvg-name="Win Sports+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112483_dark_360w_270h.png" group-title="Deportes",Win Sports+
 http://190.131.228.59:8000/play/a0e2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport" tvg-logo="" group-title="Deportes",XSport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_XSPORT.png" group-title="Deportes",XSport
 http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport+" tvg-logo="" group-title="Deportes",XSport+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Xsport_logo.png" group-title="Deportes",XSport+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://gustavograjales.github.io/IPTV/Images/AMC.png" group-title="Entretenimiento",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
