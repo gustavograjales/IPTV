@@ -1,18 +1,70 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1qq1raje3xen721"
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="--" tvg-logo="" group-title="(no group)",--
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="---" tvg-logo="" group-title="(no group)",---
 http://204.12.247.162:8080/premium467/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="" group-title="(no group)",A&E
+http://rayito-tv.xyz:41001/elliot/elliot/30646
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="" group-title="(no group)",A&E
+http://rayito-tv.xyz:41001/elliot/elliot/30307
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A+" tvg-logo="" group-title="(no group)",A+
+http://rayito-tv.xyz:41001/elliot/elliot/31994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN 40" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="(no group)",ADN 40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN 40 OPT-2" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="(no group)",ADN 40 OPT-2
+http://rayito-tv.xyz:41001/elliot/elliot/31991
 #EXTINF:-1 tvg-id="AlcanceTV.mx" tvg-name="Alcance TV (720p)" tvg-logo="" group-title="(no group)",Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alcarria TV (576p) [Not 24/7]" tvg-logo="" group-title="(no group)",Alcarria TV (576p) [Not 24/7]
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="(no group)",AMC
+http://rayito-tv.xyz:41001/elliot/elliot/30427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="(no group)",AMC
+http://rayito-tv.xyz:41001/elliot/elliot/30334
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-name="AMX Noticias (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="(no group)",Animal Planet
+http://rayito-tv.xyz:41001/elliot/elliot/32005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="(no group)",Animal Planet
+http://rayito-tv.xyz:41001/elliot/elliot/30340
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena Tele (1080p)" tvg-logo="" group-title="(no group)",Antena Tele (1080p)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="(no group)",AXN
+http://rayito-tv.xyz:41001/elliot/elliot/30647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="" group-title="(no group)",AXN
+http://rayito-tv.xyz:41001/elliot/elliot/30308
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CINEMA" tvg-logo="" group-title="(no group)",AZ CINEMA
+http://rayito-tv.xyz:41001/elliot/elliot/30422
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CLIC" tvg-logo="" group-title="(no group)",AZ CLIC
+http://rayito-tv.xyz:41001/elliot/elliot/31989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ CORAZON" tvg-logo="" group-title="(no group)",AZ CORAZON
+http://rayito-tv.xyz:41001/elliot/elliot/31990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ MUNDO" tvg-logo="" group-title="(no group)",AZ MUNDO
+http://rayito-tv.xyz:41001/elliot/elliot/31988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7" tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="(no group)",AZTECA 7
+http://rayito-tv.xyz:41001/elliot/elliot/31981
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7 HD" tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="(no group)",AZTECA 7 HD
+http://rayito-tv.xyz:41001/elliot/elliot/30349
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA 7 OPT-2" tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="(no group)",AZTECA 7 OPT-2
+http://rayito-tv.xyz:41001/elliot/elliot/31992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA UNO" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="(no group)",AZTECA UNO
+http://rayito-tv.xyz:41001/elliot/elliot/31976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA UNO OPT-2" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="(no group)",AZTECA UNO OPT-2
+http://rayito-tv.xyz:41001/elliot/elliot/31993
 #EXTINF:-1 tvg-id="B15.mx" tvg-name="B15 (1080p)" tvg-logo="" group-title="(no group)",B15 (1080p)
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby First" tvg-logo="" group-title="(no group)",Baby First
+http://rayito-tv.xyz:41001/elliot/elliot/30751
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby Tv" tvg-logo="" group-title="(no group)",Baby Tv
+http://rayito-tv.xyz:41001/elliot/elliot/30740
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bitme" tvg-logo="" group-title="(no group)",Bitme
+http://rayito-tv.xyz:41001/elliot/elliot/30350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="(no group)",Boomerang
+http://rayito-tv.xyz:41001/elliot/elliot/30749
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="(no group)",Boomerang
+http://rayito-tv.xyz:41001/elliot/elliot/30320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 11" tvg-logo="" group-title="(no group)",Canal 11
+http://rayito-tv.xyz:41001/elliot/elliot/31983
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-name="Canal 12 (XETW-TDT) (1080p) [Not 24/7]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12028_dark_360w_270h.png" group-title="(no group)",Canal 12 (XETW-TDT) (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="Canal 15 ILCE Summa Sabres" tvg-logo="" group-title="(no group)",Canal 15 ILCE Summa Sabres
@@ -21,36 +73,240 @@ https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/cuarto/cuarto/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal28.mx" tvg-name="Canal 28 (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Canal 28 (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 5" tvg-logo="" group-title="(no group)",CANAL 5
+http://rayito-tv.xyz:41001/elliot/elliot/31980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="(no group)",Canal de las Estrellas
+http://rayito-tv.xyz:41001/elliot/elliot/31977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal de las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="(no group)",Canal de las Estrellas HD
+http://rayito-tv.xyz:41001/elliot/elliot/30351
 #EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-name="Canal Iberoamericano" tvg-logo="" group-title="(no group)",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-name="Canal Iberoamericano (720p)" tvg-logo="" group-title="(no group)",Canal Iberoamericano (720p)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21 (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",Capital 21 (720p) [Not 24/7]
 https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="(no group)",Cartoon Network
+http://rayito-tv.xyz:41001/elliot/elliot/30747
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="(no group)",Cartoon Network
+http://rayito-tv.xyz:41001/elliot/elliot/30318
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network México (720p)" tvg-logo="" group-title="(no group)",Cartoon Network México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Cartoonito México (720p)" tvg-logo="" group-title="(no group)",Cartoonito México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="CBTVMichoacan.mx" tvg-name="CB TV Michoacán (720p)" tvg-logo="" group-title="(no group)",CB TV Michoacán (720p)
 https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Dinamita" tvg-logo="" group-title="(no group)",Cine Dinamita
+http://rayito-tv.xyz:41001/elliot/elliot/30446
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Latino" tvg-logo="" group-title="(no group)",Cine Latino
+http://rayito-tv.xyz:41001/elliot/elliot/30447
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="" group-title="(no group)",Cinecanal
+http://rayito-tv.xyz:41001/elliot/elliot/30423
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="" group-title="(no group)",Cinecanal
+http://rayito-tv.xyz:41001/elliot/elliot/30331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="(no group)",Cinemax
+http://rayito-tv.xyz:41001/elliot/elliot/30431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="(no group)",Cinemax
+http://rayito-tv.xyz:41001/elliot/elliot/30352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN En español" tvg-logo="" group-title="(no group)",CNN En español
+http://rayito-tv.xyz:41001/elliot/elliot/30672
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Internacional" tvg-logo="" group-title="(no group)",CNN Internacional
+http://rayito-tv.xyz:41001/elliot/elliot/30675
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="(no group)",Comedy Central
+http://rayito-tv.xyz:41001/elliot/elliot/30698
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="(no group)",Comedy Central
+http://rayito-tv.xyz:41001/elliot/elliot/30649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="(no group)",Comedy Central
+http://rayito-tv.xyz:41001/elliot/elliot/30310
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV (720p)" tvg-logo="" group-title="(no group)",Conecta TV (720p)
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CorTV.mx" tvg-name="CorTV (800p)" tvg-logo="" group-title="(no group)",CorTV (800p)
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Pelicula" tvg-logo="" group-title="(no group)",De Pelicula
+http://rayito-tv.xyz:41001/elliot/elliot/30434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Pelicula Plus" tvg-logo="" group-title="(no group)",De Pelicula Plus
+http://rayito-tv.xyz:41001/elliot/elliot/30426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="(no group)",Discovery Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="(no group)",Discovery Channel
+http://rayito-tv.xyz:41001/elliot/elliot/31999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="(no group)",Discovery Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30323
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Civilization" tvg-logo="" group-title="(no group)",Discovery Civilization
+http://rayito-tv.xyz:41001/elliot/elliot/31996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home and Health" tvg-logo="" group-title="(no group)",Discovery Home and Health
+http://rayito-tv.xyz:41001/elliot/elliot/30662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Home and Health" tvg-logo="" group-title="(no group)",Discovery Home and Health
+http://rayito-tv.xyz:41001/elliot/elliot/30324
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery ID" tvg-logo="" group-title="(no group)",Discovery ID
+http://rayito-tv.xyz:41001/elliot/elliot/30313
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Investigation" tvg-logo="" group-title="(no group)",Discovery Investigation
+http://rayito-tv.xyz:41001/elliot/elliot/30655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="(no group)",Discovery Kids
+http://rayito-tv.xyz:41001/elliot/elliot/30741
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="(no group)",Discovery Kids
+http://rayito-tv.xyz:41001/elliot/elliot/30314
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="(no group)",Discovery Science
+http://rayito-tv.xyz:41001/elliot/elliot/32006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="(no group)",Discovery Science
+http://rayito-tv.xyz:41001/elliot/elliot/30327
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Theater" tvg-logo="" group-title="(no group)",Discovery Theater
+http://rayito-tv.xyz:41001/elliot/elliot/32002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Theater" tvg-logo="" group-title="(no group)",Discovery Theater
+http://rayito-tv.xyz:41001/elliot/elliot/30339
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="(no group)",Discovery Turbo
+http://rayito-tv.xyz:41001/elliot/elliot/30668
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="(no group)",Discovery Turbo
+http://rayito-tv.xyz:41001/elliot/elliot/30341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World" tvg-logo="" group-title="(no group)",Discovery World
+http://rayito-tv.xyz:41001/elliot/elliot/32004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World" tvg-logo="" group-title="(no group)",Discovery World
+http://rayito-tv.xyz:41001/elliot/elliot/30322
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="(no group)",Disney Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30728
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="(no group)",Disney Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30744
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="(no group)",Disney Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="(no group)",Disney Jr
+http://rayito-tv.xyz:41001/elliot/elliot/30727
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="" group-title="(no group)",Disney Junior
+http://rayito-tv.xyz:41001/elliot/elliot/30742
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="" group-title="(no group)",Disney Junior
+http://rayito-tv.xyz:41001/elliot/elliot/30315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="(no group)",Disney XD
+http://rayito-tv.xyz:41001/elliot/elliot/30729
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="(no group)",Disney XD
+http://rayito-tv.xyz:41001/elliot/elliot/30748
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="(no group)",Disney XD
+http://rayito-tv.xyz:41001/elliot/elliot/30319
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Distrito Comedia" tvg-logo="" group-title="(no group)",Distrito Comedia
+http://rayito-tv.xyz:41001/elliot/elliot/30659
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! Entertainment" tvg-logo="" group-title="(no group)",E! Entertainment
+http://rayito-tv.xyz:41001/elliot/elliot/30653
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! entertainment" tvg-logo="" group-title="(no group)",E! entertainment
+http://rayito-tv.xyz:41001/elliot/elliot/30311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Gourmet" tvg-logo="" group-title="(no group)",El Gourmet
+http://rayito-tv.xyz:41001/elliot/elliot/30656
 #EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-name="El NU9VE (1080p)" tvg-logo="" group-title="(no group)",El NU9VE (1080p)
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espn MX" tvg-logo="" group-title="(no group)",Espn MX
+http://rayito-tv.xyz:41001/elliot/elliot/30346
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Europa Europa" tvg-logo="" group-title="(no group)",Europa Europa
+http://rayito-tv.xyz:41001/elliot/elliot/30667
 #EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-name="Expresa TV (720p)" tvg-logo="" group-title="(no group)",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film & Arts" tvg-logo="" group-title="(no group)",Film & Arts
+http://rayito-tv.xyz:41001/elliot/elliot/31997
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-name="Filmex Clásico (1080p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Filmex Clásico (1080p) [Geo-blocked]
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Flixmex (Xumo) (1080p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Flixmex (Xumo) (1080p) [Geo-blocked]
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="(no group)",Food Network
+http://rayito-tv.xyz:41001/elliot/elliot/32001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="(no group)",Food Network
+http://rayito-tv.xyz:41001/elliot/elliot/30343
 #EXTINF:-1 tvg-id="Foro.mx" tvg-name="Foro (720p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Foro (720p) [Geo-blocked]
 https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Foro Tv" tvg-logo="" group-title="(no group)",Foro Tv
+http://rayito-tv.xyz:41001/elliot/elliot/31979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="" group-title="(no group)",Fox
+http://rayito-tv.xyz:41001/elliot/elliot/30713
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="" group-title="(no group)",Fox
+http://rayito-tv.xyz:41001/elliot/elliot/30347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Channel" tvg-logo="" group-title="(no group)",Fox Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30641
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="" group-title="(no group)",Fox Life
+http://rayito-tv.xyz:41001/elliot/elliot/30714
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="" group-title="(no group)",Fox Life
+http://rayito-tv.xyz:41001/elliot/elliot/30658
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Action" tvg-logo="" group-title="(no group)",Fox Premium Action
+http://rayito-tv.xyz:41001/elliot/elliot/30418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Action" tvg-logo="" group-title="(no group)",Fox Premium Action
+http://rayito-tv.xyz:41001/elliot/elliot/30344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Cinema" tvg-logo="" group-title="(no group)",Fox Premium Cinema
+http://rayito-tv.xyz:41001/elliot/elliot/30420
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Classics" tvg-logo="" group-title="(no group)",Fox Premium Classics
+http://rayito-tv.xyz:41001/elliot/elliot/30421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Comedy" tvg-logo="" group-title="(no group)",Fox Premium Comedy
+http://rayito-tv.xyz:41001/elliot/elliot/30444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Comedy" tvg-logo="" group-title="(no group)",Fox Premium Comedy
+http://rayito-tv.xyz:41001/elliot/elliot/30361
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Family" tvg-logo="" group-title="(no group)",Fox Premium Family
+http://rayito-tv.xyz:41001/elliot/elliot/30441
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Movies" tvg-logo="" group-title="(no group)",Fox Premium Movies
+http://rayito-tv.xyz:41001/elliot/elliot/30419
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Movies" tvg-logo="" group-title="(no group)",Fox Premium Movies
+http://rayito-tv.xyz:41001/elliot/elliot/30330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Series" tvg-logo="" group-title="(no group)",Fox Premium Series
+http://rayito-tv.xyz:41001/elliot/elliot/30417
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Premium Series" tvg-logo="" group-title="(no group)",Fox Premium Series
+http://rayito-tv.xyz:41001/elliot/elliot/30329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="(no group)",Fox Sports 2
+http://rayito-tv.xyz:41001/elliot/elliot/30345
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="(no group)",FX
+http://rayito-tv.xyz:41001/elliot/elliot/30645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="(no group)",FX
+http://rayito-tv.xyz:41001/elliot/elliot/30306
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX Movies" tvg-logo="" group-title="(no group)",FX Movies
+http://rayito-tv.xyz:41001/elliot/elliot/30665
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX Movies" tvg-logo="" group-title="(no group)",FX Movies
+http://rayito-tv.xyz:41001/elliot/elliot/30338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gala TV" tvg-logo="" group-title="(no group)",Gala TV
+http://rayito-tv.xyz:41001/elliot/elliot/31982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glitz" tvg-logo="" group-title="(no group)",Glitz
+http://rayito-tv.xyz:41001/elliot/elliot/30657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golden" tvg-logo="" group-title="(no group)",Golden
+http://rayito-tv.xyz:41001/elliot/elliot/30432
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golden Edge" tvg-logo="" group-title="(no group)",Golden Edge
+http://rayito-tv.xyz:41001/elliot/elliot/30433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golden Plus" tvg-logo="" group-title="(no group)",Golden Plus
+http://rayito-tv.xyz:41001/elliot/elliot/30425
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golden Plus" tvg-logo="" group-title="(no group)",Golden Plus
+http://rayito-tv.xyz:41001/elliot/elliot/30333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golden Premier" tvg-logo="" group-title="(no group)",Golden Premier
+http://rayito-tv.xyz:41001/elliot/elliot/30360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="(no group)",HBO
+http://rayito-tv.xyz:41001/elliot/elliot/30436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="(no group)",HBO
+http://rayito-tv.xyz:41001/elliot/elliot/30354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="(no group)",HBO 2
+http://rayito-tv.xyz:41001/elliot/elliot/30437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="(no group)",HBO 2
+http://rayito-tv.xyz:41001/elliot/elliot/30355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="(no group)",HBO Family
+http://rayito-tv.xyz:41001/elliot/elliot/30435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="(no group)",HBO Family
+http://rayito-tv.xyz:41001/elliot/elliot/30357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus" tvg-logo="" group-title="(no group)",HBO Plus
+http://rayito-tv.xyz:41001/elliot/elliot/30438
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus" tvg-logo="" group-title="(no group)",HBO Plus
+http://rayito-tv.xyz:41001/elliot/elliot/30358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="" group-title="(no group)",HBO Signature
+http://rayito-tv.xyz:41001/elliot/elliot/30439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="" group-title="(no group)",HBO Signature
+http://rayito-tv.xyz:41001/elliot/elliot/30356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="(no group)",History
+http://rayito-tv.xyz:41001/elliot/elliot/32000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="(no group)",History
+http://rayito-tv.xyz:41001/elliot/elliot/30321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="" group-title="(no group)",History 2
+http://rayito-tv.xyz:41001/elliot/elliot/32007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="" group-title="(no group)",History 2
+http://rayito-tv.xyz:41001/elliot/elliot/30359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hola TV" tvg-logo="" group-title="(no group)",Hola TV
+http://rayito-tv.xyz:41001/elliot/elliot/30651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I sat" tvg-logo="" group-title="(no group)",I sat
+http://rayito-tv.xyz:41001/elliot/elliot/30673
 #EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-name="IERTBCS Canal 8 La Paz (1080p) [Not 24/7]" tvg-logo="" group-title="(no group)",IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
 https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imagen TV" tvg-logo="" group-title="(no group)",Imagen TV
+http://rayito-tv.xyz:41001/elliot/elliot/30362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imagen TV" tvg-logo="" group-title="(no group)",Imagen TV
+http://rayito-tv.xyz:41001/elliot/elliot/31978
 #EXTINF:-1 tvg-id="IMRyT.mx" tvg-name="IMRyT (720p)" tvg-logo="" group-title="(no group)",IMRyT (720p)
 http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ingenio Tv" tvg-logo="" group-title="(no group)",Ingenio Tv
+http://rayito-tv.xyz:41001/elliot/elliot/31995
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_116" tvg-logo="" group-title="(no group)",iptvtools_116
 http://204.12.247.162:8080/premium427/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iptvtools_118" tvg-logo="" group-title="(no group)",iptvtools_118
@@ -63,14 +319,58 @@ https://livetv.mylifeisgood.ml/.../matchhd_nocensored.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV (720p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50577_dark_360w_270h.png" group-title="(no group)",Justicia TV (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="" group-title="(no group)",Lifetime
+http://rayito-tv.xyz:41001/elliot/elliot/30663
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="" group-title="(no group)",Lifetime
+http://rayito-tv.xyz:41001/elliot/elliot/30326
 #EXTINF:-1 tvg-id="LoboTV.mx" tvg-name="Lobo TV (720p)" tvg-logo="" group-title="(no group)",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-name="María Visión Mexico (360p) [Not 24/7]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12034_dark_360w_270h.png" group-title="(no group)",María Visión Mexico (360p) [Not 24/7]
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mas Chic" tvg-logo="" group-title="(no group)",Mas Chic
+http://rayito-tv.xyz:41001/elliot/elliot/30652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max" tvg-logo="" group-title="(no group)",Max
+http://rayito-tv.xyz:41001/elliot/elliot/30440
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Prime" tvg-logo="" group-title="(no group)",Max Prime
+http://rayito-tv.xyz:41001/elliot/elliot/30443
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Prime" tvg-logo="" group-title="(no group)",Max Prime
+http://rayito-tv.xyz:41001/elliot/elliot/30353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX UP" tvg-logo="" group-title="(no group)",MAX UP
+http://rayito-tv.xyz:41001/elliot/elliot/30442
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mexiquense" tvg-logo="" group-title="(no group)",Mexiquense
+http://rayito-tv.xyz:41001/elliot/elliot/31984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milenio" tvg-logo="" group-title="(no group)",Milenio
+http://rayito-tv.xyz:41001/elliot/elliot/30671
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria (1080p)" tvg-logo="" group-title="(no group)",Monte Maria (1080p)
 https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria (720p)" tvg-logo="" group-title="(no group)",Monte Maria (720p)
 https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morbido" tvg-logo="" group-title="(no group)",Morbido
+http://rayito-tv.xyz:41001/elliot/elliot/30430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morbido" tvg-logo="" group-title="(no group)",Morbido
+http://rayito-tv.xyz:41001/elliot/elliot/30335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Accion" tvg-logo="" group-title="(no group)",Movistar Accion
+http://rayito-tv.xyz:41001/elliot/elliot/30701
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Cine Ñ" tvg-logo="" group-title="(no group)",Movistar Cine Ñ
+http://rayito-tv.xyz:41001/elliot/elliot/30705
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar CineDoc&Roll" tvg-logo="" group-title="(no group)",Movistar CineDoc&Roll
+http://rayito-tv.xyz:41001/elliot/elliot/30704
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Comedia" tvg-logo="" group-title="(no group)",Movistar Comedia
+http://rayito-tv.xyz:41001/elliot/elliot/30702
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Disney" tvg-logo="" group-title="(no group)",Movistar Disney
+http://rayito-tv.xyz:41001/elliot/elliot/30700
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Drama" tvg-logo="" group-title="(no group)",Movistar Drama
+http://rayito-tv.xyz:41001/elliot/elliot/30703
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Estrenos" tvg-logo="" group-title="(no group)",Movistar Estrenos
+http://rayito-tv.xyz:41001/elliot/elliot/30699
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Series" tvg-logo="" group-title="(no group)",Movistar Series
+http://rayito-tv.xyz:41001/elliot/elliot/30715
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Seriesmania" tvg-logo="" group-title="(no group)",Movistar Seriesmania
+http://rayito-tv.xyz:41001/elliot/elliot/30716
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="(no group)",MTV
+http://rayito-tv.xyz:41001/elliot/elliot/30337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios" tvg-logo="" group-title="(no group)",Multimedios
+http://rayito-tv.xyz:41001/elliot/elliot/31986
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Canal 8 Costa Rica (720p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Multimedios Canal 8 Costa Rica (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="MultiPremier.mx" tvg-name="Multipremier (480p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="(no group)",Multipremier (480p)
@@ -81,10 +381,40 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" tvg-name="N+ Media-Televisa News México (1080p)" tvg-logo="" group-title="(no group)",N+ Media-Televisa News México (1080p)
 https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Kids" tvg-logo="" group-title="(no group)",Nat Geo Kids
+http://rayito-tv.xyz:41001/elliot/elliot/30753
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="(no group)",Nat Geo Wild
+http://rayito-tv.xyz:41001/elliot/elliot/30724
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NatGeo Channel" tvg-logo="" group-title="(no group)",NatGeo Channel
+http://rayito-tv.xyz:41001/elliot/elliot/31998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NatGeo Channel" tvg-logo="" group-title="(no group)",NatGeo Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30325
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NatGeo Wild" tvg-logo="" group-title="(no group)",NatGeo Wild
+http://rayito-tv.xyz:41001/elliot/elliot/32003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Natgeo Wild" tvg-logo="" group-title="(no group)",Natgeo Wild
+http://rayito-tv.xyz:41001/elliot/elliot/30348
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="(no group)",Nick
+http://rayito-tv.xyz:41001/elliot/elliot/30746
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick 2" tvg-logo="" group-title="(no group)",Nick 2
+http://rayito-tv.xyz:41001/elliot/elliot/30752
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD" tvg-logo="" group-title="(no group)",Nick HD
+http://rayito-tv.xyz:41001/elliot/elliot/30317
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="(no group)",Nick Jr
+http://rayito-tv.xyz:41001/elliot/elliot/30731
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Junior" tvg-logo="" group-title="(no group)",Nick Junior
+http://rayito-tv.xyz:41001/elliot/elliot/30743
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickeloden" tvg-logo="" group-title="(no group)",Nickeloden
+http://rayito-tv.xyz:41001/elliot/elliot/30732
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NickToons" tvg-logo="" group-title="(no group)",NickToons
+http://rayito-tv.xyz:41001/elliot/elliot/30745
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-name="Noticias Canal 10 (360p) [Not 24/7]" tvg-logo="" group-title="(no group)",Noticias Canal 10 (360p) [Not 24/7]
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-id="NRTMexico.mx" tvg-name="NRT México Canal 4 (720p)" tvg-logo="" group-title="(no group)",NRT México Canal 4 (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount" tvg-logo="" group-title="(no group)",Paramount
+http://rayito-tv.xyz:41001/elliot/elliot/30669
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pasiones" tvg-logo="" group-title="(no group)",Pasiones
+http://rayito-tv.xyz:41001/elliot/elliot/30670
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POP TV (542p) [Not 24/7]" tvg-logo="" group-title="(no group)",POP TV (542p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-name="RCG TV (1080p)" tvg-logo="" group-title="(no group)",RCG TV (1080p)
@@ -103,20 +433,70 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 #EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="SIZART Canal 24 (1080p)" tvg-logo="" group-title="(no group)",SIZART Canal 24 (1080p)
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="(no group)",Sony
+http://rayito-tv.xyz:41001/elliot/elliot/30642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="(no group)",Sony
+http://rayito-tv.xyz:41001/elliot/elliot/30303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="(no group)",Space
+http://rayito-tv.xyz:41001/elliot/elliot/30428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space" tvg-logo="" group-title="(no group)",Space
+http://rayito-tv.xyz:41001/elliot/elliot/30342
 #EXTINF:-1 tvg-id="SpikeAdventura.us" tvg-name="Spike Adventura (720p)" tvg-logo="" group-title="(no group)",Spike Adventura (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="(no group)",Studio Universal
+http://rayito-tv.xyz:41001/elliot/elliot/30666
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal" tvg-logo="" group-title="(no group)",Studio Universal
+http://rayito-tv.xyz:41001/elliot/elliot/30336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sundance Tv" tvg-logo="" group-title="(no group)",Sundance Tv
+http://rayito-tv.xyz:41001/elliot/elliot/30429
 #EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-name="Super Channel 12 (1080p)" tvg-logo="" group-title="(no group)",Super Channel 12 (1080p)
 https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy" tvg-logo="" group-title="(no group)",Syfy
+http://rayito-tv.xyz:41001/elliot/elliot/30654
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy" tvg-logo="" group-title="(no group)",Syfy
+http://rayito-tv.xyz:41001/elliot/elliot/30312
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="" group-title="(no group)",TBS
+http://rayito-tv.xyz:41001/elliot/elliot/30660
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM" tvg-logo="" group-title="(no group)",TCM
+http://rayito-tv.xyz:41001/elliot/elliot/30677
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE SISTEMA CANAL 9 (486p) [Geo-blocked]" tvg-logo="" group-title="(no group)",TELE SISTEMA CANAL 9 (486p) [Geo-blocked]
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleformula" tvg-logo="" group-title="(no group)",Teleformula
+http://rayito-tv.xyz:41001/elliot/elliot/31985
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-name="Telemax (XEWH-TDT) (720p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="(no group)",Telemax (XEWH-TDT) (720p)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Internacional" tvg-logo="" group-title="(no group)",Telemundo Internacional
+http://rayito-tv.xyz:41001/elliot/elliot/30674
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo New York" tvg-logo="" group-title="(no group)",Telemundo New York
+http://rayito-tv.xyz:41001/elliot/elliot/30676
 #EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Teleplay Sureste (360p)" tvg-logo="" group-title="(no group)",Teleplay Sureste (360p)
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo (720p) [Geo-blocked]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png" group-title="(no group)",Teleritmo (720p) [Geo-blocked]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)",TLC
+http://rayito-tv.xyz:41001/elliot/elliot/30664
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)",TLC
+http://rayito-tv.xyz:41001/elliot/elliot/30328
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tlnovelas" tvg-logo="" group-title="(no group)",Tlnovelas
+http://rayito-tv.xyz:41001/elliot/elliot/30661
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="(no group)",TNT
+http://rayito-tv.xyz:41001/elliot/elliot/30707
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="(no group)",TNT
+http://rayito-tv.xyz:41001/elliot/elliot/30424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="(no group)",TNT
+http://rayito-tv.xyz:41001/elliot/elliot/30332
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Op2" tvg-logo="" group-title="(no group)",TNT Op2
+http://rayito-tv.xyz:41001/elliot/elliot/30445
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series" tvg-logo="" group-title="(no group)",TNT Series
+http://rayito-tv.xyz:41001/elliot/elliot/30416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tooncast" tvg-logo="" group-title="(no group)",Tooncast
+http://rayito-tv.xyz:41001/elliot/elliot/30750
 #EXTINF:-1 tvg-id="TRCTV.mx" tvg-name="TRC Televisión (San Francisco de Campeche | Campeche)" tvg-logo="" group-title="(no group)",TRC Televisión (San Francisco de Campeche | Campeche)
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TruTV" tvg-logo="" group-title="(no group)",TruTV
+http://rayito-tv.xyz:41001/elliot/elliot/30648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TruTV" tvg-logo="" group-title="(no group)",TruTV
+http://rayito-tv.xyz:41001/elliot/elliot/30309
 #EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Turistik TV (720p)" tvg-logo="" group-title="(no group)",Turistik TV (720p)
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="TV Cuatro 4.1 (1080p)" tvg-logo="" group-title="(no group)",TV Cuatro 4.1 (1080p)
@@ -133,18 +513,40 @@ https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUJAT.mx" tvg-name="TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVC" tvg-logo="" group-title="(no group)",TVC
+http://rayito-tv.xyz:41001/elliot/elliot/31987
 #EXTINF:-1 tvg-id="TVMas.mx" tvg-name="TVMás (720p)" tvg-logo="" group-title="(no group)",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="TVMÁS (XHGV-TDT) (360p) [Not 24/7]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="(no group)",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP.mx" tvg-name="TVP (720p) [Not 24/7]" tvg-logo="" group-title="(no group)",TVP (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unicable" tvg-logo="" group-title="(no group)",Unicable
+http://rayito-tv.xyz:41001/elliot/elliot/30650
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Channel" tvg-logo="" group-title="(no group)",Universal Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Channel" tvg-logo="" group-title="(no group)",Universal Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30305
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="VB Media TV (1080p)" tvg-logo="" group-title="(no group)",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Channel" tvg-logo="" group-title="(no group)",Warner Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30643
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Channel" tvg-logo="" group-title="(no group)",Warner Channel
+http://rayito-tv.xyz:41001/elliot/elliot/30304
 #EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-name="XHSDD-TDT (15tv Sabinas)" tvg-logo="" group-title="(no group)",XHSDD-TDT (15tv Sabinas)
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-name="XHSPR-TDT1 (Canal Catorce)" tvg-logo="" group-title="(no group)",XHSPR-TDT1 (Canal Catorce)
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win Sports" tvg-logo="" group-title="Deportes",Win Sports
+http://rayito-tv.xyz:41001/elliot/elliot/30486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win Sports +" tvg-logo="" group-title="Deportes",Win Sports +
+http://rayito-tv.xyz:41001/elliot/elliot/30490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win Sports + HD" tvg-logo="" group-title="Deportes",Win Sports + HD
+http://rayito-tv.xyz:41001/elliot/elliot/30491
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win Sports + SD" tvg-logo="" group-title="Deportes",Win Sports + SD
+http://rayito-tv.xyz:41001/elliot/elliot/30492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Win Sports HD" tvg-logo="" group-title="Deportes",Win Sports HD
+http://rayito-tv.xyz:41001/elliot/elliot/30487
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-1-premium-rs.png" group-title="Deportes",Arena Sport 1 Premium
 http://204.12.247.162:8080/premium429/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-sport-3-rs.png" group-title="Deportes",Arena Sport 3
@@ -265,7 +667,7 @@ http://190.131.228.59:8000/play/a0e2/index.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Xsport_logo.png" group-title="Deportes",XSport+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-8",AMC
+#EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entretenimiento",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="Entretenimiento",AXN Sur
 http://190.131.228.59:8000/play/a04i/index.m3u8
@@ -291,7 +693,7 @@ http://190.131.228.59:8000/play/a067/index.m3u8
 http://190.131.228.59:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.co" tvg-name="TNT Series Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series Sur
 http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-7",TNT Sur
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="Entretenimiento",TNT Sur
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="Universal Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="Entretenimiento",Universal Sur
 http://190.131.228.59:8000/play/a040/index.m3u8
@@ -349,9 +751,9 @@ http://190.131.228.59:8000/play/a005/index.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona Latina" tvg-logo="" group-title="Musica",Zona Latina
 http://190.131.228.59:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="AMAS.mx" tvg-name="A Más" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" group-title="Nacional",A Más
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A Más" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" group-title="Nacional",A Más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Nacional",ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Nacional",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Nacional",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -685,54 +1087,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16350_dark_360w_270h.png" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*Colombia" tvg-logo="" group-title="Sudamerica",*Colombia
-http://190.131.228.59:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso.co" tvg-name="Canal Congreso Colombia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80754_dark_360w_270h.png" group-title="Sudamerica",Canal Congreso Colombia
-http://190.131.228.59:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional Tv Colombia" tvg-logo="" group-title="Sudamerica",Canal Institucional Tv Colombia
-http://190.131.228.59:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional Tv Colombia" tvg-logo="" group-title="Sudamerica",Canal Institucional Tv Colombia
-http://190.131.228.59:8000/play/a0rr/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal RCN" tvg-logo="" group-title="Sudamerica",Canal RCN
-http://190.131.228.59:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal RCN" tvg-logo="" group-title="Sudamerica",Canal RCN
-http://190.131.228.59:8000/play/a0rm/index.m3u8
-#EXTINF:-1 tvg-id="CanalUnoColombia.co" tvg-name="Canal Uno Colombia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18096_dark_360w_270h.png" group-title="Sudamerica",Canal Uno Colombia
-http://190.131.228.59:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63609_dark_360w_270h.png" group-title="Sudamerica",Canal Zoom
-http://190.131.228.59:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.co" tvg-name="Canal Zoom" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63609_dark_360w_270h.png" group-title="Sudamerica",Canal Zoom
-http://190.131.228.59:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Sudamerica",Caracol Tv
-http://190.131.228.59:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-id="CityTVBogota.co" tvg-name="City Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58323_dark_360w_270h.png" group-title="Sudamerica",City Tv
-http://190.131.228.59:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="ConexionCapital.co" tvg-name="Conexión Capital" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100472_dark_360w_270h.png" group-title="Sudamerica",Conexión Capital
-http://190.131.228.59:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Costa Rica TV" tvg-logo="" group-title="Sudamerica",Costa Rica TV
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="ISAT.co" tvg-name="ISat" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="Sudamerica",ISat
-http://190.131.228.59:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="TVRed.co" tvg-name="La Red" tvg-logo="" group-title="Sudamerica",La Red
-http://190.131.228.59:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Señal Colombia" tvg-logo="" group-title="Sudamerica",Señal Colombia
-http://190.131.228.59:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30402_dark_360w_270h.png" group-title="Sudamerica",Teleantioquia
-http://190.131.228.59:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co" tvg-name="Telecafe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55832_dark_360w_270h.png" group-title="Sudamerica",Telecafe
-http://190.131.228.59:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55427_dark_360w_270h.png" group-title="Sudamerica",Telecaribe
-http://190.131.228.59:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="Sudamerica",Telefe
-http://190.131.228.59:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46996_dark_360w_270h.png" group-title="Sudamerica",Telefuturo
-http://190.131.228.59:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108739_dark_360w_270h.png" group-title="Sudamerica",Teleislas
-http://190.131.228.59:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="TelePacifico.co" tvg-name="Telepacifico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18099_dark_360w_270h.png" group-title="Sudamerica",Telepacifico
-http://190.131.228.59:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="TeleSur.ar" tvg-name="Telesur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" group-title="Sudamerica",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ViXCineClub.mx" tvg-name="ViX Cine Club (720p)" tvg-logo="" group-title="Vix",ViX Cine Club (720p)
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ViXFamilia.mx" tvg-name="ViX Familia (720p)" tvg-logo="" group-title="Vix",ViX Familia (720p)
