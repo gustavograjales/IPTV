@@ -811,84 +811,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="619d56d9fa3070000709e3f7" tvg-name="Younger" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="(no group)",Younger
 https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-#EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="Pen|  VB Media TV" tvg-logo="" group-title="Pendiente",Pen|  VB Media TV
-https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-name="Pen| Canal Iberoamericano" tvg-logo="" group-title="Pendiente",Pen| Canal Iberoamericano
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Pen| Cartoon Network México" tvg-logo="" group-title="Pendiente",Pen| Cartoon Network México
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Pen| Cartoonito México (720p)" tvg-logo="" group-title="Pendiente",Pen| Cartoonito México (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-name="Pen| IERTBCS Canal 8 La Paz" tvg-logo="" group-title="Pendiente",Pen| IERTBCS Canal 8 La Paz
-https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
-#EXTINF:-1 tvg-id="LoboTV.mx" tvg-name="Pen| Lobo TV" tvg-logo="" group-title="Pendiente",Pen| Lobo TV
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| María Visión Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12034_dark_360w_270h.png" group-title="Pendiente",Pen| María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MariaVision.mx" tvg-name="Pen| María Visión Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12034_dark_360w_270h.png" group-title="Pendiente",Pen| María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Pen| Monte Maria" tvg-logo="" group-title="Pendiente",Pen| Monte Maria
-https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-name="Pen| MVM Noticias" tvg-logo="" group-title="Pendiente",Pen| MVM Noticias
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-id="NPlusBajio.mx" tvg-name="Pen| N+ Bajío" tvg-logo="" group-title="Pendiente",Pen| N+ Bajío
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
-#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-name="Pen| Noticias Canal 10" tvg-logo="" group-title="Pendiente",Pen| Noticias Canal 10
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| POP TV" tvg-logo="" group-title="Pendiente",Pen| POP TV
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RCGTV.mx" tvg-name="Pen| RCG TV" tvg-logo="" group-title="Pendiente",Pen| RCG TV
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| RCG TV 2" tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="Pendiente",Pen| RCG TV 2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="Pen| RCG TV 2" tvg-logo="" group-title="Pendiente",Pen| RCG TV 2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="Pen| RCG TV 2" tvg-logo="" group-title="Pendiente",Pen| RCG TV 2
-https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT1.mx" tvg-name="Pen| SET Televisión Canal 26.1" tvg-logo="" group-title="Pendiente",Pen| SET Televisión Canal 26.1
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-name="Pen| SET Televisión Canal 26.2" tvg-logo="" group-title="Pendiente",Pen| SET Televisión Canal 26.2
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="Pen| SIZART Canal 24" tvg-logo="" group-title="Pendiente",Pen| SIZART Canal 24
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-id="SpikeAdventura.us" tvg-name="Pen| Spike Adventura (720p)" tvg-logo="" group-title="Pendiente",Pen| Spike Adventura (720p)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-name="Pen| Super Channel 12" tvg-logo="" group-title="Pendiente",Pen| Super Channel 12
-https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-name="Pen| Telemax (XEWH-TDT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Pendiente",Pen| Telemax (XEWH-TDT)
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Pen| Teleplay Sureste" tvg-logo="" group-title="Pendiente",Pen| Teleplay Sureste
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| Teleritmo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png" group-title="Pendiente",Pen| Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Pen| Teleritmo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png" group-title="Pendiente",Pen| Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="TRCTV.mx" tvg-name="Pen| TRC Televisión (San Francisco de Campeche)" tvg-logo="" group-title="Pendiente",Pen| TRC Televisión (San Francisco de Campeche)
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Pen| Turistik TV" tvg-logo="" group-title="Pendiente",Pen| Turistik TV
-https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
-#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="Pen| TV Cuatro 4.1" tvg-logo="" group-title="Pendiente",Pen| TV Cuatro 4.1
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-name="Pen| TV Cuatro 4.2" tvg-logo="" group-title="Pendiente",Pen| TV Cuatro 4.2
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| TV Independencia" tvg-logo="" group-title="Pendiente",Pen| TV Independencia
-https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-name="Pen| TV Mar La Paz" tvg-logo="" group-title="Pendiente",Pen| TV Mar La Paz
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| TV Migrante" tvg-logo="" group-title="Pendiente",Pen| TV Migrante
-https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-name="Pen| TV UJAT (XHUJAT-TDT)" tvg-logo="" group-title="Pendiente",Pen| TV UJAT (XHUJAT-TDT)
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMas.mx" tvg-name="Pen| TVMás" tvg-logo="" group-title="Pendiente",Pen| TVMás
-https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="Pen| TVMÁS (XHGV-TDT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Pendiente",Pen| TVMÁS (XHGV-TDT)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVP.mx" tvg-name="Pen| TVP" tvg-logo="" group-title="Pendiente",Pen| TVP
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-name="Pen| XHSDD-TDT (15tv Sabinas)" tvg-logo="" group-title="Pendiente",Pen| XHSDD-TDT (15tv Sabinas)
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-name="Pen| XHSPR-TDT1 (Canal Catorce)" tvg-logo="" group-title="Pendiente",Pen| XHSPR-TDT1 (Canal Catorce)
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-1-premium-rs.png" group-title="Deportes",Arena Sport 1 Premium
 http://204.12.247.162:8080/premium429/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 3" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/serbia/arena-sport-3-rs.png" group-title="Deportes",Arena Sport 3
@@ -897,6 +819,12 @@ http://204.12.247.162:8080/premium431/mono.m3u8
 http://204.12.247.162:8080/premium581/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cytavision Sports 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cytavision-sports-3-394.png" group-title="Deportes",Cytavision Sports 3
 http://213.7.193.54:4000/play/a005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN" tvg-logo="" group-title="Deportes",DAZN
+http://playlist.topcam.me:25461/live/NTh04B2rX0/V8bjYz09Qj/9079.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN" tvg-logo="" group-title="Deportes",DAZN
+http://nl.datalink.ovh:8000/live/Emergencias35/Ir4PBvReZk/730.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN" tvg-logo="" group-title="Deportes",DAZN
+http://37.187.128.169:8000/live/15shuuyap098e3jd/no1345cnbfhy4y56811988/23.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/germany/dazn1-de.png" group-title="Deportes",DAZN 1
 http://204.12.247.162:8080/premium426/mono.m3u8
 #EXTINF:-1 tvg-id="DiemaSport(src01).bg" tvg-name="Diema Sport" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TheLogoDB/master/Images/Diema_Sport_HD.png" group-title="Deportes",Diema Sport
@@ -1019,6 +947,78 @@ http://190.131.228.59:8000/play/a0e2/index.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Xsport_logo.png" group-title="Deportes",XSport+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="Pen|  VB Media TV" tvg-logo="" group-title="Pendiente",Pen|  VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-name="Pen| Canal Iberoamericano" tvg-logo="" group-title="Pendiente",Pen| Canal Iberoamericano
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Pen| Cartoon Network México" tvg-logo="" group-title="Pendiente",Pen| Cartoon Network México
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Pen| Cartoonito México (720p)" tvg-logo="" group-title="Pendiente",Pen| Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-name="Pen| IERTBCS Canal 8 La Paz" tvg-logo="" group-title="Pendiente",Pen| IERTBCS Canal 8 La Paz
+https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
+#EXTINF:-1 tvg-id="LoboTV.mx" tvg-name="Pen| Lobo TV" tvg-logo="" group-title="Pendiente",Pen| Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| María Visión Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12034_dark_360w_270h.png" group-title="Pendiente",Pen| María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Pen| Monte Maria" tvg-logo="" group-title="Pendiente",Pen| Monte Maria
+https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-name="Pen| MVM Noticias" tvg-logo="" group-title="Pendiente",Pen| MVM Noticias
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-id="NPlusBajio.mx" tvg-name="Pen| N+ Bajío" tvg-logo="" group-title="Pendiente",Pen| N+ Bajío
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-name="Pen| Noticias Canal 10" tvg-logo="" group-title="Pendiente",Pen| Noticias Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| POP TV" tvg-logo="" group-title="Pendiente",Pen| POP TV
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-name="Pen| RCG TV" tvg-logo="" group-title="Pendiente",Pen| RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| RCG TV 2" tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="Pendiente",Pen| RCG TV 2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="Pen| RCG TV 2" tvg-logo="" group-title="Pendiente",Pen| RCG TV 2
+https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT1.mx" tvg-name="Pen| SET Televisión Canal 26.1" tvg-logo="" group-title="Pendiente",Pen| SET Televisión Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-name="Pen| SET Televisión Canal 26.2" tvg-logo="" group-title="Pendiente",Pen| SET Televisión Canal 26.2
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="Pen| SIZART Canal 24" tvg-logo="" group-title="Pendiente",Pen| SIZART Canal 24
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="SpikeAdventura.us" tvg-name="Pen| Spike Adventura (720p)" tvg-logo="" group-title="Pendiente",Pen| Spike Adventura (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-name="Pen| Super Channel 12" tvg-logo="" group-title="Pendiente",Pen| Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-name="Pen| Telemax (XEWH-TDT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Pendiente",Pen| Telemax (XEWH-TDT)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Pen| Teleplay Sureste" tvg-logo="" group-title="Pendiente",Pen| Teleplay Sureste
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| Teleritmo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png" group-title="Pendiente",Pen| Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="TRCTV.mx" tvg-name="Pen| TRC Televisión (San Francisco de Campeche)" tvg-logo="" group-title="Pendiente",Pen| TRC Televisión (San Francisco de Campeche)
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Pen| Turistik TV" tvg-logo="" group-title="Pendiente",Pen| Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="Pen| TV Cuatro 4.1" tvg-logo="" group-title="Pendiente",Pen| TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-name="Pen| TV Cuatro 4.2" tvg-logo="" group-title="Pendiente",Pen| TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| TV Independencia" tvg-logo="" group-title="Pendiente",Pen| TV Independencia
+https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-name="Pen| TV Mar La Paz" tvg-logo="" group-title="Pendiente",Pen| TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pen| TV Migrante" tvg-logo="" group-title="Pendiente",Pen| TV Migrante
+https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-name="Pen| TV UJAT (XHUJAT-TDT)" tvg-logo="" group-title="Pendiente",Pen| TV UJAT (XHUJAT-TDT)
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMas.mx" tvg-name="Pen| TVMás" tvg-logo="" group-title="Pendiente",Pen| TVMás
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="Pen| TVMÁS (XHGV-TDT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Pendiente",Pen| TVMÁS (XHGV-TDT)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP.mx" tvg-name="Pen| TVP" tvg-logo="" group-title="Pendiente",Pen| TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-name="Pen| XHSDD-TDT (15tv Sabinas)" tvg-logo="" group-title="Pendiente",Pen| XHSDD-TDT (15tv Sabinas)
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-name="Pen| XHSPR-TDT1 (Canal Catorce)" tvg-logo="" group-title="Pendiente",Pen| XHSPR-TDT1 (Canal Catorce)
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-8",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN.co" tvg-name="AXN Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="Entretenimiento",AXN Sur
@@ -1107,15 +1107,11 @@ http://190.131.228.59:8000/play/a043/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Mexico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="ADN40.TV" tvg-name="ADN40 Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Mexico",ADN40 Mexico
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena Tele | Chihuahua" tvg-logo="" group-title="Mexico",Antena Tele | Chihuahua
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Mexico",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-name="Canal 10 Cancún" tvg-logo="" group-title="Mexico",Canal 10 Cancún
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Chetumal | HD" tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Mexico",Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-name="Canal 10 Chiapas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116232_dark_360w_270h.png" group-title="Mexico",Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
@@ -1131,8 +1127,6 @@ https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 http://45.174.77.243:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="XEJTDT.mx" tvg-name="Canal 50.1 Juárez" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Mexico",Canal 50.1 Juárez
 https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Mexico",Canal 6 Multimedios Mexico
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso 45.1" tvg-logo="" group-title="Mexico",Canal del Congreso 45.1
 https://edge.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso452.mx" tvg-name="Canal del Congreso 45.2" tvg-logo="" group-title="Mexico",Canal del Congreso 45.2
@@ -1145,8 +1139,6 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal del Congreso| Senado de la Republica" tvg-logo="" group-title="Mexico",Canal del Congreso| Senado de la Republica
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Once Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Mexico",Canal Once Mexico
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-name="Estrella Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png" group-title="Mexico",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-name="Hipódromo de las Américas" tvg-logo="" group-title="Mexico",Hipódromo de las Américas
@@ -1163,8 +1155,6 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasInternacional.mx" tvg-name="Las Estrellas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="Mexico",Las Estrellas
 http://190.131.228.59:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEXICO:RTQ Queretaro" tvg-logo="" group-title="Mexico",MEXICO:RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" tvg-logo="" group-title="Mexico",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="Milenio" tvg-name="Milenio Televisión Noroeste" tvg-logo="" group-title="Mexico",Milenio Televisión Noroeste
@@ -1179,7 +1169,7 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-name="Multimedios Laguna" tvg-logo="" group-title="Mexico",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="Multimedios Monterrey" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="Mexico",Multimedios Monterrey
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Mexico",Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multimedios Puebla" tvg-logo="" group-title="Mexico",Multimedios Puebla
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
@@ -1187,11 +1177,11 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-name="Nueve TV San Luís Potosí" tvg-logo="" group-title="Mexico",Nueve TV San Luís Potosí
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Mexico",Once Mexico
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Once Mexico" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Mexico",Canal Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo México" tvg-logo="" group-title="Mexico",Presumiendo México
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="" group-title="Mexico",RTQ Queretaro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEXICO:RTQ Queretaro" tvg-logo="" group-title="Mexico",MEXICO:RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET" tvg-logo="" group-title="Mexico",SET
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
