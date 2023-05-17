@@ -1,8 +1,52 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Deportes",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="Abu Dhabi Sports 2 (1080p)" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Deportes",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV (1080p)" tvg-logo="https://i.imgur.com/iLXjMvB.png" group-title="Deportes",ACI Sport TV (1080p)
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-name="Al Iraqia Sport (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Deportes",Al Iraqia Sport (1080p) [Geo-blocked]
+https://au7live.tooliserver.com/live/149075_0.m3u8?session=
+#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-name="Alfa Sport (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Deportes",Alfa Sport (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports (720p)" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Deportes",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/jp8VX4E.png" group-title="Deportes",AntenaSport (720p) [Not 24/7]
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Deportes",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Deportes",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN Sports Xtra (1080p)" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Deportes",beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-name="BEK TV Sports West (720p)" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Deportes",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-name="Best Cable Sports Peru" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="Deportes",Best Cable Sports Peru
+https://ca2.inka.net.pe/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cytavision Sports 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cytavision-sports-3-394.png" group-title="Deportes",Cytavision Sports 3
 http://213.7.193.54:4000/play/a005
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports (576p)" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Deportes",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV (1080p)" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV (1080p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports (480p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports (480p) [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Deportes",Dubai Racing (1080p)
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-name="Dubai Racing 2 (1080p)" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Deportes",Dubai Racing 2 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-name="Dubai Racing 3 (1080p)" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Deportes",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="Dubai Sports 1 (1080p)" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Deportes",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="Dubai Sports 2 (720p)" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Deportes",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="Dubai Sports 3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Deportes",Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="EDGESport(src01).nl" tvg-name="Edge Sport" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/misc/vod/edge-sport-vod.png" group-title="Deportes",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="EDGEsport (1080p)" tvg-logo="https://i.imgur.com/oLmgGDG.png" group-title="Deportes",EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN2Argentina.co" tvg-name="ESPN 2 Arg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes",ESPN 2 Arg
 http://170.83.242.8:5350/play/a02u
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Deportes",ESPN 2 Sur
@@ -21,18 +65,84 @@ http://45.190.13.50:8002/play/a01e/index.m3u8
 http://45.190.13.50:8002/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes",ESPN Sur
 http://170.83.242.8:5350/play/a00u
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3 [Geo-blocked]" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title="Deportes",Esport3 [Geo-blocked]
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="Esports Max [Not 24/7]" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Deportes",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network (1080p)" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Deportes",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="FightSports.us" tvg-name="FIGHT SPORTS (1080p)" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Deportes",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="FightBox(English).mx" tvg-name="FightBox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79806_dark_360w_270h.png" group-title="Deportes",FightBox
 http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox HD (480p)" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Deportes",FightBox HD (480p)
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-id="FightingSpirit.us" tvg-name="Fighting Spirit (720p)" tvg-logo="https://i.imgur.com/PoI9jpp.png" group-title="Deportes",Fighting Spirit (720p)
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="Deportes",Fox Sports 3
 http://170.83.242.155:5350/play/a014
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-name="Glory Kickboxing (720p)" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Deportes",Glory Kickboxing (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannelThailand.th" tvg-name="Golf Channel Thailand (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/uz8vM2k.png" group-title="Deportes",Golf Channel Thailand (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="HarleyDavidsonFactoryTV.us" tvg-name="Harley Davidson Factory TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="Deportes",Harley Davidson Factory TV (1080p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+#EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-name="Harley Davidson Racing TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="Deportes",Harley Davidson Racing TV (720p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 tvg-id="HarleyDavidsonRidesTV.us" tvg-name="Harley Davidson Rides TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="Deportes",Harley Davidson Rides TV (1080p) [Not 24/7]
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Deportes",J Sports 1 (480p) [Not 24/7]
+https://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="J Sports 2" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/758.png" group-title="Deportes",J Sports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Deportes",J Sports 2 (480p) [Not 24/7]
+https://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports3.jp" tvg-name="J Sports 3 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Deportes",J Sports 3 (480p) [Not 24/7]
+https://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-name="JOJ Šport (1080p)" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Deportes",JOJ Šport (1080p)
+https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Deportes",Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="KBPSports.us" tvg-name="KBP Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Deportes",KBP Sports (720p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-name="KSA Sports 1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Deportes",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-name="KSA Sports 2 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Deportes",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-name="KSA Sports 3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Deportes",KSA Sports 3 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-name="KSA Sports 4 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="Deportes",KSA Sports 4 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-name="Lax Sports Network TV (720p)" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Deportes",Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport (720p)" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Deportes",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="MAXSport3(src01).bg" tvg-name="Max Sport 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-max-sport-3-1608.png" group-title="Deportes",Max Sport 3
 http://62.176.77.22:9781/play/a00i
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Deportes",MNB Sport
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV (1080p)" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Deportes",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Deportes",Motorvision TV
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
+#EXTINF:-1 tvg-id="MZSports.cr" tvg-name="MZ Sports (720p)" tvg-logo="https://i.imgur.com/pHRhBh6.png" group-title="Deportes",MZ Sports (720p)
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
+#EXTINF:-1 tvg-id="NWSport1.tg" tvg-name="NW Sport 1 (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Deportes",NW Sport 1 (576p)
+https://hls.newworldtv.com/nw-sport-1/video/live.m3u8
+#EXTINF:-1 tvg-id="NWSport2.tg" tvg-name="NW Sport 2 (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Deportes",NW Sport 2 (576p)
+https://hls.newworldtv.com/nw-sport-2/video/live.m3u8
+#EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf (720p)" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Deportes",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneGolf" tvg-logo="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/277681207_362584845882750_5071929139783717403_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG1LIX-LJl0nXVoFzu4EheysjMImuGlf2uyMwia4aV_a9YMaeAQqha_16aSWFsPy3g&_nc_ohc=f8LwiEw1jeMAX81nu4d&_nc_ht=sconte" group-title="Deportes",OneGolf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport+ (540p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="Deportes",ORF Sport+ (540p) [Geo-blocked]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-name="Racing.com (720p)" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Deportes",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV US Version (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes",Real Madrid TV US Version (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p)" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Deportes",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Redbull TV" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/international/red-bull-tv-int.png" group-title="Deportes",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Setana Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Setanta_Sports_1_2021.svg" group-title="Deportes",Setana Sports 1
@@ -41,6 +151,36 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://31.146.176.94:80/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Deportes",Sony Sports 2
 http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="Sport En France (1080p)" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Deportes",Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="SportVision.do" tvg-name="Sport Visión" tvg-logo="https://i.imgur.com/4RLZ23C.png" group-title="Deportes",Sport Visión
+https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportcastGolf2.tw" tvg-name="Sportcast Golf 2 (博斯高球2) (720p)" tvg-logo="https://i.imgur.com/AAS6FS3.png" group-title="Deportes",Sportcast Golf 2 (博斯高球2) (720p)
+http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Deportes",Sportitalia (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Sportitalia 24 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Deportes",Sportitalia 24 (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaMotori.it" tvg-name="Sportitalia Motori (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Deportes",Sportitalia Motori (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Deportes",Sportitalia Solocalcio (720p) [Geo-blocked]
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsConnect.za" tvg-name="Sports Connect (720p)" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="Deportes",Sports Connect (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Deportes",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus (1080p)" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="Deportes",Sports TV Plus (1080p)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid (1080p)" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes",SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Sportskool.us" tvg-name="Sportskool TV (720p)" tvg-logo="https://i.imgur.com/R6FsKYj.png" group-title="Deportes",Sportskool TV (720p)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax (720p)" tvg-logo="https://i.imgur.com/FBYjSCt.png" group-title="Deportes",SportsMax (720p)
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 tvg-id="Sportswire.us" tvg-name="Sportswire (1080p)" tvg-logo="https://i.imgur.com/EyTwfjh.png" group-title="Deportes",Sportswire (1080p)
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-name="SportyStuff TV (1080p)" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Deportes",SportyStuff TV (1080p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/india/star-sports-select-1-in.png" group-title="Deportes",Star Sports Select
 http://175.107.244.52:4455/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select  2" tvg-logo="https://raw.githubusercontent.com/lKinderBueno/TV-Logos/master/countries/india/star-sports-select-2-in.png" group-title="Deportes",Star Sports Select  2
@@ -49,6 +189,52 @@ http://175.107.244.52:4455/play/a00u/index.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Tv" tvg-logo="" group-title="Deportes",Tennis Tv
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-name="TNT Sports 2 Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Deportes",TNT Sports 2 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-name="TNT Sports 4 Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Deportes",TNT Sports 4 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-name="TNT Sports 5 Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Deportes",TNT Sports 5 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport (480p)" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Deportes",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Deportes",Trace Sport Stars (1080p) [Geo-blocked]
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football HD 1 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Deportes",True Premier Football HD 1 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football HD 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="Deportes",True Premier Football HD 2 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football HD 3 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/0PqRci8.png" group-title="Deportes",True Premier Football HD 3 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football HD 4 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IuurqFv.png" group-title="Deportes",True Premier Football HD 4 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football HD 5 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/xkqzy95.png" group-title="Deportes",True Premier Football HD 5 (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueTennis.th" tvg-name="True Tennis HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Zu72OYA.png" group-title="Deportes",True Tennis HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports1.th" tvg-name="TrueSports 1 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/JGXzw5v.png" group-title="Deportes",TrueSports 1 HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports2.th" tvg-name="TrueSports 2 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/l11xhF2.png" group-title="Deportes",TrueSports 2 HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports3.th" tvg-name="TrueSports 3 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rsAqjtw.png" group-title="Deportes",TrueSports 3 HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports4.th" tvg-name="TrueSports 4 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/WxAQArO.png" group-title="Deportes",TrueSports 4 HD (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports5.th" tvg-name="TrueSports 5 (480p Scaled) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/XlIQTJR.png" group-title="Deportes",TrueSports 5 (480p Scaled) (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports7.th" tvg-name="TrueSports 7 (480p Scaled) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bW79Nal.png" group-title="Deportes",TrueSports 7 (480p Scaled) (720p) [Not 24/7]
+https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV2Sport1.no" tvg-name="TV 2 Sport 1 (720p)" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Deportes",TV 2 Sport 1 (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Deportes",TVS Sports (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-name="TVS Sports Bureau (720p)" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Deportes",TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-name="TVS Turbo (360p)" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Deportes",TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports (720p)" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Deportes",TVS Women Sports (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports (720p)" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Deportes",World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_XSPORT.png" group-title="Deportes",XSport
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Xsport_logo.png" group-title="Deportes",XSport+
@@ -59,6 +245,18 @@ https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
 https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
 #EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Infantil",Babyfirst
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Latin America" tvg-logo="" group-title="Infantil",Cartoon Network Latin America
+http://209.91.213.10:8088/play/a00k
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network México
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network México" tvg-logo="" group-title="Infantil",Cartoon Network México
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Cartoonito México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito México
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Cartoonito México" tvg-logo="" group-title="Infantil",Cartoonito México
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="México",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena Tele | Chihuahua" tvg-logo="" group-title="México",Antena Tele | Chihuahua
@@ -341,14 +539,8 @@ http://190.131.228.59:8000/play/a06z/index.m3u8
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" tvg-name="A Más (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Pendiente",A Más (480p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Pendiente",Abu Dhabi Sports 1 (1080p)
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="Abu Dhabi Sports 2 (1080p)" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Pendiente",Abu Dhabi Sports 2 (1080p)
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network (720p)" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Pendiente",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV (1080p)" tvg-logo="https://i.imgur.com/iLXjMvB.png" group-title="Pendiente",ACI Sport TV (1080p)
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40 (480p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Pendiente",ADN 40 (480p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="ADOTV.bj" tvg-name="ADO TV (720p)" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Pendiente",ADO TV (720p)
@@ -365,12 +557,6 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-name="Afrobeats (1080p)" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Pendiente",Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-name="Al Iraqia Sport (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Pendiente",Al Iraqia Sport (1080p) [Geo-blocked]
-https://au7live.tooliserver.com/live/149075_0.m3u8?session=
-#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-name="Alfa Sport (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Pendiente",Alfa Sport (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports (720p)" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Pendiente",All Sports (720p)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Pendiente",AMC Latin America
 http://209.91.213.10:8088/play/a013
 #EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Pendiente",Animax (480p)
@@ -383,26 +569,14 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="Aniplus (Indonesian subtitle) (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Pendiente",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
 http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/jp8VX4E.png" group-title="Pendiente",AntenaSport (720p) [Not 24/7]
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG (432p)" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Pendiente",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Latinoamérica (576p)" tvg-logo="" group-title="Pendiente",AXN Latinoamérica (576p)
 http://209.91.213.10:8088/play/a011
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Pendiente",Azteca Uno (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Pendiente",Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Pendiente",Bahrain Sports 2 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Pendiente",Baywatch
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN Sports Xtra (1080p)" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Pendiente",beIN Sports Xtra (1080p)
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-name="BEK TV Sports West (720p)" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Pendiente",BEK TV Sports West (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-name="Best Cable Sports Peru" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="Pendiente",Best Cable Sports Peru
-https://ca2.inka.net.pe/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Pendiente",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVLiveEvent.us" tvg-name="Bloomberg TV US Live Event (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Pendiente",Bloomberg TV US Live Event (720p)
@@ -417,14 +591,6 @@ http://45.5.8.78:8000/play/a00i
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMotor.no" tvg-name="Canal Motor (720p)" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Pendiente",Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Pendiente",Cartoon Network
-https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_CARTOON_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Latin America" tvg-logo="" group-title="Pendiente",Cartoon Network Latin America
-http://209.91.213.10:8088/play/a00k
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network México (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Pendiente",Cartoon Network México (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Cartoonito México (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Pendiente",Cartoonito México (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV-5体育 (1080p)" tvg-logo="https://i.imgur.com/EqURkoF.png" group-title="Pendiente",CCTV-5体育 (1080p)
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="CDR.cl" tvg-name="CDR (720p)" tvg-logo="https://i.imgur.com/xevZNi6.png" group-title="Pendiente",CDR (720p)
@@ -443,40 +609,16 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://vdo.panelstreaming.live:3540/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="D13.cl" tvg-name="D13 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/CmVZkbS.png" group-title="Pendiente",D13 (720p) [Geo-blocked]
 https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports (576p)" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Pendiente",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV (1080p)" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Pendiente",DeporTV (1080p)
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports (480p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Pendiente",DirecTV Sports (480p) [Geo-blocked]
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior Latinoamérica" tvg-logo="" group-title="Pendiente",Disney Junior Latinoamérica
 http://209.91.213.10:8088/play/a00n
 #EXTINF:-1 tvg-id="DSTV.hu" tvg-name="DSTV (720p)" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Pendiente",DSTV (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="DTPlay.bo" tvg-name="DT Play (Deporte Total) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="Pendiente",DT Play (Deporte Total) (720p) [Not 24/7]
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-name="Dubai Racing (1080p)" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Pendiente",Dubai Racing (1080p)
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-name="Dubai Racing 2 (1080p)" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Pendiente",Dubai Racing 2 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-name="Dubai Racing 3 (1080p)" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Pendiente",Dubai Racing 3 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="Dubai Sports 1 (1080p)" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Pendiente",Dubai Sports 1 (1080p)
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="Dubai Sports 2 (720p)" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Pendiente",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="Dubai Sports 3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Pendiente",Dubai Sports 3 (1080p) [Not 24/7]
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="EDGEsport (1080p)" tvg-logo="https://i.imgur.com/oLmgGDG.png" group-title="Pendiente",EDGEsport (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-name="El NU9VE (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/512px-Nueve_%282018_logo%29.png" group-title="Pendiente",El NU9VE (1080p)
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPaisTV.es" tvg-name="EL PAÍS TV (1080p)" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Pendiente",EL PAÍS TV (1080p)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3 [Geo-blocked]" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title="Pendiente",Esport3 [Geo-blocked]
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="Esports Max [Not 24/7]" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Pendiente",Esports Max [Not 24/7]
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV (1080p)" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Pendiente",Estrella TV (1080p)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTV.us" tvg-name="ESTV (1080p)" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Pendiente",ESTV (1080p)
@@ -495,14 +637,6 @@ http://ott-cdn.ucom.am/s30/index.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox (576p)" tvg-logo="https://i.imgur.com/X5tET0H.png" group-title="Pendiente",Fast&FunBox (576p)
 https://vod1.laki.eu/fastnfun/playlist.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network (1080p)" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Pendiente",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FightSports.us" tvg-name="FIGHT SPORTS (1080p)" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Pendiente",FIGHT SPORTS (1080p)
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox HD (480p)" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Pendiente",FightBox HD (480p)
-http://ott-cdn.ucom.am/s86/index.m3u8
-#EXTINF:-1 tvg-id="FightingSpirit.us" tvg-name="Fighting Spirit (720p)" tvg-logo="https://i.imgur.com/PoI9jpp.png" group-title="Pendiente",Fighting Spirit (720p)
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Fite.us" tvg-name="Fite (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="Pendiente",Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Pendiente",Fox Business [Geo-blocked]
@@ -517,10 +651,6 @@ https://master.tucableip.com/ftv/index.m3u8
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/fm0UmZl.png" group-title="Pendiente",Fuel TV (1080p) [Not 24/7]
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-name="Glory Kickboxing (720p)" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Pendiente",Glory Kickboxing (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannelThailand.th" tvg-name="Golf Channel Thailand (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/uz8vM2k.png" group-title="Pendiente",Golf Channel Thailand (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="GQ.us" tvg-name="GQ (720p)" tvg-logo="https://i.imgur.com/mTiaf9I.png" group-title="Pendiente",GQ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="grvty.us" tvg-name="grvty (1080p)" tvg-logo="https://i.imgur.com/7qPKYVh.png" group-title="Pendiente",grvty (1080p)
@@ -529,12 +659,6 @@ https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Pendiente",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-id="HarleyDavidsonFactoryTV.us" tvg-name="Harley Davidson Factory TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="Pendiente",Harley Davidson Factory TV (1080p) [Not 24/7]
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1 tvg-id="HarleyDavidsonRacingTV.us" tvg-name="Harley Davidson Racing TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="Pendiente",Harley Davidson Racing TV (720p) [Not 24/7]
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1 tvg-id="HarleyDavidsonRidesTV.us" tvg-name="Harley Davidson Rides TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="Pendiente",Harley Davidson Rides TV (1080p) [Not 24/7]
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 #EXTINF:-1 tvg-id="HQMBlues.es" tvg-name="HQM Blues" tvg-logo="https://i.imgur.com/gmAlD8g.png" group-title="Pendiente",HQM Blues
 https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
 #EXTINF:-1 tvg-id="HQMChillOut.es" tvg-name="HQM Chill Out" tvg-logo="https://i.imgur.com/y0IxGJB.png" group-title="Pendiente",HQM Chill Out
@@ -559,36 +683,14 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-name="Insight TV (720p)" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Pendiente",Insight TV (720p)
 https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Pendiente",J Sports 1 (480p) [Not 24/7]
-https://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Pendiente",J Sports 2 (480p) [Not 24/7]
-https://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-#EXTINF:-1 tvg-id="JSports3.jp" tvg-name="J Sports 3 (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Pendiente",J Sports 3 (480p) [Not 24/7]
-https://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1 tvg-id="JazzTV.mk" tvg-name="Jazz TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/CbQlSFX.png" group-title="Pendiente",Jazz TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
-#EXTINF:-1 tvg-id="JOJSport.sk" tvg-name="JOJ Šport (1080p)" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Pendiente",JOJ Šport (1080p)
-https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
-#EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Pendiente",Jordan Sport (1080p) [Geo-blocked]
-https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="KBPSports.us" tvg-name="KBP Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Pendiente",KBP Sports (720p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KSASports1.sa" tvg-name="KSA Sports 1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Pendiente",KSA Sports 1 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="KSASports2.sa" tvg-name="KSA Sports 2 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Pendiente",KSA Sports 2 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-id="KSASports3.sa" tvg-name="KSA Sports 3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Pendiente",KSA Sports 3 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-id="KSASports4.sa" tvg-name="KSA Sports 4 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="Pendiente",KSA Sports 4 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-name="La Rosa de Guadalupe" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="Pendiente",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido Music (720p)" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Pendiente",Latido Music (720p)
 https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinosRadio.cl" tvg-name="Latinos Radio" tvg-logo="https://i.imgur.com/u6nkxrx.png" group-title="Pendiente",Latinos Radio
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
-#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-name="Lax Sports Network TV (720p)" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Pendiente",Lax Sports Network TV (720p)
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us" tvg-name="Lego Channel (1080p)" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Pendiente",Lego Channel (1080p)
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-name="MadeinBO TV (1080p)" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="Pendiente",MadeinBO TV (1080p)
@@ -597,14 +699,8 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MMAJunkie.us" tvg-name="MMA Junkie (720p)" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="Pendiente",MMA Junkie (720p)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Pendiente",MNB Sport
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport (720p)" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Pendiente",M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Pendiente",Monterrico TV (1080p) [Not 24/7]
 https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV (1080p)" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Pendiente",More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV00s.uk" tvg-name="MTV 00s (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Pendiente",MTV 00s (576p)
 http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Pendiente",MTV Global (576p)
@@ -615,8 +711,6 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 http://178.170.47.109/MTVHITS/index.m3u8
 #EXTINF:-1 tvg-id="MTVVietnam.vn" tvg-name="MTV Vietnam (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Pendiente",MTV Vietnam (576p)
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="MZSports.cr" tvg-name="MZ Sports (720p)" tvg-logo="https://i.imgur.com/pHRhBh6.png" group-title="Pendiente",MZ Sports (720p)
-https://cloudvideo.servers10.com:8081/8248/index.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media (720p)" tvg-logo="https://i.imgur.com/iCLFnWw.png" group-title="Pendiente",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public (720p)" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Pendiente",NASA TV Public (720p)
@@ -637,14 +731,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVSpor.tr" tvg-name="NTV Spor" tvg-logo="https://i.imgur.com/5pvsIsL.png" group-title="Pendiente",NTV Spor
 http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
-#EXTINF:-1 tvg-id="NWSport1.tg" tvg-name="NW Sport 1 (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Pendiente",NW Sport 1 (576p)
-https://hls.newworldtv.com/nw-sport-1/video/live.m3u8
-#EXTINF:-1 tvg-id="NWSport2.tg" tvg-name="NW Sport 2 (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png" group-title="Pendiente",NW Sport 2 (576p)
-https://hls.newworldtv.com/nw-sport-2/video/live.m3u8
-#EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf (720p)" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Pendiente",One Golf (720p)
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport+ (540p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="Pendiente",ORF Sport+ (540p) [Geo-blocked]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Pendiente",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac 12 Insider (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Pendiente",Pac 12 Insider (1080p) [Not 24/7]
@@ -665,14 +751,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf26
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-name="Qello Concerts by Stingray (1080p)" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Pendiente",Qello Concerts by Stingray (1080p)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-name="Racing.com (720p)" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Pendiente",Racing.com (720p)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV US Version (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Pendiente",Real Madrid TV US Version (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportivă (720p)" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Pendiente",Realitatea Sportivă (720p)
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p)" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Pendiente",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="RTASport.af" tvg-name="RTA Sports" tvg-logo="https://i.imgur.com/AsqVIp7.png" group-title="Pendiente",RTA Sports
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport (720p)" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Pendiente",San Marino RTV Sport (720p)
@@ -687,36 +767,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="Pendiente",Sport 1 (1080p) [Geo-blocked]
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
-#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="Sport En France (1080p)" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Pendiente",Sport En France (1080p)
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-id="SportVision.do" tvg-name="Sport Visión" tvg-logo="https://i.imgur.com/4RLZ23C.png" group-title="Pendiente",Sport Visión
-https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportcastGolf2.tw" tvg-name="Sportcast Golf 2 (博斯高球2) (720p)" tvg-logo="https://i.imgur.com/AAS6FS3.png" group-title="Pendiente",Sportcast Golf 2 (博斯高球2) (720p)
-http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Pendiente",Sportitalia (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Sportitalia 24 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Pendiente",Sportitalia 24 (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaMotori.it" tvg-name="Sportitalia Motori (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Pendiente",Sportitalia Motori (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Pendiente",Sportitalia Solocalcio (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsConnect.za" tvg-name="Sports Connect (720p)" tvg-logo="https://i.imgur.com/CZ2wQig.png" group-title="Pendiente",Sports Connect (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Pendiente",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus (1080p)" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="Pendiente",Sports TV Plus (1080p)
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid (1080p)" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Pendiente",SportsGrid (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Sportskool.us" tvg-name="Sportskool TV (720p)" tvg-logo="https://i.imgur.com/R6FsKYj.png" group-title="Pendiente",Sportskool TV (720p)
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax (720p)" tvg-logo="https://i.imgur.com/FBYjSCt.png" group-title="Pendiente",SportsMax (720p)
-http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 tvg-id="Sportswire.us" tvg-name="Sportswire (1080p)" tvg-logo="https://i.imgur.com/EyTwfjh.png" group-title="Pendiente",Sportswire (1080p)
-https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
-#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-name="SportyStuff TV (1080p)" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Pendiente",SportyStuff TV (1080p)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV (1080p)" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Pendiente",SPOTV (1080p)
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV2 (1080p)" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Pendiente",SPOTV2 (1080p)
@@ -773,50 +823,14 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Pendiente",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-name="TNT Sports 2 Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Pendiente",TNT Sports 2 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-name="TNT Sports 4 Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Pendiente",TNT Sports 4 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-name="TNT Sports 5 Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Pendiente",TNT Sports 5 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport (480p)" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Pendiente",TR Sport (480p)
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Pendiente",Trace Sport Stars (1080p) [Geo-blocked]
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/pCjzh5A.png" group-title="Pendiente",TRT Spor (720p) [Geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/MJPoj3j.png" group-title="Pendiente",TRT Spor Yildiz (720p) [Geo-blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football HD 1 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Pendiente",True Premier Football HD 1 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football HD 2 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="Pendiente",True Premier Football HD 2 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football HD 3 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/0PqRci8.png" group-title="Pendiente",True Premier Football HD 3 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football HD 4 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IuurqFv.png" group-title="Pendiente",True Premier Football HD 4 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football HD 5 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/xkqzy95.png" group-title="Pendiente",True Premier Football HD 5 (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueTennis.th" tvg-name="True Tennis HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Zu72OYA.png" group-title="Pendiente",True Tennis HD (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSports1.th" tvg-name="TrueSports 1 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/JGXzw5v.png" group-title="Pendiente",TrueSports 1 HD (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSports2.th" tvg-name="TrueSports 2 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/l11xhF2.png" group-title="Pendiente",TrueSports 2 HD (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSports3.th" tvg-name="TrueSports 3 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rsAqjtw.png" group-title="Pendiente",TrueSports 3 HD (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSports4.th" tvg-name="TrueSports 4 HD (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/WxAQArO.png" group-title="Pendiente",TrueSports 4 HD (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSports5.th" tvg-name="TrueSports 5 (480p Scaled) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/XlIQTJR.png" group-title="Pendiente",TrueSports 5 (480p Scaled) (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSports7.th" tvg-name="TrueSports 7 (480p Scaled) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bW79Nal.png" group-title="Pendiente",TrueSports 7 (480p Scaled) (720p) [Not 24/7]
-https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl" tvg-name="Turf Móvil (720p)" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Pendiente",Turf Móvil (720p)
 https://janus.tvturf.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport (406p) [Not 24/7]" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Pendiente",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 tvg-id="TV2Sport1.no" tvg-name="TV 2 Sport 1 (720p)" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="Pendiente",TV 2 Sport 1 (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-name="TV Azteca Noroeste (Monterrey | Nuevo Leon) (720p)" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="Pendiente",TV Azteca Noroeste (Monterrey | Nuevo Leon) (720p)
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-name="TV Nuevo León Canal 28 (XHMNL-TDT) (720p)" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Pendiente",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
@@ -831,14 +845,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports (360p)" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="Pendiente",TVS Classic Sports (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Pendiente",TVS Sports (720p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-name="TVS Sports Bureau (720p)" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Pendiente",TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-name="TVS Turbo (360p)" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Pendiente",TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports (720p)" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Pendiente",TVS Women Sports (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten (1080p)" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Pendiente",Unbeaten (1080p)
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VanityFair.us" tvg-name="Vanity Fair (720p)" tvg-logo="https://i.imgur.com/KMUYfnz.jpg" group-title="Pendiente",Vanity Fair (720p)
@@ -861,8 +867,6 @@ http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD5.us" tvg-name="W14DK-D 14.5 All Sports Television Network" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Pendiente",W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports (720p)" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Pendiente",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Pendiente",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTourItaly.it" tvg-name="World Poker Tour Italy (720p)" tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Pendiente",World Poker Tour Italy (720p)
@@ -895,10 +899,6 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-name="Pen| Canal Iberoamericano" tvg-logo="" group-title="Pendiente",Pen| Canal Iberoamericano
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Pen| Cartoon Network México" tvg-logo="" group-title="Pendiente",Pen| Cartoon Network México
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-name="Pen| Cartoonito México (720p)" tvg-logo="" group-title="Pendiente",Pen| Cartoonito México (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Cubavision.TV" tvg-name="Pen| Cubavisión TV" tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200" group-title="Pendiente",Pen| Cubavisión TV
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 #EXTINF:-1 tvg-id="6144d313b34fbf0007107714" tvg-name="Pen| FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Pendiente",Pen| FUEL TV
