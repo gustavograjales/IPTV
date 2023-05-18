@@ -1,0 +1,911 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywmm35f92jdkyx1w"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dancing Bear" tvg-logo="" group-title="Adult",Dancing Bear
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/20200.ts
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="Accn Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="Deportes",Accn Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/537.ts
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png" group-title="Deportes",Afizzionados HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/524.ts
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Afizzionados SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png" group-title="Deportes",Afizzionados SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/74751.ts
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="ATT SportsNet" tvg-logo="" group-title="Deportes",ATT SportsNet
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/14.ts
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" group-title="Deportes",AyM Sports HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/17.ts
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" group-title="Deportes",AyM Sports SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/18.ts
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" tvg-logo="" group-title="Deportes",Barca TV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/153.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="Bein Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" group-title="Deportes",Bein Sports
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/35.ts
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="Bein Sports [Can]" tvg-logo="" group-title="Deportes",Bein Sports [Can]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/149788.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports [Esp]" tvg-logo="" group-title="Deportes",Bein Sports [Esp]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/36.ts
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="Bein Sports 3" tvg-logo="" group-title="Deportes",Bein Sports 3
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/29.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="Bein Sports 4" tvg-logo="" group-title="Deportes",Bein Sports 4
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/30.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="Bein Sports 5" tvg-logo="" group-title="Deportes",Bein Sports 5
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/31.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="Bein Sports 6" tvg-logo="" group-title="Deportes",Bein Sports 6
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/32.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="Bein Sports 7" tvg-logo="" group-title="Deportes",Bein Sports 7
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/33.ts
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="Bein Sports 8" tvg-logo="" group-title="Deportes",Bein Sports 8
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/34.ts
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="Bein Sports La Liga Tv" tvg-logo="" group-title="Deportes",Bein Sports La Liga Tv
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/37.ts
+#EXTINF:-1 tvg-id="beinsportsxtraes.us" tvg-name="Bein Sports Xtra Ñ" tvg-logo="" group-title="Deportes",Bein Sports Xtra Ñ
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/173642.ts
+#EXTINF:-1 tvg-id="BENFICATV(src01).pt" tvg-name="Benfica TV*" tvg-logo="" group-title="Deportes",Benfica TV*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/160.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="Bt Sports 1*" tvg-logo="" group-title="Deportes",Bt Sports 1*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/16835.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="Bt Sports 2*" tvg-logo="" group-title="Deportes",Bt Sports 2*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/16836.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="Bt Sports 3*" tvg-logo="" group-title="Deportes",Bt Sports 3*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/134.ts
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="BTN USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="Deportes",BTN USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/45.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="" group-title="Deportes",CBS Sports Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/60.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="Deportes",Claro Sports
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/68.ts
+#EXTINF:-1 tvg-id="DAZNF1(src01).es" tvg-name="DAZN F1" tvg-logo="" group-title="Deportes",DAZN F1
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/139.ts
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="Deportv Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87430_dark_360w_270h.png" group-title="Deportes",Deportv Argentina
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/57775.ts
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="Directv Sports +" tvg-logo="" group-title="Deportes",Directv Sports +
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/82.ts
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="Directv Sports 1" tvg-logo="" group-title="Deportes",Directv Sports 1
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/83.ts
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="Directv Sports 2" tvg-logo="" group-title="Deportes",Directv Sports 2
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/84.ts
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Sports" tvg-logo="" group-title="Deportes",Eleven Sports
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/117.ts
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 [Sur]" tvg-logo="" group-title="Deportes",ESPN 1 [Sur]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/595.ts
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 [Sur] HD*" tvg-logo="" group-title="Deportes",ESPN 1 [Sur] HD*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/129.ts
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 [Sur] SD*" tvg-logo="" group-title="Deportes",ESPN 1 [Sur] SD*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/130.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1 [USA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Deportes",ESPN 1 [USA]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/122.ts
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 1 HD" tvg-logo="" group-title="Deportes",ESPN 1 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/120.ts
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN 1 SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes",ESPN 1 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/121.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 [Arg]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes",ESPN 2 [Arg]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/594.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 [USA]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Deportes",ESPN 2 [USA]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/125.ts
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/123.ts
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/124.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3 [Arg]*" tvg-logo="" group-title="Deportes",ESPN 3 [Arg]*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/596.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="ESPN 3 HD*" tvg-logo="" group-title="Deportes",ESPN 3 HD*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/126.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 SD*" tvg-logo="" group-title="Deportes",ESPN 3 SD*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/127.ts
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="" group-title="Deportes",ESPN Deportes
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/128.ts
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra*" tvg-logo="" group-title="Deportes",ESPN Extra*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/185968.ts
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN News" tvg-logo="" group-title="Deportes",ESPN News
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/561.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="Espn SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Deportes",Espn SEC Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/530.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Deportes",ESPN U
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/131.ts
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="Eurosport 1 [Esp]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87630_dark_360w_270h.png" group-title="Deportes",Eurosport 1 [Esp]
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/550.ts
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="Eurosport 2 [Esp]*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87629_dark_360w_270h.png" group-title="Deportes",Eurosport 2 [Esp]*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/40238.ts
+#EXTINF:-1 tvg-id="TheFightNetwork(English).ca" tvg-name="Fight Network*" tvg-logo="" group-title="Deportes",Fight Network*
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/135.ts
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="Fox Deportes HD" tvg-logo="" group-title="Deportes",Fox Deportes HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/155.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Deportes SD" tvg-logo="" group-title="Deportes",Fox Deportes SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/199910.ts
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="Fox Soccer Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66880_dark_360w_270h.png" group-title="Deportes",Fox Soccer Plus
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/162.ts
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports 1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="Deportes",Fox Sports 1 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/163.ts
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports 1 SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="Deportes",Fox Sports 1 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/164.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 USA" tvg-logo="" group-title="Deportes",Fox Sports 1 USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/165.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="Deportes",Fox Sports 2 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/166.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2 SD" tvg-logo="" group-title="Deportes",Fox Sports 2 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/167.ts
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sports 2 USA" tvg-logo="" group-title="Deportes",Fox Sports 2 USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/168.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="Deportes",Fox Sports 3 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/169.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Fox Sports 3 SD" tvg-logo="" group-title="Deportes",Fox Sports 3 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/170.ts
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Fox Sports Premium" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png" group-title="Deportes",Fox Sports Premium
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156098.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Premium Arg" tvg-logo="" group-title="Deportes",Fox Sports Premium Arg
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/153603.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fubo Sports 1" tvg-logo="" group-title="Deportes",Fubo Sports 1
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/175085.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fubo Sports 2" tvg-logo="" group-title="Deportes",Fubo Sports 2
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/175086.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fubo Sports 8" tvg-logo="" group-title="Deportes",Fubo Sports 8
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/175092.ts
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="Golf Channel MX" tvg-logo="" group-title="Deportes",Golf Channel MX
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/191.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Deportes",Golf Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/192.ts
+#EXTINF:-1 tvg-id="goltvspanish.us" tvg-name="Goltv Esp" tvg-logo="" group-title="Deportes",Goltv Esp
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/193.ts
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="Goltv USA" tvg-logo="" group-title="Deportes",Goltv USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/194.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Deportes",MLB Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/227.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="Msgnet" tvg-logo="" group-title="Deportes",Msgnet
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/229.ts
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="Nba Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Deportes",Nba Tv
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/245.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="Nbc Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="Deportes",Nbc Sports Bay Area
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/252.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nbc Sports Bay Area Plus" tvg-logo="" group-title="Deportes",Nbc Sports Bay Area Plus
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/173644.ts
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="Nbc Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="Deportes",Nbc Sports Boston
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/581.ts
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="Nbc Sports California" tvg-logo="" group-title="Deportes",Nbc Sports California
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/253.ts
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="Nbc Sports Chicago" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44905_dark_360w_270h.png" group-title="Deportes",Nbc Sports Chicago
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/254.ts
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="Nbc Sports Network" tvg-logo="" group-title="Deportes",Nbc Sports Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/255.ts
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="Nbc Sports Washington" tvg-logo="" group-title="Deportes",Nbc Sports Washington
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/172671.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="Nesn" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63198_dark_360w_270h.png" group-title="Deportes",Nesn
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/256.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Deportes",NFL Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/170638.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL RED ZONE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65024_dark_360w_270h.png" group-title="Deportes",NFL RED ZONE
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/168019.ts
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Deportes",NHL Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156148.ts
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="Pac 12 Arizona" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76376_dark_360w_270h.png" group-title="Deportes",Pac 12 Arizona
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/273.ts
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="Pac 12 Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76377_dark_360w_270h.png" group-title="Deportes",Pac 12 Bay Area
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/274.ts
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="Pac 12 Los Angeles" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76381_dark_360w_270h.png" group-title="Deportes",Pac 12 Los Angeles
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/275.ts
+#EXTINF:-1 tvg-id="pac12mountain.us" tvg-name="Pac 12 Mountain" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76380_dark_360w_270h.png" group-title="Deportes",Pac 12 Mountain
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/276.ts
+#EXTINF:-1 tvg-id="pac12network.us" tvg-name="Pac 12 Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76366_dark_360w_270h.png" group-title="Deportes",Pac 12 Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/272.ts
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="Pac 12 Oregon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76378_dark_360w_270h.png" group-title="Deportes",Pac 12 Oregon
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/277.ts
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="PAC 12 Washington" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76379_dark_360w_270h.png" group-title="Deportes",PAC 12 Washington
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/278.ts
+#EXTINF:-1 tvg-id="PokerGo.us" tvg-name="Poker Go" tvg-logo="" group-title="Deportes",Poker Go
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/168118.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports 16" tvg-logo="" group-title="Deportes",Sky Sports 16
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/176186.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports 24" tvg-logo="" group-title="Deportes",Sky Sports 24
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/176187.ts
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Deportes",Tennis Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/315.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports Argentina" tvg-logo="" group-title="Deportes",TNT Sports Argentina
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/195827.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros TV" tvg-logo="" group-title="Deportes",Toros TV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/176183.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TUDN HD MX" tvg-logo="" group-title="Deportes",TUDN HD MX
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/332.ts
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="TUDN HD USA" tvg-logo="" group-title="Deportes",TUDN HD USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/333.ts
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="TUDN SD MX" tvg-logo="" group-title="Deportes",TUDN SD MX
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/334.ts
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="TUDN SD USA" tvg-logo="" group-title="Deportes",TUDN SD USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/335.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TVC Deportes HD" tvg-logo="" group-title="Deportes",TVC Deportes HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/337.ts
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="TYC Sports Internacional" tvg-logo="" group-title="Deportes",TYC Sports Internacional
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/341.ts
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WinSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="Deportes",WinSports
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/369.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WinSports+" tvg-logo="" group-title="Deportes",WinSports+
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/370.ts
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="Wwe" tvg-logo="" group-title="Deportes",Wwe
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/372.ts
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="Yes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="Deportes",Yes
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/373.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="https://supertvplus.com/liveposters/1590510780351.png" group-title="Entretenimiento",A&E HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/158747.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="A&E SD" tvg-logo="https://supertvplus.com/liveposters/1590510780351.png" group-title="Entretenimiento",A&E SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/1.ts
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entretenimiento",A&E USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/2.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="A+" tvg-logo="" group-title="Entretenimiento",A+
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/166043.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="AMC HD" tvg-logo="" group-title="Entretenimiento",AMC HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/7.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="AMC SD" tvg-logo="" group-title="Entretenimiento",AMC SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/158765.ts
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Entretenimiento",AMC USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/8.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Antena 3" tvg-logo="" group-title="Entretenimiento",Antena 3
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Axn SD" tvg-logo="" group-title="Entretenimiento",Axn SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/16.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Az Mundo HD" tvg-logo="" group-title="Entretenimiento",Az Mundo HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/19.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Az Mundo SD" tvg-logo="" group-title="Entretenimiento",Az Mundo SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/20.ts
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimiento",BET
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/558.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="Bet Her USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entretenimiento",Bet Her USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/38.ts
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entretenimiento",Bravo USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/44.ts
+#EXTINF:-1 tvg-id="I842.39719.schedulesdirect.org" tvg-name="Caracol" tvg-logo="" group-title="Entretenimiento",Caracol
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/50.ts
+#EXTINF:-1 tvg-id="I417.39719.schedulesdirect.org" tvg-name="Caracol Internacional" tvg-logo="" group-title="Entretenimiento",Caracol Internacional
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/583.ts
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT Usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entretenimiento",CMT Usa
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/539.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Comedy Central HD" tvg-logo="" group-title="Entretenimiento",Comedy Central HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156150.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Comedy Central SD" tvg-logo="" group-title="Entretenimiento",Comedy Central SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/73.ts
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entretenimiento",Comedy Central USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/74.ts
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="Entretenimiento",Destination America
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/80.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Distrito Comedia HD" tvg-logo="" group-title="Entretenimiento",Distrito Comedia HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156153.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Distrito Comedia SD" tvg-logo="" group-title="Entretenimiento",Distrito Comedia SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/111.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="E! Entertainment HD" tvg-logo="" group-title="Entretenimiento",E! Entertainment HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/555.ts
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment HD USA" tvg-logo="" group-title="Entretenimiento",E! Entertainment HD USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/113.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="E! Entertainment SD" tvg-logo="" group-title="Entretenimiento",E! Entertainment SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/114.ts
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="EstrellaTV" tvg-logo="" group-title="Entretenimiento",EstrellaTV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/133.ts
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="Film & Arts SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="Entretenimiento",Film & Arts SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/136.ts
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Entretenimiento",Freeform USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/173.ts
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="Fuse" tvg-logo="" group-title="Entretenimiento",Fuse
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/174.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="FX HD" tvg-logo="" group-title="Entretenimiento",FX HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/176.ts
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="Entretenimiento",FX SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/177.ts
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Entretenimiento",FX USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/181.ts
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="Fxx USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Entretenimiento",Fxx USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/182.ts
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="GSN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Entretenimiento",GSN
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/195.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark USA" tvg-logo="" group-title="Entretenimiento",Hallmark USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/197.ts
+#EXTINF:-1 tvg-id="I219.82970.schedulesdirect.org" tvg-name="Hola TV HD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png" group-title="Entretenimiento",Hola TV HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/74752.ts
+#EXTINF:-1 tvg-id="I219.82970.schedulesdirect.org" tvg-name="Hola TV SD" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png" group-title="Entretenimiento",Hola TV SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/74753.ts
+#EXTINF:-1 tvg-id="I333.59444.schedulesdirect.org" tvg-name="IFC USA" tvg-logo="" group-title="Entretenimiento",IFC USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/214.ts
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="Lifetime HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="Entretenimiento",Lifetime HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/220.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Lifetime SD" tvg-logo="" group-title="Entretenimiento",Lifetime SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/222.ts
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime USA" tvg-logo="" group-title="Entretenimiento",Lifetime USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/223.ts
+#EXTINF:-1 tvg-id="my9wwor.us" tvg-name="My9" tvg-logo="" group-title="Entretenimiento",My9
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/625.ts
+#EXTINF:-1 tvg-id="I279.70388.schedulesdirect.org" tvg-name="Own Channel USA" tvg-logo="" group-title="Entretenimiento",Own Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/271.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen" tvg-logo="" group-title="Entretenimiento",Oxygen
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/631.ts
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="Rcn" tvg-logo="" group-title="Entretenimiento",Rcn
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/584.ts
+#EXTINF:-1 tvg-id="RCNNuestraTeleInternacional.co" tvg-name="Rcn Nuestra Tele FUBO" tvg-logo="" group-title="Entretenimiento",Rcn Nuestra Tele FUBO
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/585.ts
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel" tvg-logo="" group-title="Entretenimiento",Smithsonian Channel
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/627.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Sony HD" tvg-logo="" group-title="Entretenimiento",Sony HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/284.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="Sony SD" tvg-logo="" group-title="Entretenimiento",Sony SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/285.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Space HD" tvg-logo="" group-title="Entretenimiento",Space HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/286.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Space SD" tvg-logo="" group-title="Entretenimiento",Space SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/482.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Star Channel HD" tvg-logo="" group-title="Entretenimiento",Star Channel HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/157.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Star Channel SD" tvg-logo="" group-title="Entretenimiento",Star Channel SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/158.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Studio Universal HD" tvg-logo="" group-title="Entretenimiento",Studio Universal HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/288.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Studio Universal SD" tvg-logo="" group-title="Entretenimiento",Studio Universal SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/289.ts
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="Sundance USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Entretenimiento",Sundance USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/546.ts
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="Syfy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="Entretenimiento",Syfy HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/290.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Syfy SD" tvg-logo="" group-title="Entretenimiento",Syfy SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/293.ts
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Entretenimiento",Syfy USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/294.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TBS SD" tvg-logo="" group-title="Entretenimiento",TBS SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/152953.ts
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="Tbs USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Entretenimiento",Tbs USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/295.ts
+#EXTINF:-1 tvg-id="telemundokuan.us" tvg-name="Telemundo 20 San Diego" tvg-logo="" group-title="Entretenimiento",Telemundo 20 San Diego
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/303.ts
+#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="Telemundo 39 Dallas" tvg-logo="" group-title="Entretenimiento",Telemundo 39 Dallas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/304.ts
+#EXTINF:-1 tvg-id="telemundokblr.us" tvg-name="Telemundo 39 Las Vegas" tvg-logo="" group-title="Entretenimiento",Telemundo 39 Las Vegas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/305.ts
+#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="Telemundo 44 Chicago" tvg-logo="" group-title="Entretenimiento",Telemundo 44 Chicago
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/306.ts
+#EXTINF:-1 tvg-id="telemundoktmd.us" tvg-name="Telemundo 47 Houston" tvg-logo="" group-title="Entretenimiento",Telemundo 47 Houston
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/307.ts
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47 NY" tvg-logo="" group-title="Entretenimiento",Telemundo 47 NY
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/308.ts
+#EXTINF:-1 tvg-id="telemundoksts.us" tvg-name="Telemundo 48 San Francisco" tvg-logo="" group-title="Entretenimiento",Telemundo 48 San Francisco
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/309.ts
+#EXTINF:-1 tvg-id="telemundowtmo.us" tvg-name="Telemundo 51 Miami" tvg-logo="" group-title="Entretenimiento",Telemundo 51 Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/310.ts
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="Telemundo 52 Los Angeles" tvg-logo="" group-title="Entretenimiento",Telemundo 52 Los Angeles
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/311.ts
+#EXTINF:-1 tvg-id="telemundoktaz.us" tvg-name="Telemundo Phoenix" tvg-logo="" group-title="Entretenimiento",Telemundo Phoenix
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/615.ts
+#EXTINF:-1 tvg-id="TLCMexico.mx" tvg-name="TLC HD" tvg-logo="" group-title="Entretenimiento",TLC HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/316.ts
+#EXTINF:-1 tvg-id="TLCMexico.mx" tvg-name="TLC SD" tvg-logo="" group-title="Entretenimiento",TLC SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/317.ts
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Entretenimiento",TLC USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/547.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Tlnovelas HD" tvg-logo="" group-title="Entretenimiento",Tlnovelas HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/318.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="" group-title="Entretenimiento",TNT HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/319.ts
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entretenimiento",TNT SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/320.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TNT Series HD" tvg-logo="" group-title="Entretenimiento",TNT Series HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/321.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TNT Series SD" tvg-logo="" group-title="Entretenimiento",TNT Series SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/322.ts
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/323.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TruTv HD" tvg-logo="" group-title="Entretenimiento",TruTv HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/328.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TruTv SD" tvg-logo="" group-title="Entretenimiento",TruTv SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/329.ts
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="TruTv USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entretenimiento",TruTv USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/330.ts
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="Tv Land USA" tvg-logo="" group-title="Entretenimiento",Tv Land USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/336.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Unicable HD" tvg-logo="" group-title="Entretenimiento",Unicable HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/342.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Unicable SD" tvg-logo="" group-title="Entretenimiento",Unicable SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/343.ts
+#EXTINF:-1 tvg-id="unimas68wfut.us" tvg-name="Unimas 68 NewYork" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/7_es.png" group-title="Entretenimiento",Unimas 68 NewYork
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unimas East" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/6_es.png" group-title="Entretenimiento",Unimas East
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/344.ts
+#EXTINF:-1 tvg-id="unimas67kfth.us" tvg-name="Unimas 67 Houston" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/8_es.png" group-title="Entretenimiento",Unimas 67 Houston
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12068.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unimas Las Vegas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/27_es.png" group-title="Entretenimiento",Unimas Las Vegas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12070.ts
+#EXTINF:-1 tvg-id="unimas13kdos.us" tvg-name="Unimas Phoenix" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/31_es.png" group-title="Entretenimiento",Unimas Phoenix
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12071.ts
+#EXTINF:-1 tvg-id="unimas17knic.us" tvg-name="Unimas San Antonio" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/39_es.png" group-title="Entretenimiento",Unimas San Antonio
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12072.ts
+#EXTINF:-1 tvg-id="UniMasWest.us" tvg-name="Unimas Oeste" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/10_es.png" group-title="Entretenimiento",Unimas Oeste
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12067.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Universal Channel HD" tvg-logo="" group-title="Entretenimiento",Universal Channel HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156115.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Universal Channel SD" tvg-logo="" group-title="Entretenimiento",Universal Channel SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/348.ts
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="Universo HD" tvg-logo="" group-title="Entretenimiento",Universo HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/349.ts
+#EXTINF:-1 tvg-id="univision14kdtv.us" tvg-name="Univision 14 San Francisco" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/40_es.png" group-title="Entretenimiento",Univision 14 San Francisco
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/148067.ts
+#EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="Univision 41 NewYork" tvg-logo="" group-title="Entretenimiento",Univision 41 NewYork
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/352.ts
+#EXTINF:-1 tvg-id="univision66wgbo.us" tvg-name="Univision Chicago" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/16_es.png" group-title="Entretenimiento",Univision Chicago
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12075.ts
+#EXTINF:-1 tvg-id="univisioneastern.us" tvg-name="Univision East" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/1_es.png" group-title="Entretenimiento",Univision East
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/350.ts
+#EXTINF:-1 tvg-id="univision45kxln.us" tvg-name="Univision Houston" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/3_es.png" group-title="Entretenimiento",Univision Houston
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12073.ts
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="Univision Miami" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/14_es.png" group-title="Entretenimiento",Univision Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12074.ts
+#EXTINF:-1 tvg-id="univision33ktvw.us" tvg-name="Univision Phoenix" tvg-logo="" group-title="Entretenimiento",Univision Phoenix
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/354.ts
+#EXTINF:-1 tvg-id="univision41kwex.us" tvg-name="Univision San Antonio" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/40_es.png" group-title="Entretenimiento",Univision San Antonio
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12076.ts
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Entretenimiento",USA Network
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/356.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Warner HD" tvg-logo="" group-title="Entretenimiento",Warner HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/366.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Warner SD" tvg-logo="" group-title="Entretenimiento",Warner SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/367.ts
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="We Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="Entretenimiento",We Tv
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/368.ts
+#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="Wgn America" tvg-logo="" group-title="Entretenimiento",Wgn America
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12691.ts
+#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="Telemundo 60 San Antonio" tvg-logo="" group-title="Entretenimiento",Telemundo 60 San Antonio
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/169651.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="Nbc Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="Entretenimiento",Nbc Bay Area
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/173643.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film & Arts HD" tvg-logo="" group-title="Entretenimiento",Film & Arts HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/81.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Tbs HD" tvg-logo="" group-title="Entretenimiento",Tbs HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/179546.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="TlNovelas SD" tvg-logo="" group-title="Entretenimiento",TlNovelas SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/173641.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Axn HD" tvg-logo="" group-title="Entretenimiento",Axn HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/15.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMERICAN HEROES CHANNEL" tvg-logo="" group-title="Entretenimiento",AMERICAN HEROES CHANNEL
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/199228.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bachillerato (Cadena 4)" tvg-logo="" group-title="EscuelaTV",Bachillerato (Cadena 4)
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/486.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CapacitaTV" tvg-logo="" group-title="EscuelaTV",CapacitaTV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/488.ts
+#EXTINF:-1 tvg-id="ingeniotv.mx" tvg-name="Ingenio TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87915_dark_360w_270h.png" group-title="EscuelaTV",Ingenio TV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/552.ts
+#EXTINF:-1 tvg-id="I330.89260.schedulesdirect.org" tvg-name="Once Niños" tvg-logo="" group-title="EscuelaTV",Once Niños
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/487.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primaria (Cadena 1)" tvg-logo="" group-title="EscuelaTV",Primaria (Cadena 1)
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/483.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primaria 1 (Cadena 2)" tvg-logo="" group-title="EscuelaTV",Primaria 1 (Cadena 2)
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/484.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Secundaria (Cadena 3)" tvg-logo="" group-title="EscuelaTV",Secundaria (Cadena 3)
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/485.ts
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="Baby First" tvg-logo="" group-title="Infantiles",Baby First
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/26.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Baby TV" tvg-logo="" group-title="Infantiles",Baby TV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/27.ts
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Cartoonito HD" tvg-logo="" group-title="Infantiles",Cartoonito HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/41.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Cartoonito SD" tvg-logo="" group-title="Infantiles",Cartoonito SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/42.ts
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Infantiles",Boomerang USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/43.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Infantiles",Cartoon Network HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/51.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Cartoon Network SD" tvg-logo="" group-title="Infantiles",Cartoon Network SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/52.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Infantiles",Cartoon Network USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/53.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery Kids HD" tvg-logo="" group-title="Infantiles",Discovery Kids HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/95.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery Kids SD" tvg-logo="" group-title="Infantiles",Discovery Kids SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/96.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Disney Channel HD" tvg-logo="" group-title="Infantiles",Disney Channel HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/102.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Disney Channel SD" tvg-logo="" group-title="Infantiles",Disney Channel SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/103.ts
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Infantiles",Disney Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/104.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Disney JR HD" tvg-logo="" group-title="Infantiles",Disney JR HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/105.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Disney JR SD" tvg-logo="" group-title="Infantiles",Disney JR SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/106.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney JR USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Infantiles",Disney JR USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/107.ts
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Infantiles",Disney XD USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/110.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Nick" tvg-logo="" group-title="Infantiles",Nick
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/259.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Nick SD" tvg-logo="" group-title="Infantiles",Nick SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/260.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Nick Jr HD" tvg-logo="" group-title="Infantiles",Nick Jr HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/264.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Nick Jr SD" tvg-logo="" group-title="Infantiles",Nick Jr SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/263.ts
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick JR USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Infantiles",Nick JR USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/265.ts
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nick USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Infantiles",Nick USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/268.ts
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="Teen Nick USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="Infantiles",Teen Nick USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/296.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Tooncast Sd" tvg-logo="" group-title="Infantiles",Tooncast Sd
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/324.ts
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="Infantiles",Universal Kids USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/543.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Animal Planet HD" tvg-logo="" group-title="Mundo y Aprendizaje",Animal Planet HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/9.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Animal Planet SD" tvg-logo="" group-title="Mundo y Aprendizaje",Animal Planet SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/10.ts
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Animal Planet USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/11.ts
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Cooking Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/75.ts
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="Discovery Channel Español USA" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Channel Español USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/85.ts
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Discovery Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Discovery Channel HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/86.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery Channel SD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Channel SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/87.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Discovery Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/88.ts
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="HGTV HD" tvg-logo="" group-title="Mundo y Aprendizaje",HGTV HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/89.ts
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="Discovery Familia USA" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Familia USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/90.ts
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="Discovery Family USA" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Family USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/91.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery ID HD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery ID HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/92.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery ID SD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery ID SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/93.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="Discovery ID USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Discovery ID USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/94.ts
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="Discovery Life USA" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Life USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/97.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery Theater HD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Theater HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/98.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery Theater SD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Theater SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/99.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery Turbo HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/100.ts
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Discovery Turbo SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/101.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery World HD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery World HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/32495.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Discovery World SD" tvg-logo="" group-title="Mundo y Aprendizaje",Discovery World SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156152.ts
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="Magnolia Network USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18544_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Magnolia Network USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/112.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="El Gourmet HD" tvg-logo="" group-title="Mundo y Aprendizaje",El Gourmet HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/115.ts
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="El Gourmet SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Mundo y Aprendizaje",El Gourmet SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/116.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Food Network HD" tvg-logo="" group-title="Mundo y Aprendizaje",Food Network HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156154.ts
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="Food Network SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Food Network SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/137.ts
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Food Network USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/138.ts
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="Garage Tv HD" tvg-logo="" group-title="Mundo y Aprendizaje",Garage Tv HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/187.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Mundo y Aprendizaje",HGTV USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/204.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="History 2 SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Mundo y Aprendizaje",History 2 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/205.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="History HD" tvg-logo="" group-title="Mundo y Aprendizaje",History HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/206.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="History SD" tvg-logo="" group-title="Mundo y Aprendizaje",History SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/207.ts
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="History USA" tvg-logo="" group-title="Mundo y Aprendizaje",History USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/208.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Home and Health HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Home and Health HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/210.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Home and Health SD" tvg-logo="" group-title="Mundo y Aprendizaje",Home and Health SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/211.ts
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="MavTv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61036_dark_360w_270h.png" group-title="Mundo y Aprendizaje",MavTv
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/224.ts
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Motor Trend USA SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Motor Trend USA SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/147077.ts
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Motor Trend USA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Motor Trend USA HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/228.ts
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="Nasa TV" tvg-logo="" group-title="Mundo y Aprendizaje",Nasa TV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/592.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Natgeo HD" tvg-logo="" group-title="Mundo y Aprendizaje",Natgeo HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/238.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="NatGeo SD" tvg-logo="" group-title="Mundo y Aprendizaje",NatGeo SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/241.ts
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="NatGeo USA" tvg-logo="" group-title="Mundo y Aprendizaje",NatGeo USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/242.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NatGeo Wild USA" tvg-logo="" group-title="Mundo y Aprendizaje",NatGeo Wild USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/244.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Outdoor Channel
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/269.ts
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="OutsideTV" tvg-logo="" group-title="Mundo y Aprendizaje",OutsideTV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/270.ts
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Science Channel USA" tvg-logo="" group-title="Mundo y Aprendizaje",Science Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/280.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Science HD" tvg-logo="" group-title="Mundo y Aprendizaje",Science HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156151.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Science SD" tvg-logo="" group-title="Mundo y Aprendizaje",Science SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/281.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="Sportsman USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="Mundo y Aprendizaje",Sportsman USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/287.ts
+#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel Channel USA" tvg-logo="" group-title="Mundo y Aprendizaje",Travel Channel USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/327.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fishing USA" tvg-logo="" group-title="Mundo y Aprendizaje",World Fishing USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/371.ts
+#EXTINF:-1 tvg-id="I464.113380.schedulesdirect.org" tvg-name="Abc News Live" tvg-logo="" group-title="Noticias",Abc News Live
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/538.ts
+#EXTINF:-1 tvg-id="abc10wplg.us" tvg-name="Abc10 Miami" tvg-logo="" group-title="Noticias",Abc10 Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/3.ts
+#EXTINF:-1 tvg-id="abc13ktrktv.us" tvg-name="Abc13 Houston" tvg-logo="" group-title="Noticias",Abc13 Houston
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/4.ts
+#EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="Abc7 Los Angeles" tvg-logo="" group-title="Noticias",Abc7 Los Angeles
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/5.ts
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC7 NewYork" tvg-logo="" group-title="Noticias",ABC7 NewYork
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/6.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Azteca Uno SD" tvg-logo="" group-title="Noticias",Azteca Uno SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/25.ts
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Noticias",BBC America
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/540.ts
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC World News" tvg-logo="" group-title="Noticias",BBC World News
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/28.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Bloomberg HD" tvg-logo="" group-title="Noticias",Bloomberg HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/40.ts
+#EXTINF:-1 tvg-id="cbs21ktxa.us" tvg-name="Cbs 11 Dallas" tvg-logo="" group-title="Noticias",Cbs 11 Dallas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/54.ts
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="Cbs 2 Chicago" tvg-logo="" group-title="Noticias",Cbs 2 Chicago
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/55.ts
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="Cbs 2 NewYork" tvg-logo="" group-title="Noticias",Cbs 2 NewYork
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/56.ts
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="Cbs 4 Miami" tvg-logo="" group-title="Noticias",Cbs 4 Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/57.ts
+#EXTINF:-1 tvg-id="cbs5kpix.us" tvg-name="Cbs 5 San Francisco" tvg-logo="" group-title="Noticias",Cbs 5 San Francisco
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/58.ts
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="Cheddar Business" tvg-logo="" group-title="Noticias",Cheddar Business
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/545.ts
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Noticias",CNBC
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/69.ts
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26849_dark_360w_270h.png" group-title="Noticias",CNBC World
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/559.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Noticias",CNN
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/534.ts
+#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="CNN Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Noticias",CNN Español
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/70.ts
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10146_dark_360w_270h.png" group-title="Noticias",CNN Internacional
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/71.ts
+#EXTINF:-1 tvg-id="fox11kttv.us" tvg-name="Fox 11 Los Angeles" tvg-logo="" group-title="Noticias",Fox 11 Los Angeles
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/142.ts
+#EXTINF:-1 tvg-id="ktvuplus.us" tvg-name="Fox 2 San Francisco" tvg-logo="" group-title="Noticias",Fox 2 San Francisco
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/143.ts
+#EXTINF:-1 tvg-id="fox32wfld.us" tvg-name="Fox 32 Chicago" tvg-logo="" group-title="Noticias",Fox 32 Chicago
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/144.ts
+#EXTINF:-1 tvg-id="foxkdfw.us" tvg-name="Fox 4 Dallas" tvg-logo="" group-title="Noticias",Fox 4 Dallas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/145.ts
+#EXTINF:-1 tvg-id="foxkvvu.us" tvg-name="Fox 5 Las Vegas" tvg-logo="" group-title="Noticias",Fox 5 Las Vegas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/146.ts
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="Fox 5 NewYork" tvg-logo="" group-title="Noticias",Fox 5 NewYork
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/147.ts
+#EXTINF:-1 tvg-id="foxwttg.us" tvg-name="Fox 5 Washington" tvg-logo="" group-title="Noticias",Fox 5 Washington
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/148.ts
+#EXTINF:-1 tvg-id="fox7wsvn.us" tvg-name="Fox 7 Miami" tvg-logo="" group-title="Noticias",Fox 7 Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/149.ts
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="Noticias",Fox Business
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/535.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News" tvg-logo="" group-title="Noticias",Fox News
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/532.ts
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Noticias",HLN USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/209.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Milenio TV HD" tvg-logo="" group-title="Noticias",Milenio TV HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/226.ts
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="Msnbc" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="Noticias",Msnbc
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/542.ts
+#EXTINF:-1 tvg-id="nbcksnv.us" tvg-name="Nbc 3 Las Vegas" tvg-logo="" group-title="Noticias",Nbc 3 Las Vegas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/246.ts
+#EXTINF:-1 tvg-id="I393.19568.schedulesdirect.org" tvg-name="NBC 4 Los Angeles" tvg-logo="" group-title="Noticias",NBC 4 Los Angeles
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/247.ts
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="NBC 4 NewYork" tvg-logo="" group-title="Noticias",NBC 4 NewYork
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/248.ts
+#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="Nbc 5 Chicago" tvg-logo="" group-title="Noticias",Nbc 5 Chicago
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/249.ts
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="Nbc 5 Dallas" tvg-logo="" group-title="Noticias",Nbc 5 Dallas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/250.ts
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="Nbc 6 Miami" tvg-logo="" group-title="Noticias",Nbc 6 Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/251.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tve HD" tvg-logo="" group-title="Noticias",Tve HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/338.ts
+#EXTINF:-1 tvg-id="nbcwoai.us" tvg-name="Nbc 4 San Santonio" tvg-logo="" group-title="Noticias",Nbc 4 San Santonio
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/172672.ts
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="Azteca Cinema" tvg-logo="" group-title="Peliculas",Azteca Cinema
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/23.ts
+#EXTINF:-1 tvg-id="cinesony.us" tvg-name="Cine Sony USA" tvg-logo="" group-title="Peliculas",Cine Sony USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/62.ts
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="Cinecanal HD" tvg-logo="" group-title="Peliculas",Cinecanal HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/63.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Cinecanal SD" tvg-logo="" group-title="Peliculas",Cinecanal SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/64.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Cinemax HD" tvg-logo="" group-title="Peliculas",Cinemax HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/65.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Cinemax SD" tvg-logo="" group-title="Peliculas",Cinemax SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/66.ts
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Peliculas",Cinemax USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/67.ts
+#EXTINF:-1 tvg-id="comet.us" tvg-name="Comet TV USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="Peliculas",Comet TV USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/629.ts
+#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="Cozi TV" tvg-logo="" group-title="Peliculas",Cozi TV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12342.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="De Pelicula Plus HD" tvg-logo="" group-title="Peliculas",De Pelicula Plus HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/77.ts
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="De Pelicula Plus SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="Peliculas",De Pelicula Plus SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/78.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="De Pelicula SD" tvg-logo="" group-title="Peliculas",De Pelicula SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/79.ts
+#EXTINF:-1 tvg-id="epix.us" tvg-name="Epix USA" tvg-logo="" group-title="Peliculas",Epix USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/119.ts
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="FX Movies USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png" group-title="Peliculas",FX Movies USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/180.ts
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="Hallmark Movies USA" tvg-logo="" group-title="Peliculas",Hallmark Movies USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/196.ts
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="Hbo 1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Peliculas",Hbo 1 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/198.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="Hbo 1 USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Peliculas",Hbo 1 USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/526.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Hbo 2 HD" tvg-logo="" group-title="Peliculas",Hbo 2 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/199.ts
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="Hbo 2 USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Peliculas",Hbo 2 USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/527.ts
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="Hbo Comedy USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Peliculas",Hbo Comedy USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/533.ts
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="Hbo Family SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Peliculas",Hbo Family SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156156.ts
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="Hbo Family USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Peliculas",Hbo Family USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/525.ts
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="Hbo Mundi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="Peliculas",Hbo Mundi
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156158.ts
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="Hbo Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Peliculas",Hbo Plus
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/201.ts
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Peliculas",HBO Signature
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/202.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="Hbo Signature USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Peliculas",Hbo Signature USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/528.ts
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="Hbo Zone USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Peliculas",Hbo Zone USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/531.ts
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="Moremax USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Peliculas",Moremax USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/562.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Paramount HD" tvg-logo="" group-title="Peliculas",Paramount HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/152954.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Paramount SD" tvg-logo="" group-title="Peliculas",Paramount SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/152955.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="Paramount USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Peliculas",Paramount USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/549.ts
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="Pop USA" tvg-logo="" group-title="Peliculas",Pop USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/292.ts
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Peliculas",SHOWTIME 2
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/510.ts
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Peliculas",Showtime
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/291.ts
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Peliculas",Showtime Extreme
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/282.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Latino" tvg-logo="" group-title="Peliculas",Showtime Latino
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/283.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="Peliculas",Starz Cinema
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/519.ts
+#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Peliculas",Starz
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/517.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="Starz Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="Peliculas",Starz Edge
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/516.ts
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="Starz Encore Suspense" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14766_dark_360w_270h.png" group-title="Peliculas",Starz Encore Suspense
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/522.ts
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Western" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102906_dark_360w_270h.png" group-title="Peliculas",Starz Encore Western
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/523.ts
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="Starz In Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16833_dark_360w_270h.png" group-title="Peliculas",Starz In Black
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/515.ts
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="Starz Kids & Family" tvg-logo="" group-title="Peliculas",Starz Kids & Family
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/514.ts
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-name="TCM USA" tvg-logo="" group-title="Peliculas",TCM USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/548.ts
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Filmex" tvg-logo="" group-title="Peliculas",Filmex
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/179543.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enlace TV SD" tvg-logo="" group-title="Religion",Enlace TV SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/118.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Azteca 7 HD" tvg-logo="" group-title="Tv Local y Nacional",Azteca 7 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/21.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Azteca 7 SD" tvg-logo="" group-title="Tv Local y Nacional",Azteca 7 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/22.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Azteca Uno HD" tvg-logo="" group-title="Tv Local y Nacional",Azteca Uno HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/24.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Canal 5 HD" tvg-logo="" group-title="Tv Local y Nacional",Canal 5 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/46.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Canal 5 SD" tvg-logo="" group-title="Tv Local y Nacional",Canal 5 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/47.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Canal Once HD" tvg-logo="" group-title="Tv Local y Nacional",Canal Once HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/48.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Canal Once SD" tvg-logo="" group-title="Tv Local y Nacional",Canal Once SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/49.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Foro tv HD" tvg-logo="" group-title="Tv Local y Nacional",Foro tv HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/141.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Foro TV SD" tvg-logo="" group-title="Tv Local y Nacional",Foro TV SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12003.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="GalaTv HD" tvg-logo="" group-title="Tv Local y Nacional",GalaTv HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/184.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="GalaTv SD" tvg-logo="" group-title="Tv Local y Nacional",GalaTv SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/185.ts
+#EXTINF:-1 tvg-id="I404.68367.schedulesdirect.org" tvg-name="Galavision Dallas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/52_es.png" group-title="Tv Local y Nacional",Galavision Dallas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12066.ts
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="Galavision Este USA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/67_es.png" group-title="Tv Local y Nacional",Galavision Este USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/186.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision Houston" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/55_es.png" group-title="Tv Local y Nacional",Galavision Houston
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12065.ts
+#EXTINF:-1 tvg-id="I273.71021.schedulesdirect.org" tvg-name="Galavision Las Vegas" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/57_es.png" group-title="Tv Local y Nacional",Galavision Las Vegas
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12063.ts
+#EXTINF:-1 tvg-id="I404.68367.schedulesdirect.org" tvg-name="Galavision Los Angeles" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/56_es.png" group-title="Tv Local y Nacional",Galavision Los Angeles
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12064.ts
+#EXTINF:-1 tvg-id="I404.10222.schedulesdirect.org" tvg-name="Galavision Miami" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/58_es.png" group-title="Tv Local y Nacional",Galavision Miami
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12062.ts
+#EXTINF:-1 tvg-id="I404.68367.schedulesdirect.org" tvg-name="Galavision NY USA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/59_es.png" group-title="Tv Local y Nacional",Galavision NY USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12061.ts
+#EXTINF:-1 tvg-id="GalavisionWest.us" tvg-name="Galavision Oeste USA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/67_es.png" group-title="Tv Local y Nacional",Galavision Oeste USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12058.ts
+#EXTINF:-1 tvg-id="I833.10222.schedulesdirect.org" tvg-name="Galavision Phoenix" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/61_es.png" group-title="Tv Local y Nacional",Galavision Phoenix
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/614.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision San Antonio USA" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/65_es.png" group-title="Tv Local y Nacional",Galavision San Antonio USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12060.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galavision San Francisco" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/66_es.png" group-title="Tv Local y Nacional",Galavision San Francisco
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/12059.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Imagen Tv HD" tvg-logo="" group-title="Tv Local y Nacional",Imagen Tv HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/215.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Imagen Tv SD" tvg-logo="" group-title="Tv Local y Nacional",Imagen Tv SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/216.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Las Estrellas HD" tvg-logo="" group-title="Tv Local y Nacional",Las Estrellas HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/217.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Las Estrellas SD" tvg-logo="" group-title="Tv Local y Nacional",Las Estrellas SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/218.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Multimedios HD" tvg-logo="" group-title="Tv Local y Nacional",Multimedios HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/236.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Multimedios SD" tvg-logo="" group-title="Tv Local y Nacional",Multimedios SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/237.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Telefórmula" tvg-logo="" group-title="Tv Local y Nacional",Telefórmula
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/299.ts
+#EXTINF:-1 tvg-id="canalmonterreyxefb.mx" tvg-name="Televisa MTY HD" tvg-logo="" group-title="Tv Local y Nacional",Televisa MTY HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/314.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tvp Mazatlan" tvg-logo="" group-title="Tv Local y Nacional",Tvp Mazatlan
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/179544.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tvp Culiacan" tvg-logo="" group-title="Tv Local y Nacional",Tvp Culiacan
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/56311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tvp Los Mochis" tvg-logo="" group-title="Tv Local y Nacional",Tvp Los Mochis
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/56312.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Bandamax HD" tvg-logo="" group-title="Video y Radio",Bandamax HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/622.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="Bandamax SD" tvg-logo="" group-title="Video y Radio",Bandamax SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/621.ts
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="Bet Jams USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30419_dark_360w_270h.png" group-title="Video y Radio",Bet Jams USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/39.ts
+#EXTINF:-1 tvg-id="I736.110785.schedulesdirect.org" tvg-name="HTV" tvg-logo="" group-title="Video y Radio",HTV
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/213.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Video y Radio",MTV HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/230.ts
+#EXTINF:-1 tvg-id="I727.24214.schedulesdirect.org" tvg-name="MTV Hits" tvg-logo="" group-title="Video y Radio",MTV Hits
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/231.ts
+#EXTINF:-1 tvg-id="I726.12712.schedulesdirect.org" tvg-name="MTV Live latino" tvg-logo="" group-title="Video y Radio",MTV Live latino
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/232.ts
+#EXTINF:-1 tvg-id="I726.12712.schedulesdirect.org" tvg-name="MTV Live USA" tvg-logo="" group-title="Video y Radio",MTV Live USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/233.ts
+#EXTINF:-1 tvg-id="I100.10021.schedulesdirect.org" tvg-name="MTV SD" tvg-logo="" group-title="Video y Radio",MTV SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/234.ts
+#EXTINF:-1 tvg-id="mtvu.us" tvg-name="Mtv U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44228_dark_360w_270h.png" group-title="Video y Radio",Mtv U
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/235.ts
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV Usa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Video y Radio",MTV Usa
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/541.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Music" tvg-logo="" group-title="Video y Radio",Nick Music
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/266.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radiola" tvg-logo="" group-title="Video y Radio",Radiola
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/590.ts
+#EXTINF:-1 tvg-id="telehithd.mx" tvg-name="Telehit HD" tvg-logo="" group-title="Video y Radio",Telehit HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156146.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleHit Plus HD" tvg-logo="" group-title="Video y Radio",TeleHit Plus HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/300.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleHit Plus SD" tvg-logo="" group-title="Video y Radio",TeleHit Plus SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/301.ts
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="Telehit SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="Video y Radio",Telehit SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/156147.ts
+#EXTINF:-1 tvg-id="I738.32749.schedulesdirect.org" tvg-name="Teleritmo" tvg-logo="" group-title="Video y Radio",Teleritmo
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/597.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Latino" tvg-logo="" group-title="Video y Radio",Top Latino
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/600.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 Classics" tvg-logo="" group-title="Video y Radio",VH1 Classics
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/358.ts
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="VH1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42567_dark_360w_270h.png" group-title="Video y Radio",VH1 HD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/359.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 Mega Hits" tvg-logo="" group-title="Video y Radio",VH1 Mega Hits
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/360.ts
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="VH1 SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42567_dark_360w_270h.png" group-title="Video y Radio",VH1 SD
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/361.ts
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Video y Radio",VH1 USA
+http://live.superteve.com:33527/live/ggrajales/MBXA3NV2/362.ts
