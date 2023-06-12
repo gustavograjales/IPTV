@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="http://m3u4u.com/epg/5g28neeerguw3587nzpe"
 #EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-name="Adult Swim | Rick and Morty" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="24/7",Adult Swim | Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-name="Adult Swim | Robot Chicken" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="24/7",Adult Swim | Robot Chicken
@@ -161,7 +161,7 @@ https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="Deportes",Adventure Sports TV
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN Sports Xtra " tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Deportes",beIN Sports Xtra 
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN Sports Xtra" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Deportes",beIN Sports Xtra
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 #EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-name="BEK TV Sports West" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Deportes",BEK TV Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -1573,7 +1573,7 @@ https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ViXParejas.mx" tvg-name="ViX Parejas" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Vix",ViX Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-name="1+1 Спорт " tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Pendiente",1+1 Спорт 
+#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-name="1+1 Спорт" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Pendiente",1+1 Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VinxTV.es" tvg-name="Vinx TV (1080p)" tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="Pendiente",Vinx TV (1080p)
 https://vinx.radiocast.es:5443/LiveApp/streams/vinxtv.m3u8
@@ -1591,13 +1591,13 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="CDR.cl" tvg-name="CDR (720p)" tvg-logo="https://i.imgur.com/xevZNi6.png" group-title="Pendiente",CDR (720p)
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Pendiente",Cinemax East 
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Pendiente",Cinemax East
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-name="CnAr Deportes" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Pendiente",CnAr Deportes
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 tvg-id="CRTV.cl" tvg-name="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Pendiente",CRTV
 https://vdo.panelstreaming.live:3540/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="D13.cl" tvg-name="D13 " tvg-logo="https://i.imgur.com/CmVZkbS.png" group-title="Pendiente",D13 
+#EXTINF:-1 tvg-id="D13.cl" tvg-name="D13" tvg-logo="https://i.imgur.com/CmVZkbS.png" group-title="Pendiente",D13
 https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DSTV.hu" tvg-name="DSTV (720p)" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Pendiente",DSTV (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
